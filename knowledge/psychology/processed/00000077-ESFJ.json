@@ -1,0 +1,314 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "00000077-ESFJ",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11079149332586932201,
+    "filename": "00000077-ESFJ.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 284.57,
+            "t": 783.9060000000001,
+            "r": 331.09,
+            "b": 768.7658181818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "ESFJ",
+      "text": "ESFJ",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 170.42,
+            "t": 743.28112,
+            "r": 442.81312,
+            "b": 730.68824839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Extravertit, Senzorial, Afectiv, Judec\u0103tor",
+      "text": "Extravertit, Senzorial, Afectiv, Judec\u0103tor",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 715.636,
+            "r": 556.0839999999998,
+            "b": 466.04286187845304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1532
+          ]
+        }
+      ],
+      "orig": "ESFJ-ii sunt motiva\u0163i s\u0103 ajute al\u0163i oameni \u00een mod real, practic, prin ac\u0163iune \u015fi cooperare direct\u0103. Sunt responsabili, prieteno\u015fi \u015fi \u00een\u0163eleg\u0103tori. Dearece acord\u0103 o importan\u0163\u0103 at\u00e2t de mare rela\u0163iilor lor cu al\u0163i oameni, ESFJ-ii tind s\u0103 fie populari,  amabili,  doritori  s\u0103  plac\u0103  \u015fi  vorb\u0103re\u0163i.  Au  nevoie  de  rela\u0163ii  armonioase  cu  al\u0163ii  \u015fi muncesc  din  greu  pentru  a  le  dob\u00e2ndi  \u015fi  a  le  men\u0163ine.  De  fapt,  obi\u015fnuiesc  frecvent  s\u0103 idealizeze  ceea  ce  admir\u0103.  ESFJ-ii  au  nevoie  s\u0103  fie  aprecia\u0163i  pentru  ei  \u00een\u015fi\u015fi  \u015fi  pentru serviciile  lor;  de  aceea,  sunt  foarte  sensibili  la  indiferen\u0163\u0103  sau  la  critici.  De  obicei,  exprim\u0103 opinii ferme, sunt hot\u0103r\u00e2\u0163i \u015fi le place ca lucrurile s\u0103 fie bine stabilite. Practici \u015fi reali\u015fti, ESFJ-ii sunt, \u00een general, prozaici \u015fi organiza\u0163i. Ei sunt aten\u0163i la fapte \u015fi detalii  importante,  \u015fi  le  reamintesc;  totodat\u0103  le  place  ca  \u015fi  ceilal\u0163i  s\u0103  fie  siguri  pe  ac\u0163iunile proprii. \u00ce\u015fi bazeaz\u0103 planurile \u015fi opiniile pe experien\u0163a personal\u0103, ori pe cea a unei persoane \u00een care au \u00eencredere. Sunt con\u015ftien\u0163i de lumea material\u0103 din jur, se implic\u0103 \u00een ea \u015fi se simt bine c\u00e2nd sunt activi \u015fi productivi. Con\u015ftiincio\u015fi \u015fi tradi\u0163ionali,  ESFJ-ii au un puternic sim\u0163 al datoriei \u015fi al angajamentului. \u015fi  tind  s\u0103  fie  membri  activi  \u015fi  cooperan\u0163i  ai  comitetelor  \u015fi organiza\u0163iilor. Leg\u0103turile lor sociale sunt importante \u015fi bine men\u0163inute. Adesea, se str\u0103duie \u00een mod deosebit s\u0103 fac\u0103 ceva util \u015fi pl\u0103cut pentru altcineva \u015fi le place mai ales s\u0103 se implice",
+      "text": "ESFJ-ii sunt motiva\u0163i s\u0103 ajute al\u0163i oameni \u00een mod real, practic, prin ac\u0163iune \u015fi cooperare direct\u0103. Sunt responsabili, prieteno\u015fi \u015fi \u00een\u0163eleg\u0103tori. Dearece acord\u0103 o importan\u0163\u0103 at\u00e2t de mare rela\u0163iilor lor cu al\u0163i oameni, ESFJ-ii tind s\u0103 fie populari,  amabili,  doritori  s\u0103  plac\u0103  \u015fi  vorb\u0103re\u0163i.  Au  nevoie  de  rela\u0163ii  armonioase  cu  al\u0163ii  \u015fi muncesc  din  greu  pentru  a  le  dob\u00e2ndi  \u015fi  a  le  men\u0163ine.  De  fapt,  obi\u015fnuiesc  frecvent  s\u0103 idealizeze  ceea  ce  admir\u0103.  ESFJ-ii  au  nevoie  s\u0103  fie  aprecia\u0163i  pentru  ei  \u00een\u015fi\u015fi  \u015fi  pentru serviciile  lor;  de  aceea,  sunt  foarte  sensibili  la  indiferen\u0163\u0103  sau  la  critici.  De  obicei,  exprim\u0103 opinii ferme, sunt hot\u0103r\u00e2\u0163i \u015fi le place ca lucrurile s\u0103 fie bine stabilite. Practici \u015fi reali\u015fti, ESFJ-ii sunt, \u00een general, prozaici \u015fi organiza\u0163i. Ei sunt aten\u0163i la fapte \u015fi detalii  importante,  \u015fi  le  reamintesc;  totodat\u0103  le  place  ca  \u015fi  ceilal\u0163i  s\u0103  fie  siguri  pe  ac\u0163iunile proprii. \u00ce\u015fi bazeaz\u0103 planurile \u015fi opiniile pe experien\u0163a personal\u0103, ori pe cea a unei persoane \u00een care au \u00eencredere. Sunt con\u015ftien\u0163i de lumea material\u0103 din jur, se implic\u0103 \u00een ea \u015fi se simt bine c\u00e2nd sunt activi \u015fi productivi. Con\u015ftiincio\u015fi \u015fi tradi\u0163ionali,  ESFJ-ii au un puternic sim\u0163 al datoriei \u015fi al angajamentului. \u015fi  tind  s\u0103  fie  membri  activi  \u015fi  cooperan\u0163i  ai  comitetelor  \u015fi organiza\u0163iilor. Leg\u0103turile lor sociale sunt importante \u015fi bine men\u0163inute. Adesea, se str\u0103duie \u00een mod deosebit s\u0103 fac\u0103 ceva util \u015fi pl\u0103cut pentru altcineva \u015fi le place mai ales s\u0103 se implice"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 504.406,
+            "r": 291.50600000000003,
+            "b": 452.22286187845305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Cultiv\u0103  institu\u0163iile stabilite total \u00een momentele grele sau \u00een cele festive.",
+      "text": "Cultiv\u0103  institu\u0163iile stabilite total \u00een momentele grele sau \u00een cele festive."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 434.83112,
+            "r": 223.31312,
+            "b": 422.2608365082873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Posibile puncte nevralgice",
+      "text": "Posibile puncte nevralgice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 413.306,
+            "r": 556.0720000000001,
+            "b": 333.54286187845304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            564
+          ]
+        }
+      ],
+      "orig": "\u00centruc\u00e2t  apreciaz\u0103  at\u00e2t  de  mult  armonia,  ESFJ-ii  prefer\u0103  s\u0103  evite  conflictele,  \u00een  loc  s\u0103 abordeze \u00een mod direct unele probleme. Adesea, ei acord\u0103 prea mult\u0103 importan\u0163\u0103 \u015fi valoare oponiilor \u015fi sentimentelor persoanelor la care \u0163in. \u00cen momente \u00eencordate ori dificile, pot deveni orbi fa\u0163\u0103 de realitatea situa\u0163iei. Trebuie s\u0103 \u00eenve\u0163e s\u0103 abordeze imediat st\u0103rile conflictuale, \u00een mod  deschis,  \u00eencrez\u00e2ndu-se  \u00een  faptul  c\u0103  sensibilitatea  lor  \u00eenn\u0103scut\u0103  fa\u0163\u0103  de  sentimentele altora le va oferi tactul necesar chiar \u015fi \u00een situa\u0163iile cele mai dificile.",
+      "text": "\u00centruc\u00e2t  apreciaz\u0103  at\u00e2t  de  mult  armonia,  ESFJ-ii  prefer\u0103  s\u0103  evite  conflictele,  \u00een  loc  s\u0103 abordeze \u00een mod direct unele probleme. Adesea, ei acord\u0103 prea mult\u0103 importan\u0163\u0103 \u015fi valoare oponiilor \u015fi sentimentelor persoanelor la care \u0163in. \u00cen momente \u00eencordate ori dificile, pot deveni orbi fa\u0163\u0103 de realitatea situa\u0163iei. Trebuie s\u0103 \u00eenve\u0163e s\u0103 abordeze imediat st\u0103rile conflictuale, \u00een mod  deschis,  \u00eencrez\u00e2ndu-se  \u00een  faptul  c\u0103  sensibilitatea  lor  \u00eenn\u0103scut\u0103  fa\u0163\u0103  de  sentimentele altora le va oferi tactul necesar chiar \u015fi \u00een situa\u0163iile cele mai dificile."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 324.506,
+            "r": 556.0600000000001,
+            "b": 230.912861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            593
+          ]
+        }
+      ],
+      "orig": "Adesea,  ESFJ-ii  trec  cu  vederea  propriile  lor  trebuin\u0163e,  din  cauza  dorin\u0163ei  de  a  face pl\u0103cere altora sau de a-i ajuta pe ace\u015ftia. Le vine greu s\u0103 spun\u0103 nu, fiindc\u0103 nu vor s\u0103 ri\u015fte ofens\u00e2nd sau dezam\u0103gind pe cineva. De obicei, au dificult\u0103\u0163i \u00een a face sau a accepta critici constructive, tocmai din cauz\u0103 c\u0103 iau lucrurile la modul foarte personal. Pot deveni pesimi\u015fti \u015fi posaci, atunci c\u00e2nd nu \u00eentrev\u0103d modalit\u0103\u0163i de a opera schimb\u0103ri \u00een via\u0163a lor. Retragerea cu un pas din fa\u0163a problemelor, \u00een scopul ob\u0163inerii unei imagini obiective, \u00eei ajut\u0103, de obicei, s\u0103 ob\u0163in\u0103 un suflu nou.",
+      "text": "Adesea,  ESFJ-ii  trec  cu  vederea  propriile  lor  trebuin\u0163e,  din  cauza  dorin\u0163ei  de  a  face pl\u0103cere altora sau de a-i ajuta pe ace\u015ftia. Le vine greu s\u0103 spun\u0103 nu, fiindc\u0103 nu vor s\u0103 ri\u015fte ofens\u00e2nd sau dezam\u0103gind pe cineva. De obicei, au dificult\u0103\u0163i \u00een a face sau a accepta critici constructive, tocmai din cauz\u0103 c\u0103 iau lucrurile la modul foarte personal. Pot deveni pesimi\u015fti \u015fi posaci, atunci c\u00e2nd nu \u00eentrev\u0103d modalit\u0103\u0163i de a opera schimb\u0103ri \u00een via\u0163a lor. Retragerea cu un pas din fa\u0163a problemelor, \u00een scopul ob\u0163inerii unei imagini obiective, \u00eei ajut\u0103, de obicei, s\u0103 ob\u0163in\u0103 un suflu nou."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 221.87599999999998,
+            "r": 555.8860000000002,
+            "b": 183.512861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            264
+          ]
+        }
+      ],
+      "orig": "\u00cen  eforturile  lor  de  a-i  ajuta  pe  al\u0163ii,  ESFJ-ii  \u00ee\u015fi  exprim\u0103  uneori  opiniile  \u00een  modalit\u0103\u0163i autoritare,  dominatoare.  Este  preferabil  s\u0103  a\u015ftepte  pentru  a  vedea  dac\u0103  ajutorul  sau sugestiile lor sunt realmente dorite, \u015fi abia apoi s\u0103 le ofere.",
+      "text": "\u00cen  eforturile  lor  de  a-i  ajuta  pe  al\u0163ii,  ESFJ-ii  \u00ee\u015fi  exprim\u0103  uneori  opiniile  \u00een  modalit\u0103\u0163i autoritare,  dominatoare.  Este  preferabil  s\u0103  a\u015ftepte  pentru  a  vedea  dac\u0103  ajutorul  sau sugestiile lor sunt realmente dorite, \u015fi abia apoi s\u0103 le ofere."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 174.476,
+            "r": 556.144,
+            "b": 108.61286187845303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            437
+          ]
+        }
+      ],
+      "orig": "Frecvent,  ESFJ-ii  iau  decizii  prea  rapid,  \u00eenainte  de  a  str\u00e2nge  toate  faptele  mai  pu\u0163in evidente \u015fi de a se g\u00e2ndi la implica\u0163iile ac\u0163iunilor lor. Nu obi\u015fnuiesc s\u0103 caute modalit\u0103\u0163i noi sau diferite de a face lucrurile, motiv pentru care pot p\u0103rea rigizi. Am\u00e2narea judec\u0103\u0163ilor, cu scopul de a r\u0103m\u00e2ne deschi\u015fi fa\u0163\u0103 de abord\u0103ri noi ale problemelor, le va oferi o baz\u0103 mai bun\u0103 de informa\u0163ii \u015fi-i va ajuta s\u0103 ia hot\u0103r\u00e2ri mai bune.",
+      "text": "Frecvent,  ESFJ-ii  iau  decizii  prea  rapid,  \u00eenainte  de  a  str\u00e2nge  toate  faptele  mai  pu\u0163in evidente \u015fi de a se g\u00e2ndi la implica\u0163iile ac\u0163iunilor lor. Nu obi\u015fnuiesc s\u0103 caute modalit\u0103\u0163i noi sau diferite de a face lucrurile, motiv pentru care pot p\u0103rea rigizi. Am\u00e2narea judec\u0103\u0163ilor, cu scopul de a r\u0103m\u00e2ne deschi\u015fi fa\u0163\u0103 de abord\u0103ri noi ale problemelor, le va oferi o baz\u0103 mai bun\u0103 de informa\u0163ii \u015fi-i va ajuta s\u0103 ia hot\u0103r\u00e2ri mai bune."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.32,
+        "height": 842.04
+      },
+      "page_no": 1
+    }
+  }
+}

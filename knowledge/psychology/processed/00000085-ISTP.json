@@ -1,0 +1,314 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "00000085-ISTP",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5351975189989290529,
+    "filename": "00000085-ISTP.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 289.61,
+            "t": 740.466,
+            "r": 334.07,
+            "b": 725.3258181818181,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "ISTP",
+      "text": "ISTP",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 177.02,
+            "t": 691.5611200000001,
+            "r": 453.25312,
+            "b": 678.96824839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Introvertit, Senzorial, G\u00e2nditor, Perceptiv",
+      "text": "Introvertit, Senzorial, G\u00e2nditor, Perceptiv",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.88,
+            "t": 659.116,
+            "r": 572.92,
+            "b": 606.9528618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "Fiind analitici , ISTP-ii sunt extrem de interesa\u0163i de principiile impersonale, esen\u0163iale. Ei de\u0163in o cunoa\u015ftere \u00eenn\u0103scut\u0103 a felului \u00een care func\u0163ioneaz\u0103 obiectele mecanice \u015fi, de obicei, se pricep s\u0103 utilizeze uneltele \u015fi s\u0103 lucreze manual. Tind s\u0103 ia decizii logice \u015fi private, afirm\u00e2nd lucrurile limpede \u015fi direct, exact a\u015fa cum le v\u0103d.",
+      "text": "Fiind analitici , ISTP-ii sunt extrem de interesa\u0163i de principiile impersonale, esen\u0163iale. Ei de\u0163in o cunoa\u015ftere \u00eenn\u0103scut\u0103 a felului \u00een care func\u0163ioneaz\u0103 obiectele mecanice \u015fi, de obicei, se pricep s\u0103 utilizeze uneltele \u015fi s\u0103 lucreze manual. Tind s\u0103 ia decizii logice \u015fi private, afirm\u00e2nd lucrurile limpede \u015fi direct, exact a\u015fa cum le v\u0103d."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.88,
+            "t": 600.9159999999999,
+            "r": 572.956,
+            "b": 534.9228618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            421
+          ]
+        }
+      ],
+      "orig": "Curio\u015fi  \u015fi  buni  observatori,  ISTP-ii  se  las\u0103  de  obicei  convin\u015fi  doar  de  faptele  dovedite, demne de \u00eencredere. Ei au un mare respect fa\u0163\u0103 de fapte \u015fi pot fi veritabile depozite de informa\u0163ii despre  lucrurile  pe  care  le  cunosc  \u015fi  le  \u00een\u0163eleg  bine.  Fiind  reali\u015fti,  sunt  capabili  s\u0103  valorifice resursele disponibile, ceea ce face din ei ni\u015fte indivizi practici, cu un bun sim\u0163 al momentelor optime.",
+      "text": "Curio\u015fi  \u015fi  buni  observatori,  ISTP-ii  se  las\u0103  de  obicei  convin\u015fi  doar  de  faptele  dovedite, demne de \u00eencredere. Ei au un mare respect fa\u0163\u0103 de fapte \u015fi pot fi veritabile depozite de informa\u0163ii despre  lucrurile  pe  care  le  cunosc  \u015fi  le  \u00een\u0163eleg  bine.  Fiind  reali\u015fti,  sunt  capabili  s\u0103  valorifice resursele disponibile, ceea ce face din ei ni\u015fte indivizi practici, cu un bun sim\u0163 al momentelor optime."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.88,
+            "t": 528.886,
+            "r": 572.9200000000001,
+            "b": 462.92286187845303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            475
+          ]
+        }
+      ],
+      "orig": "T\u0103cu\u0163i \u015fi rezerva\u0163i, ISTP-ii tind s\u0103 par\u0103 reci \u015fi nep\u0103s\u0103tori \u015fi sunt predispu\u015fi la timiditate, cu excep\u0163ia  momentelor  c\u00e2nd  se  g\u0103sesc  printre  prieteni  buni.  Ei  \u00ee\u015fi  conduc  singuri  via\u0163a,  sunt egalitari\u015fti  \u015fi  corec\u0163i.  Au  predilec\u0163ia  de  a  ac\u0163iona  \u00een  mod  impulsiv,  de  aceea  sunt  destul  de adaptabili \u015fi r\u0103spund la problemele \u015fi provoc\u0103rile imediate. \u00centruc\u00e2t se bucur\u0103 de senza\u0163ii tari \u015fi de ac\u0163iune, le plac de obicei sporturile \u015fi via\u0163a \u00een aer liber.",
+      "text": "T\u0103cu\u0163i \u015fi rezerva\u0163i, ISTP-ii tind s\u0103 par\u0103 reci \u015fi nep\u0103s\u0103tori \u015fi sunt predispu\u015fi la timiditate, cu excep\u0163ia  momentelor  c\u00e2nd  se  g\u0103sesc  printre  prieteni  buni.  Ei  \u00ee\u015fi  conduc  singuri  via\u0163a,  sunt egalitari\u015fti  \u015fi  corec\u0163i.  Au  predilec\u0163ia  de  a  ac\u0163iona  \u00een  mod  impulsiv,  de  aceea  sunt  destul  de adaptabili \u015fi r\u0103spund la problemele \u015fi provoc\u0103rile imediate. \u00centruc\u00e2t se bucur\u0103 de senza\u0163ii tari \u015fi de ac\u0163iune, le plac de obicei sporturile \u015fi via\u0163a \u00een aer liber."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.88,
+            "t": 446.206,
+            "r": 199.556,
+            "b": 435.46216795580114,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Posibile puncte nevralgice",
+      "text": "Posibile puncte nevralgice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.88,
+            "t": 429.286,
+            "r": 572.956,
+            "b": 363.30286187845303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            456
+          ]
+        }
+      ],
+      "orig": "Deoarece judec\u0103\u0163ile lor sunt private, adesea ISTP-ii nu comunic\u0103 nici subiectele cele mai importante, ceea ce le '\u0163ine \u00een bezn\u0103' pe persoanele din via\u0163a lor. Au dificult\u0103\u0163i \u00een a \u00eemp\u0103r\u015fi cu al\u0163ii  reac\u015fiile,  sentimentele  \u015fi  grijile,  \u00eentruc\u00e2t  un  asemenea  lucru  li  se  pare  inutil.  Ei  trebuie  s\u0103 accepte faptul c\u0103 al\u0163ii doresc \u015fi au nevoie s\u0103 \u015ftie ce se petrece \u00een via\u0163a lor \u015fi s\u0103-\u015fi dea seama c\u0103 sunt singurii care pot oferi o explica\u0163ie exact\u0103.",
+      "text": "Deoarece judec\u0103\u0163ile lor sunt private, adesea ISTP-ii nu comunic\u0103 nici subiectele cele mai importante, ceea ce le '\u0163ine \u00een bezn\u0103' pe persoanele din via\u0163a lor. Au dificult\u0103\u0163i \u00een a \u00eemp\u0103r\u015fi cu al\u0163ii  reac\u015fiile,  sentimentele  \u015fi  grijile,  \u00eentruc\u00e2t  un  asemenea  lucru  li  se  pare  inutil.  Ei  trebuie  s\u0103 accepte faptul c\u0103 al\u0163ii doresc \u015fi au nevoie s\u0103 \u015ftie ce se petrece \u00een via\u0163a lor \u015fi s\u0103-\u015fi dea seama c\u0103 sunt singurii care pot oferi o explica\u0163ie exact\u0103."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.88,
+            "t": 357.26599999999996,
+            "r": 572.9440000000001,
+            "b": 291.30286187845303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            507
+          ]
+        }
+      ],
+      "orig": "ISTP-ii sunt at\u00e2t de reali\u015fti \u00eenc\u00e2t, de obicei, pot \u00eentrez\u0103ri modalit\u0103\u0163i de reducere a eforturilor \u00een  aproape  toate  proiectele.  Datorit\u0103  dorin\u0163ei  lor  de  a  beneficia  de  timp  liber,  adesea  nu  se preg\u0103tesc dec\u00e2t at\u00e2t c\u00e2t este strict necesar, sau nu mai duc un proiect p\u00e2n\u0103 la cap\u0103t. Aceasta \u00eei poate determina s\u0103 fie neglijen\u0163i. Construirea unui plan complet, cu toate etapele \u015fi detaliile, \u00eei va ajuta s\u0103-\u015fi controleze poten\u0163iala lips\u0103 de ini\u0163iativ\u0103, reduc\u00e2ndu-le totodat\u0103 aparenta indiferen\u0163\u0103.",
+      "text": "ISTP-ii sunt at\u00e2t de reali\u015fti \u00eenc\u00e2t, de obicei, pot \u00eentrez\u0103ri modalit\u0103\u0163i de reducere a eforturilor \u00een  aproape  toate  proiectele.  Datorit\u0103  dorin\u0163ei  lor  de  a  beneficia  de  timp  liber,  adesea  nu  se preg\u0103tesc dec\u00e2t at\u00e2t c\u00e2t este strict necesar, sau nu mai duc un proiect p\u00e2n\u0103 la cap\u0103t. Aceasta \u00eei poate determina s\u0103 fie neglijen\u0163i. Construirea unui plan complet, cu toate etapele \u015fi detaliile, \u00eei va ajuta s\u0103-\u015fi controleze poten\u0163iala lips\u0103 de ini\u0163iativ\u0103, reduc\u00e2ndu-le totodat\u0103 aparenta indiferen\u0163\u0103."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.88,
+            "t": 285.26599999999996,
+            "r": 572.956,
+            "b": 219.2728618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            508
+          ]
+        }
+      ],
+      "orig": "Deoarece  ISTP-ii  sunt  aten\u0163i  \u00een  permanen\u0163\u0103  la  noile  informa\u0163ii  senzoriale  \u015fi  prefer\u0103  s\u0103-\u015fi p\u0103streze  deschise  toate  op\u0163iunile,  ei  pot  fi  nehot\u0103r\u00e2\u0163i.  Nevoia  lor  de  stimulare  \u00eei  poate  face impruden\u0163i,  dar,  \u00een  acela\u015fi  timp,  \u00eei  poate  conduce  cu  u\u015furin\u0163\u0103  la  plictiseal\u0103.  Stabilirea  de obiective,  \u015fi  angajamentele  serioase  fa\u0163\u0103  de  persoane  \u015fi  de  lucruri  \u00eei  vor  ajuta  s\u0103  evite dezam\u0103girile \u015fi pericolele obi\u015fnuite ale unui asemenea mod de via\u0163\u0103 poten\u0163ial riscant.",
+      "text": "Deoarece  ISTP-ii  sunt  aten\u0163i  \u00een  permanen\u0163\u0103  la  noile  informa\u0163ii  senzoriale  \u015fi  prefer\u0103  s\u0103-\u015fi p\u0103streze  deschise  toate  op\u0163iunile,  ei  pot  fi  nehot\u0103r\u00e2\u0163i.  Nevoia  lor  de  stimulare  \u00eei  poate  face impruden\u0163i,  dar,  \u00een  acela\u015fi  timp,  \u00eei  poate  conduce  cu  u\u015furin\u0163\u0103  la  plictiseal\u0103.  Stabilirea  de obiective,  \u015fi  angajamentele  serioase  fa\u0163\u0103  de  persoane  \u015fi  de  lucruri  \u00eei  vor  ajuta  s\u0103  evite dezam\u0103girile \u015fi pericolele obi\u015fnuite ale unui asemenea mod de via\u0163\u0103 poten\u0163ial riscant."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

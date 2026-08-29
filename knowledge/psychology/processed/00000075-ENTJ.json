@@ -1,0 +1,344 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "00000075-ENTJ",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5901019475574976980,
+    "filename": "00000075-ENTJ.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 283.37,
+            "t": 747.8340000000001,
+            "r": 329.87,
+            "b": 732.336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "ENTJ",
+      "text": "ENTJ",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 181.34,
+            "t": 717.36112,
+            "r": 448.93312,
+            "b": 704.76824839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Extravertit, Intuitiv, G\u00e2nditor, Judec\u0103tor",
+      "text": "Extravertit, Intuitiv, G\u00e2nditor, Judec\u0103tor",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.4,
+            "t": 687.9159999999999,
+            "r": 578.8760000000005,
+            "b": 649.5528618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            281
+          ]
+        }
+      ],
+      "orig": "ENTJ-ii sunt conduc\u0103tori \u015fi factori de decizie. Ei v\u0103d cu u\u015furin\u0163\u0103 posibilit\u0103\u0163i \u00een toate direc\u0163iile \u015fi sunt  ferici\u0163i  s\u0103-i  dirijeze  pe  al\u0163ii  \u00een  ac\u0163iunea  de  transformare  a  viziunilor  lor  \u00een  realitate.  Sunt g\u00e2nditori ingenio\u015fi \u015fi excelen\u0163i planificatori pe termen lung.",
+      "text": "ENTJ-ii sunt conduc\u0103tori \u015fi factori de decizie. Ei v\u0103d cu u\u015furin\u0163\u0103 posibilit\u0103\u0163i \u00een toate direc\u0163iile \u015fi sunt  ferici\u0163i  s\u0103-i  dirijeze  pe  al\u0163ii  \u00een  ac\u0163iunea  de  transformare  a  viziunilor  lor  \u00een  realitate.  Sunt g\u00e2nditori ingenio\u015fi \u015fi excelen\u0163i planificatori pe termen lung."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.4,
+            "t": 646.516,
+            "r": 579.2860000000001,
+            "b": 552.9228618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            644
+          ]
+        }
+      ],
+      "orig": "Fiind  at\u00e2t  de  logici  \u015fi  analitici,  ENTJ-ii  se  pricep  de  obicei  la  orice  necesit\u0103  ra\u0163ionament  \u015fi inteligen\u0163\u0103.  Impulsiona\u0163i  s\u0103  ating\u0103  competen\u0163a  \u00een  tot  ceea  ce  fac,  sunt  capabili  s\u0103  depisteze  cu u\u015furin\u0163\u0103  imperfec\u0163iunile  unei  situa\u0163ii  \u015fi  modul  cum  acestea  pot  fi  ameliorate.  Ei  n\u0103zuiesc  spre perfec\u0163ionarea  sistemelor,  nu  spre  simpla  lor  acceptare  ca  atare.  ENTJ-ilor  le  place  s\u0103  rezolve probleme complexe, ei d\u00e2nd dovad\u0103 de o preocupare perpetu\u0103 de a st\u0103p\u00e2ni la perfec\u0163iune tot ceea ce-i atrage. ENTJ-ii apreciaz\u0103 mai mult dec\u00e2t orice adev\u0103rul \u015fi sunt convin\u015fi doar de ra\u0163ionamentele logice.",
+      "text": "Fiind  at\u00e2t  de  logici  \u015fi  analitici,  ENTJ-ii  se  pricep  de  obicei  la  orice  necesit\u0103  ra\u0163ionament  \u015fi inteligen\u0163\u0103.  Impulsiona\u0163i  s\u0103  ating\u0103  competen\u0163a  \u00een  tot  ceea  ce  fac,  sunt  capabili  s\u0103  depisteze  cu u\u015furin\u0163\u0103  imperfec\u0163iunile  unei  situa\u0163ii  \u015fi  modul  cum  acestea  pot  fi  ameliorate.  Ei  n\u0103zuiesc  spre perfec\u0163ionarea  sistemelor,  nu  spre  simpla  lor  acceptare  ca  atare.  ENTJ-ilor  le  place  s\u0103  rezolve probleme complexe, ei d\u00e2nd dovad\u0103 de o preocupare perpetu\u0103 de a st\u0103p\u00e2ni la perfec\u0163iune tot ceea ce-i atrage. ENTJ-ii apreciaz\u0103 mai mult dec\u00e2t orice adev\u0103rul \u015fi sunt convin\u015fi doar de ra\u0163ionamentele logice."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.4,
+            "t": 549.886,
+            "r": 579.274,
+            "b": 511.522861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "Doritori s\u0103-\u015fi sporeasc\u0103 permanent fondul de cuno\u015ftin\u0163e, ENTJ-ii sunt sistematici \u00een planificare \u015fi \u00een cercetarea nout\u0103\u0163ilor. Le place s\u0103 lucreze cu probleme teoretice complexe \u015fi sunt mult mai interesa\u0163i de consecin\u0163ele viitoare ale ac\u0163iunilor dec\u00e2t de starea prezent\u0103 a lucrurilor.",
+      "text": "Doritori s\u0103-\u015fi sporeasc\u0103 permanent fondul de cuno\u015ftin\u0163e, ENTJ-ii sunt sistematici \u00een planificare \u015fi \u00een cercetarea nout\u0103\u0163ilor. Le place s\u0103 lucreze cu probleme teoretice complexe \u015fi sunt mult mai interesa\u0163i de consecin\u0163ele viitoare ale ac\u0163iunilor dec\u00e2t de starea prezent\u0103 a lucrurilor."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.4,
+            "t": 508.486,
+            "r": 579.436,
+            "b": 442.52286187845306,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            475
+          ]
+        }
+      ],
+      "orig": "Lideri \u00eenn\u0103scu\u0163i, cu un stil sincer \u015fi cordial, ENTJ-ii tind s\u0103 preia conducerea oric\u0103rei situa\u0163ii \u00een care se afl\u0103. Sunt buni organizatori ai oamenilor, deoarece de\u0163in capacitatea de anticipare \u015fi de comunicare a viziunilor lor. Manifest\u0103 predilec\u0163ia s\u0103 tr\u0103iasc\u0103 dup\u0103 un set destul de rigid de reguli \u015fi se  a\u015fteapt\u0103  din  partea  altora  la  acela\u015fi  lucru.  Din  acest  motiv,  tind  s\u0103  fie  competitivi  \u015fi-i impulsioneaz\u0103 pe ceilal\u0163i la fel de tare cum fac cu ei \u00een\u015fi\u015fi.",
+      "text": "Lideri \u00eenn\u0103scu\u0163i, cu un stil sincer \u015fi cordial, ENTJ-ii tind s\u0103 preia conducerea oric\u0103rei situa\u0163ii \u00een care se afl\u0103. Sunt buni organizatori ai oamenilor, deoarece de\u0163in capacitatea de anticipare \u015fi de comunicare a viziunilor lor. Manifest\u0103 predilec\u0163ia s\u0103 tr\u0103iasc\u0103 dup\u0103 un set destul de rigid de reguli \u015fi se  a\u015fteapt\u0103  din  partea  altora  la  acela\u015fi  lucru.  Din  acest  motiv,  tind  s\u0103  fie  competitivi  \u015fi-i impulsioneaz\u0103 pe ceilal\u0163i la fel de tare cum fac cu ei \u00een\u015fi\u015fi."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.4,
+            "t": 419.806,
+            "r": 193.07600000000002,
+            "b": 409.0621679558011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Posibile puncte nevralgice",
+      "text": "Posibile puncte nevralgice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.4,
+            "t": 402.866,
+            "r": 579.34,
+            "b": 336.90286187845305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            474
+          ]
+        }
+      ],
+      "orig": "Datorit\u0103  dorin\u0163ei  permanente  de  a  aborda  urm\u0103toarea  provocare  sau  urm\u0103torul  obiectiv important ENTJ-ii iau uneori decizii \u00een prip\u0103. Ocazionala \u00eencetinire a ritmului le va oferi posibilitatea s\u0103  adune  toate  datele  relevante  \u015fi  s\u0103  analizeze  laturile  practice,  dar  \u015fi  pe  cele  personale  ale ac\u0163iunii. Orientarea lor spre ac\u0163iune \u00eei \u00eempinge s\u0103 treac\u0103 la fapte de \u00eendat\u0103 ce au luat decizii, f\u0103r\u0103 s\u0103 verifice \u00eenc\u0103 o dat\u0103 faptele \u015fi veridicitatea situa\u0163iei.",
+      "text": "Datorit\u0103  dorin\u0163ei  permanente  de  a  aborda  urm\u0103toarea  provocare  sau  urm\u0103torul  obiectiv important ENTJ-ii iau uneori decizii \u00een prip\u0103. Ocazionala \u00eencetinire a ritmului le va oferi posibilitatea s\u0103  adune  toate  datele  relevante  \u015fi  s\u0103  analizeze  laturile  practice,  dar  \u015fi  pe  cele  personale  ale ac\u0163iunii. Orientarea lor spre ac\u0163iune \u00eei \u00eempinge s\u0103 treac\u0103 la fapte de \u00eendat\u0103 ce au luat decizii, f\u0103r\u0103 s\u0103 verifice \u00eenc\u0103 o dat\u0103 faptele \u015fi veridicitatea situa\u0163iei."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.4,
+            "t": 333.866,
+            "r": 579.424,
+            "b": 226.47286187845305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            759
+          ]
+        }
+      ],
+      "orig": "Deoarece  abordeaz\u0103  via\u0163a  din  punctul  de  vedere  al  logicii,  ENTJ-ii  pot  fi  duri,  obtuzi, ner\u0103bd\u0103tori  \u015fi  insensibili  fa\u0163\u0103  de  nevoile  \u015fi  sentimentele  altora,  atunci  c\u00e2nd  nu  v\u0103d  logica respectivelor sentimente. Ei pot dispune de o sumedenie de argumente \u015fi pot fi dificil de abordat, \u015fi nu \u00eentotdeauna salut\u0103 opiniile de bun sim\u0163 ale altora. \u00cen loc s\u0103 critice \u00een mod automat, ei ar trebui s\u0103  asculte  informa\u0163iile  sosite  de  la  cei  din  jur  \u015fi  s\u0103-\u015fi  exprime  aprecierea  pentru  contribu\u0163ia  lor. ENTJ-ii trebuie s\u0103 fac\u0103 un efort con\u015ftient - ba chiar s\u0103-l transforme \u00eentr-o regul\u0103 de comportament - s\u0103-i asculte \u015fi pe al\u0163ii, \u00eenainte de a se n\u0103pusti asupra lor cu propriile idei, \u015fi s\u0103 evite s\u0103 ac\u0163ioneze dominator \u015fi dictatorial.",
+      "text": "Deoarece  abordeaz\u0103  via\u0163a  din  punctul  de  vedere  al  logicii,  ENTJ-ii  pot  fi  duri,  obtuzi, ner\u0103bd\u0103tori  \u015fi  insensibili  fa\u0163\u0103  de  nevoile  \u015fi  sentimentele  altora,  atunci  c\u00e2nd  nu  v\u0103d  logica respectivelor sentimente. Ei pot dispune de o sumedenie de argumente \u015fi pot fi dificil de abordat, \u015fi nu \u00eentotdeauna salut\u0103 opiniile de bun sim\u0163 ale altora. \u00cen loc s\u0103 critice \u00een mod automat, ei ar trebui s\u0103  asculte  informa\u0163iile  sosite  de  la  cei  din  jur  \u015fi  s\u0103-\u015fi  exprime  aprecierea  pentru  contribu\u0163ia  lor. ENTJ-ii trebuie s\u0103 fac\u0103 un efort con\u015ftient - ba chiar s\u0103-l transforme \u00eentr-o regul\u0103 de comportament - s\u0103-i asculte \u015fi pe al\u0163ii, \u00eenainte de a se n\u0103pusti asupra lor cu propriile idei, \u015fi s\u0103 evite s\u0103 ac\u0163ioneze dominator \u015fi dictatorial."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.4,
+            "t": 223.43599999999992,
+            "r": 579.2500000000001,
+            "b": 60.85286187845304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1171
+          ]
+        }
+      ],
+      "orig": "Abordarea  impersonal\u0103  a  vie\u0163ii  las\u0103  prea  pu\u0163in  timp,  prea  pu\u0163in\u0103  toleran\u0163\u0103  sau  compasiune pentru  sentimente,  fie  acestea  chiar  personale.  Atunci  c\u00e2nd  le  permit  sentimentelor  proprii  s\u0103 treac\u0103 ignorate sau neexprimate, ENTJ-ii se pot trezi c\u0103 reac\u0163ioneaz\u0103 exagerat de emo\u0163ional. Ei sunt mai cu seama predispu\u015fi spre a\u015fa ceva dac\u0103 simt c\u0103 cineva le contest\u0103 competen\u0163a, mai ales dac\u0103 este o persoan\u0103 pe care o respect\u0103. ENTJ-ii pot reac\u0163iona exploziv fa\u0163\u0103 de situa\u0163ii aparent minore,  \u015fi  aceste  r\u0103bufniri  pot  fi  jignitoare  pentru  cei  apropia\u0163i.  ENTJ-ii  sunt  mai  eficien\u0163i  \u015fi  mai ferici\u0163i  atunci  c\u00e2nd  analizeaz\u0103  \u015fi  \u00een\u0163eleg  ce  simt  ei  de  fapt.  Dac\u0103  le  ofer\u0103  propriilor  sentimente posibilitatea unei exterioriz\u0103ri constructive, \u00een loc s\u0103 le \u00eeng\u0103duie s\u0103 le influen\u0163eze personalitatea, vor putea s\u0103 de\u0163in\u0103 un control mai mare, o pozi\u0163ie spre care n\u0103zuiesc \u015fi care le face pl\u0103cere. \u00cen mod surprinz\u0103tor, ENTJ-ii pot fi, de fapt, mai pu\u0163in experimenta\u0163i \u015fi competen\u0163i dec\u00e2t o indic\u0103 stilul lor \u00eencrez\u0103tor. Dac\u0103 \u00ee\u015fi vor \u00eeng\u0103dui s\u0103 accepte sfaturile rezonabile \u015fi valoroase ale altora, \u00ee\u015fi vor spori puterea personala \u015fi succesul.",
+      "text": "Abordarea  impersonal\u0103  a  vie\u0163ii  las\u0103  prea  pu\u0163in  timp,  prea  pu\u0163in\u0103  toleran\u0163\u0103  sau  compasiune pentru  sentimente,  fie  acestea  chiar  personale.  Atunci  c\u00e2nd  le  permit  sentimentelor  proprii  s\u0103 treac\u0103 ignorate sau neexprimate, ENTJ-ii se pot trezi c\u0103 reac\u0163ioneaz\u0103 exagerat de emo\u0163ional. Ei sunt mai cu seama predispu\u015fi spre a\u015fa ceva dac\u0103 simt c\u0103 cineva le contest\u0103 competen\u0163a, mai ales dac\u0103 este o persoan\u0103 pe care o respect\u0103. ENTJ-ii pot reac\u0163iona exploziv fa\u0163\u0103 de situa\u0163ii aparent minore,  \u015fi  aceste  r\u0103bufniri  pot  fi  jignitoare  pentru  cei  apropia\u0163i.  ENTJ-ii  sunt  mai  eficien\u0163i  \u015fi  mai ferici\u0163i  atunci  c\u00e2nd  analizeaz\u0103  \u015fi  \u00een\u0163eleg  ce  simt  ei  de  fapt.  Dac\u0103  le  ofer\u0103  propriilor  sentimente posibilitatea unei exterioriz\u0103ri constructive, \u00een loc s\u0103 le \u00eeng\u0103duie s\u0103 le influen\u0163eze personalitatea, vor putea s\u0103 de\u0163in\u0103 un control mai mare, o pozi\u0163ie spre care n\u0103zuiesc \u015fi care le face pl\u0103cere. \u00cen mod surprinz\u0103tor, ENTJ-ii pot fi, de fapt, mai pu\u0163in experimenta\u0163i \u015fi competen\u0163i dec\u00e2t o indic\u0103 stilul lor \u00eencrez\u0103tor. Dac\u0103 \u00ee\u015fi vor \u00eeng\u0103dui s\u0103 accepte sfaturile rezonabile \u015fi valoroase ale altora, \u00ee\u015fi vor spori puterea personala \u015fi succesul."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

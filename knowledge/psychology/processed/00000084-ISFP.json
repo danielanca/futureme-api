@@ -1,0 +1,404 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "00000084-ISFP",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4965108886011107800,
+    "filename": "00000084-ISFP.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 298.73,
+            "t": 784.5540000000001,
+            "r": 339.25,
+            "b": 769.056,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "ISFP",
+      "text": "ISFP",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 174.38,
+            "t": 749.28112,
+            "r": 438.85312,
+            "b": 736.68824839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Introvertit, Senzorial, Afectiv, Perceptiv",
+      "text": "Introvertit, Senzorial, Afectiv, Perceptiv",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 721.636,
+            "r": 556.0180000000003,
+            "b": 683.272861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "ISFP-ii  sunt  persoane  bl\u00e2nde,  sensibile  \u015fi  grijulii,  care  nu-\u015fi  dezv\u0103luie  majoritatea idealurilor  \u015fi  valorilor  lor,  foarte  personale.  Adesea,  \u00ee\u015fi  exprim\u0103  pasiunile  profunde  prin ac\u0163iuni, nu prin cuvinte.",
+      "text": "ISFP-ii  sunt  persoane  bl\u00e2nde,  sensibile  \u015fi  grijulii,  care  nu-\u015fi  dezv\u0103luie  majoritatea idealurilor  \u015fi  valorilor  lor,  foarte  personale.  Adesea,  \u00ee\u015fi  exprim\u0103  pasiunile  profunde  prin ac\u0163iuni, nu prin cuvinte."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 674.236,
+            "r": 555.9460000000003,
+            "b": 622.0728618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "Mode\u015fti \u015fi rezerva\u0163i, ISFP-ii sunt \u00een realitate extrem de calzi \u015fi entuzia\u015fti, dar tind s\u0103 nu etaleze aceast\u0103 latur\u0103 dec\u00e2t fa\u0163\u0103 de anumite persoane, pe care le cunosc bine \u015fi \u00een care se \u00eencred pe deplin. \u00cen general, ISFP-ii sunt \u00een\u0163ele\u015fi gre\u015fit, datorit\u0103 tendin\u0163ei de a nu se exprima pe ei \u00een\u015fi\u015fi \u00een mod direct.",
+      "text": "Mode\u015fti \u015fi rezerva\u0163i, ISFP-ii sunt \u00een realitate extrem de calzi \u015fi entuzia\u015fti, dar tind s\u0103 nu etaleze aceast\u0103 latur\u0103 dec\u00e2t fa\u0163\u0103 de anumite persoane, pe care le cunosc bine \u015fi \u00een care se \u00eencred pe deplin. \u00cen general, ISFP-ii sunt \u00een\u0163ele\u015fi gre\u015fit, datorit\u0103 tendin\u0163ei de a nu se exprima pe ei \u00een\u015fi\u015fi \u00een mod direct."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 616.006,
+            "r": 555.7820000000003,
+            "b": 563.842861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            334
+          ]
+        }
+      ],
+      "orig": "ISFP-ii  sunt  r\u0103bd\u0103tori,  flexibili  \u015fi  se  \u00een\u0163eleg  u\u015for  cu  al\u0163i  oameni;  de  obicei,  nu  sunt interesa\u0163i s\u0103-i domine sau s\u0103-i controleze pe al\u0163ii. Nu emit judec\u0103\u0163i \u015fi accept\u0103 cu non\u015falan\u0163\u0103 comportamentul  celorlal\u0163i.  Observ\u0103  cu  aten\u0163ie  oamenii  \u015fi  lucrurile  din  jur  \u015fi  nu  caut\u0103  s\u0103 g\u0103seasc\u0103 motiva\u0163ii sau \u00een\u0163elesuri.",
+      "text": "ISFP-ii  sunt  r\u0103bd\u0103tori,  flexibili  \u015fi  se  \u00een\u0163eleg  u\u015for  cu  al\u0163i  oameni;  de  obicei,  nu  sunt interesa\u0163i s\u0103-i domine sau s\u0103-i controleze pe al\u0163ii. Nu emit judec\u0103\u0163i \u015fi accept\u0103 cu non\u015falan\u0163\u0103 comportamentul  celorlal\u0163i.  Observ\u0103  cu  aten\u0163ie  oamenii  \u015fi  lucrurile  din  jur  \u015fi  nu  caut\u0103  s\u0103 g\u0103seasc\u0103 motiva\u0163ii sau \u00een\u0163elesuri."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 557.806,
+            "r": 556.072,
+            "b": 505.64286187845306,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            382
+          ]
+        }
+      ],
+      "orig": "Deoarece tr\u0103iesc pe deplin \u00een clipa prezent\u0103, ISFP-ii nu tind s\u0103 se preg\u0103teasc\u0103 sau s\u0103 fac\u0103  mai  multe  planuri  dec\u00e2t  este  necesar.  Buni  planificatori  pe termen  scurt,  ei  \u00ee\u015fi efectueaz\u0103  sarcinile  relaxa\u0163i,  fiindc\u0103  se  implic\u0103  pe  deplin  \u00een  clipa  \u015fi  \u00een  locul  prezente  \u015fi  le place s\u0103 se bucure de experen\u0163a curent\u0103, f\u0103r\u0103 s\u0103 se gr\u0103beasc\u0103 s\u0103 treac\u0103 la urm\u0103toarea.",
+      "text": "Deoarece tr\u0103iesc pe deplin \u00een clipa prezent\u0103, ISFP-ii nu tind s\u0103 se preg\u0103teasc\u0103 sau s\u0103 fac\u0103  mai  multe  planuri  dec\u00e2t  este  necesar.  Buni  planificatori  pe termen  scurt,  ei  \u00ee\u015fi efectueaz\u0103  sarcinile  relaxa\u0163i,  fiindc\u0103  se  implic\u0103  pe  deplin  \u00een  clipa  \u015fi  \u00een  locul  prezente  \u015fi  le place s\u0103 se bucure de experen\u0163a curent\u0103, f\u0103r\u0103 s\u0103 se gr\u0103beasc\u0103 s\u0103 treac\u0103 la urm\u0103toarea."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 499.606,
+            "r": 555.9460000000003,
+            "b": 461.242861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            249
+          ]
+        }
+      ],
+      "orig": "Interesa\u0163i  de  ceea  ce  \u00eenva\u0163\u0103  \u015fi  simt  direct  din  experien\u0163ele  proprii  \u015fi  din  ceea  ce  le comunic\u0103  sim\u0163urile,  ei  sunt  adesea  firi  artistice  \u015fi  estete,  \u00eencerc\u00e2nd  s\u0103  creeze  pentru  ei ambian\u0163e frumoase, care s\u0103-i caracterizeze.",
+      "text": "Interesa\u0163i  de  ceea  ce  \u00eenva\u0163\u0103  \u015fi  simt  direct  din  experien\u0163ele  proprii  \u015fi  din  ceea  ce  le comunic\u0103  sim\u0163urile,  ei  sunt  adesea  firi  artistice  \u015fi  estete,  \u00eencerc\u00e2nd  s\u0103  creeze  pentru  ei ambian\u0163e frumoase, care s\u0103-i caracterizeze."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 455.186,
+            "r": 556.072,
+            "b": 389.34286187845305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            469
+          ]
+        }
+      ],
+      "orig": "Lipsi\u0163i  de  nevoia  de  a  conduce,  ISFP-ii  sunt  adesea  executan\u0163i  de  \u00eencredere  \u015fi  buni membrii de echip\u0103. Deoarece se folosesc de valorile personale pentru a judeca totul \u00een via\u0163\u0103, le  plac  indivizii  care  \u00ee\u015fi  sacrific\u0103  timpul  ca  s\u0103  ajung\u0103  s\u0103-i  cunoasc\u0103  \u015fi  s\u0103  le  \u00een\u0163eleag\u0103 loialit\u0103\u0163ile  interioare.  \u00cen  esen\u0163\u0103  \u00eencrez\u0103tori  \u015fi  \u00een\u0163eleg\u0103tori,  ei  au  nevoie  \u00een  via\u0163\u0103  de  rela\u0163ii armonioase \u015fi sunt sensibili fa\u0163\u0103 de conflicte \u015fi ne\u00een\u0163elegeri.",
+      "text": "Lipsi\u0163i  de  nevoia  de  a  conduce,  ISFP-ii  sunt  adesea  executan\u0163i  de  \u00eencredere  \u015fi  buni membrii de echip\u0103. Deoarece se folosesc de valorile personale pentru a judeca totul \u00een via\u0163\u0103, le  plac  indivizii  care  \u00ee\u015fi  sacrific\u0103  timpul  ca  s\u0103  ajung\u0103  s\u0103-i  cunoasc\u0103  \u015fi  s\u0103  le  \u00een\u0163eleag\u0103 loialit\u0103\u0163ile  interioare.  \u00cen  esen\u0163\u0103  \u00eencrez\u0103tori  \u015fi  \u00een\u0163eleg\u0103tori,  ei  au  nevoie  \u00een  via\u0163\u0103  de  rela\u0163ii armonioase \u015fi sunt sensibili fa\u0163\u0103 de conflicte \u015fi ne\u00een\u0163elegeri."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 365.95112,
+            "r": 223.31312,
+            "b": 353.3808365082873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Posibile puncte nevralgice",
+      "text": "Posibile puncte nevralgice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 344.306,
+            "r": 555.9220000000004,
+            "b": 292.11286187845303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            378
+          ]
+        }
+      ],
+      "orig": "Natura extrem de sensibil\u0103 a ISFP-ilor le permite s\u0103 disting\u0103 \u00een mod clar trebuin\u0163ele altor persoane; uneori, ei se str\u0103duiesc \u00een mod at\u00e2t de excesiv s\u0103 \u00eendeplineasc\u0103 acele trebuin\u0163e \u00eenc\u00e2t  ajung  s\u0103  se  neglijeze.  Aceasta  poate  determina  \u00eemboln\u0103viri  \u00een  plan  fizic,  cauzate  de epuizare. Trebuie s\u0103-\u015fi rezerve din timpul acordat altora pentru a se \u00eengriji pe ei \u00een\u015fi\u015fi.",
+      "text": "Natura extrem de sensibil\u0103 a ISFP-ilor le permite s\u0103 disting\u0103 \u00een mod clar trebuin\u0163ele altor persoane; uneori, ei se str\u0103duiesc \u00een mod at\u00e2t de excesiv s\u0103 \u00eendeplineasc\u0103 acele trebuin\u0163e \u00eenc\u00e2t  ajung  s\u0103  se  neglijeze.  Aceasta  poate  determina  \u00eemboln\u0103viri  \u00een  plan  fizic,  cauzate  de epuizare. Trebuie s\u0103-\u015fi rezerve din timpul acordat altora pentru a se \u00eengriji pe ei \u00een\u015fi\u015fi."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 286.076,
+            "r": 556.18,
+            "b": 220.11286187845303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            428
+          ]
+        }
+      ],
+      "orig": "Deoarece  se  focalizeaz\u0103  at\u00e2t  de  mult  asupra  experien\u0163ei  de  moment,  ei  tind  s\u0103  nu priveasc\u0103  dincolo  de  prezent,  ei  nu  obi\u015fnuiesc  s\u0103  se  preg\u0103teasc\u0103  din  timp.  Adesea,  au dificult\u0103\u0163i  \u00een  a-\u015fi  organiza  timpul  \u015fi  resursele.  Trebuie  s\u0103  se  str\u0103duiasc\u0103  din  r\u0103sputeri  s\u0103-\u015fi domoleasc\u0103 impulsul de a abandona totul \u015fi de a se bucura de un moment de lini\u015fte sau de a participa la o activitate favorit\u0103.",
+      "text": "Deoarece  se  focalizeaz\u0103  at\u00e2t  de  mult  asupra  experien\u0163ei  de  moment,  ei  tind  s\u0103  nu priveasc\u0103  dincolo  de  prezent,  ei  nu  obi\u015fnuiesc  s\u0103  se  preg\u0103teasc\u0103  din  timp.  Adesea,  au dificult\u0103\u0163i  \u00een  a-\u015fi  organiza  timpul  \u015fi  resursele.  Trebuie  s\u0103  se  str\u0103duiasc\u0103  din  r\u0103sputeri  s\u0103-\u015fi domoleasc\u0103 impulsul de a abandona totul \u015fi de a se bucura de un moment de lini\u015fte sau de a participa la o activitate favorit\u0103."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 214.07600000000002,
+            "r": 555.9580000000002,
+            "b": 120.61286187845303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            577
+          ]
+        }
+      ],
+      "orig": "ISFP-ii sunt vulnerabili la criticile altora, deoarece tind s\u0103 interpreteze \u00een mod personal orice form\u0103 de feedback, ajung\u00e2nd s\u0103 se simt\u0103 jigni\u0163i \u015fi descuraja\u0163i. Pot fi considera\u0163i naivi \u015fi excesiv de \u00eencrez\u0103tori, pentru c\u0103 accept\u0103 oamenii \u015fi lucrurile a\u015fa cum sunt \u015fi nu se a\u015fteapt\u0103 la motive rele, sau nu descifreaz\u0103 nimic altceva din ele. Trebuie s\u0103 dea mai mult\u0103 importan\u0163\u0103 propriilor trebuin\u0163e \u015fi s\u0103 analizeze implica\u0163iile comportamentului celorlal\u0163i. Aplic\u00e2nd obiectivitate  \u015fi  scepticism  analizelor  lor,  ei  pot  deveni  mai  buni  judec\u0103tori  ai  caracterului uman.",
+      "text": "ISFP-ii sunt vulnerabili la criticile altora, deoarece tind s\u0103 interpreteze \u00een mod personal orice form\u0103 de feedback, ajung\u00e2nd s\u0103 se simt\u0103 jigni\u0163i \u015fi descuraja\u0163i. Pot fi considera\u0163i naivi \u015fi excesiv de \u00eencrez\u0103tori, pentru c\u0103 accept\u0103 oamenii \u015fi lucrurile a\u015fa cum sunt \u015fi nu se a\u015fteapt\u0103 la motive rele, sau nu descifreaz\u0103 nimic altceva din ele. Trebuie s\u0103 dea mai mult\u0103 importan\u0163\u0103 propriilor trebuin\u0163e \u015fi s\u0103 analizeze implica\u0163iile comportamentului celorlal\u0163i. Aplic\u00e2nd obiectivitate  \u015fi  scepticism  analizelor  lor,  ei  pot  deveni  mai  buni  judec\u0103tori  ai  caracterului uman."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.32,
+        "height": 842.04
+      },
+      "page_no": 1
+    }
+  }
+}

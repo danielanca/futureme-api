@@ -1,0 +1,344 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "00000079-ESTP",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11222186094723865219,
+    "filename": "00000079-ESTP.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 284.57,
+            "t": 776.686,
+            "r": 334.09,
+            "b": 761.5458181818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "ESTP",
+      "text": "ESTP",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 177.38,
+            "t": 740.52112,
+            "r": 457.60312,
+            "b": 727.92824839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Extravertit, Senzorial, G\u00e2nditor, Perceptiv",
+      "text": "Extravertit, Senzorial, G\u00e2nditor, Perceptiv",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 712.876,
+            "r": 555.7340000000003,
+            "b": 688.3128618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "ESTP-ii nu-\u015fi fac griji - ei sunt ferici\u0163i! Activi, veseli \u015fi spontani, prefer\u0103 s\u0103 se bucure de clipa prezent\u0103, \u00een loc s\u0103-\u015fi fac\u0103 planuri de viitor.",
+      "text": "ESTP-ii nu-\u015fi fac griji - ei sunt ferici\u0163i! Activi, veseli \u015fi spontani, prefer\u0103 s\u0103 se bucure de clipa prezent\u0103, \u00een loc s\u0103-\u015fi fac\u0103 planuri de viitor."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 679.276,
+            "r": 555.9340000000002,
+            "b": 627.112861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            385
+          ]
+        }
+      ],
+      "orig": "Extrem de reali\u015fti, ESTP-ii se bizuie pe ceea ce sim\u0163urile lor le comunic\u0103 despre lume \u015fi au  \u00eencredere  \u00een  respectivele  informa\u0163ii.  Sunt  curio\u015fi  \u015fi  fini  observatori.  Deoarece  accept\u0103 lucrurile  a\u015fa  cum sunt, tind s\u0103 fie lipsi\u0163i de prejudec\u0103\u0163i \u015fi toleran\u0163i fa\u0163\u0103 de al\u0163ii \u015fi fa\u0163\u0103 de ei \u00een\u015fi\u015fi. ESTP-ilor le plac lucrurile reale, care pot fi manipulate, demontate \u015fi asamblate.",
+      "text": "Extrem de reali\u015fti, ESTP-ii se bizuie pe ceea ce sim\u0163urile lor le comunic\u0103 despre lume \u015fi au  \u00eencredere  \u00een  respectivele  informa\u0163ii.  Sunt  curio\u015fi  \u015fi  fini  observatori.  Deoarece  accept\u0103 lucrurile  a\u015fa  cum sunt, tind s\u0103 fie lipsi\u0163i de prejudec\u0103\u0163i \u015fi toleran\u0163i fa\u0163\u0103 de al\u0163ii \u015fi fa\u0163\u0103 de ei \u00een\u015fi\u015fi. ESTP-ilor le plac lucrurile reale, care pot fi manipulate, demontate \u015fi asamblate."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 618.0459999999999,
+            "r": 556.1320000000001,
+            "b": 524.482861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            659
+          ]
+        }
+      ],
+      "orig": "Prefer\u0103 ac\u0163iunea conversa\u0163iei \u015fi se simt bine abord\u00e2nd situa\u0163iile pe m\u0103sur\u0103 ce apar. Sunt pricepu\u0163i  la  rezolvarea  problemelor,  pentru  c\u0103  pot  absorbi  informa\u0163iile  necesare  \u015fi  apoi g\u0103sesc repede solu\u0163iile logice \u015fi fire\u015fti, f\u0103r\u0103 s\u0103 cheltuiasc\u0103 prea mult\u0103 energie. ESTP-ii pot fi negociatori  diploma\u0163i,  \u00eenc\u00e2nta\u0163i  s\u0103  \u00eencerce  abord\u0103ri  neconven\u0163ionale,  \u015fi,  de  obicei,  sunt  \u00een stare s\u0103-i conving\u0103 pe al\u0163ii s\u0103 acorde o \u015fans\u0103 compromisurilor lor. Sunt capabili s\u0103 \u00een\u0163eleag\u0103 principiile  fundamentale  \u015fi  s\u0103  ia  decizii  bazate  pe  logic\u0103,  nu  pe  sentiment.  Ca  atare,  sunt pragmatici, de asemenea, pot fi duri, atunci c\u00e2nd situa\u0163ia o cere.",
+      "text": "Prefer\u0103 ac\u0163iunea conversa\u0163iei \u015fi se simt bine abord\u00e2nd situa\u0163iile pe m\u0103sur\u0103 ce apar. Sunt pricepu\u0163i  la  rezolvarea  problemelor,  pentru  c\u0103  pot  absorbi  informa\u0163iile  necesare  \u015fi  apoi g\u0103sesc repede solu\u0163iile logice \u015fi fire\u015fti, f\u0103r\u0103 s\u0103 cheltuiasc\u0103 prea mult\u0103 energie. ESTP-ii pot fi negociatori  diploma\u0163i,  \u00eenc\u00e2nta\u0163i  s\u0103  \u00eencerce  abord\u0103ri  neconven\u0163ionale,  \u015fi,  de  obicei,  sunt  \u00een stare s\u0103-i conving\u0103 pe al\u0163ii s\u0103 acorde o \u015fans\u0103 compromisurilor lor. Sunt capabili s\u0103 \u00een\u0163eleag\u0103 principiile  fundamentale  \u015fi  s\u0103  ia  decizii  bazate  pe  logic\u0103,  nu  pe  sentiment.  Ca  atare,  sunt pragmatici, de asemenea, pot fi duri, atunci c\u00e2nd situa\u0163ia o cere."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 515.446,
+            "r": 555.8540000000005,
+            "b": 463.28286187845305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            379
+          ]
+        }
+      ],
+      "orig": "Prieteno\u015fi  \u015fi  \u00eenc\u00e2nt\u0103tori,  ESTP-ii  sunt  populari  \u015fi  relaxa\u0163i \u00een majoritatea  situa\u0163iilor mondene. Sunt amabili, flexibili \u015fi amuzan\u0163i, \u015fi pot de\u0163ine o rezerv\u0103 nesf\u00e2r\u015fit\u0103 de glume \u015fi anecdote  pentru  orice  situa\u0163ie  \u00een  care  s-ar  g\u0103si.  Pot  fi  pricepu\u0163i  la  relaxarea  unor  situa\u0163ii tensionate, prin destinderea atmosferei \u015fi apropierea p\u0103r\u0163ilor aflate \u00een conflict.",
+      "text": "Prieteno\u015fi  \u015fi  \u00eenc\u00e2nt\u0103tori,  ESTP-ii  sunt  populari  \u015fi  relaxa\u0163i \u00een majoritatea  situa\u0163iilor mondene. Sunt amabili, flexibili \u015fi amuzan\u0163i, \u015fi pot de\u0163ine o rezerv\u0103 nesf\u00e2r\u015fit\u0103 de glume \u015fi anecdote  pentru  orice  situa\u0163ie  \u00een  care  s-ar  g\u0103si.  Pot  fi  pricepu\u0163i  la  relaxarea  unor  situa\u0163ii tensionate, prin destinderea atmosferei \u015fi apropierea p\u0103r\u0163ilor aflate \u00een conflict."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 439.87111999999996,
+            "r": 223.31312,
+            "b": 427.30083650828726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Posibile puncte nevralgice",
+      "text": "Posibile puncte nevralgice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 418.346,
+            "r": 556.156,
+            "b": 324.7828618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            611
+          ]
+        }
+      ],
+      "orig": "Preferin\u0163a  ESTP-ilor  pentru  tr\u0103irea  din  plin  a  prezentului  \u015fi  adoptarea  unui  stil  de \"necesitate\",  care  s\u0103-l  ajute  s\u0103  fac\u0103  fa\u0163\u0103  unor  crize  nea\u015fteptate,  poate  duce  la  un  mediu haotic pentru cei din jurul lor. Ei pot pierde unele oportunit\u0103\u0163i, deoarece nu planific\u0103 lucrurile din  vreme.  Uneori,  accept\u0103  prea  multe  \u015fi  se  trezesc  supraaglomera\u0163i  \u015fi  incapabili  s\u0103-\u015fi respecte  angajamentele.  ESTP-ii  trebuie  s\u0103  priveasc\u0103  dincolo  de  clipa  prezent\u0103  \u015fi  de interesul lor fa\u0163\u0103 de lumea material\u0103, pentru a \u00eencerca s\u0103 anticipeze modalit\u0103\u0163i de terminare la timp a sarcinilor.",
+      "text": "Preferin\u0163a  ESTP-ilor  pentru  tr\u0103irea  din  plin  a  prezentului  \u015fi  adoptarea  unui  stil  de \"necesitate\",  care  s\u0103-l  ajute  s\u0103  fac\u0103  fa\u0163\u0103  unor  crize  nea\u015fteptate,  poate  duce  la  un  mediu haotic pentru cei din jurul lor. Ei pot pierde unele oportunit\u0103\u0163i, deoarece nu planific\u0103 lucrurile din  vreme.  Uneori,  accept\u0103  prea  multe  \u015fi  se  trezesc  supraaglomera\u0163i  \u015fi  incapabili  s\u0103-\u015fi respecte  angajamentele.  ESTP-ii  trebuie  s\u0103  priveasc\u0103  dincolo  de  clipa  prezent\u0103  \u015fi  de interesul lor fa\u0163\u0103 de lumea material\u0103, pentru a \u00eencerca s\u0103 anticipeze modalit\u0103\u0163i de terminare la timp a sarcinilor."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 315.746,
+            "r": 556.1440000000001,
+            "b": 222.152861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            666
+          ]
+        }
+      ],
+      "orig": "De asemenea, ESTP-ii tind s\u0103 ignore sentimentele celorlal\u0163i \u015fi pot fi  lipsi\u0163i de tact  sau insensibili,  \u00een  dorin\u0163a  lor  de  a  fi  one\u015fti,  mai  cu  seam\u0103  atunci  c\u00e2nd  trec  \u00een  grab\u0103  de  la  o experien\u0163\u0103  la  alta.  Uneori,  extravagan\u0163ele  lor  pot  percepute  ca  vulgarit\u0103\u0163i,  acest  lucru ajung\u00e2nd s\u0103-i \u00eendep\u0103rteze chiar pe cei care au \u00eencercat s\u0103-i binedispun\u0103. ESTP-ii devin mult mai eficien\u0163i cu al\u0163ii, atunci c\u00e2nd \u00ee\u015fi direc\u0163ioneaz\u0103 puterile p\u0103trunz\u0103toare de observa\u0163ie asupra sentimentelor celor din jur. Ei sunt mult mai eficien\u0163i c\u00e2nd \u00ee\u015fi limiteaz\u0103 cutezan\u0163a, energia \u015fi pl\u0103cerea de a se sim\u0163i bine la un nivel la care \u015fi al\u0163ii se simt confortabil.",
+      "text": "De asemenea, ESTP-ii tind s\u0103 ignore sentimentele celorlal\u0163i \u015fi pot fi  lipsi\u0163i de tact  sau insensibili,  \u00een  dorin\u0163a  lor  de  a  fi  one\u015fti,  mai  cu  seam\u0103  atunci  c\u00e2nd  trec  \u00een  grab\u0103  de  la  o experien\u0163\u0103  la  alta.  Uneori,  extravagan\u0163ele  lor  pot  percepute  ca  vulgarit\u0103\u0163i,  acest  lucru ajung\u00e2nd s\u0103-i \u00eendep\u0103rteze chiar pe cei care au \u00eencercat s\u0103-i binedispun\u0103. ESTP-ii devin mult mai eficien\u0163i cu al\u0163ii, atunci c\u00e2nd \u00ee\u015fi direc\u0163ioneaz\u0103 puterile p\u0103trunz\u0103toare de observa\u0163ie asupra sentimentelor celor din jur. Ei sunt mult mai eficien\u0163i c\u00e2nd \u00ee\u015fi limiteaz\u0103 cutezan\u0163a, energia \u015fi pl\u0103cerea de a se sim\u0163i bine la un nivel la care \u015fi al\u0163ii se simt confortabil."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 213.11599999999999,
+            "r": 556.1560000000001,
+            "b": 133.33286187845306,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            535
+          ]
+        }
+      ],
+      "orig": "Interesa\u0163i de rezolvarea rapid\u0103 a problemelor, ESTP-ii au predilec\u0163ia de a s\u0103ri direct la urm\u0103toarea urgen\u0163\u0103, f\u0103r\u0103 s\u0103 parcurg\u0103 p\u0103r\u0163ile mai pu\u0163in atr\u0103g\u0103toare ale proiectelor curente. Este recomandabil s\u0103 \u00eenve\u0163e \u015fi s\u0103 aplice gestionarea timpului \u015fi tehnicile de planificare pe termen  lung,  ce-i  vor  ajuta  s\u0103  se  preg\u0103teasc\u0103  pentru  responsabilit\u0103\u0163i  \u015fi  s\u0103  le  rezolve.  O reducere a ritmului personal, \u00een scopul dezvolt\u0103rii de norme pentru propriul comportament \u015fi pentru analiza urm\u0103rilor ac\u0163iunilor lor, le va spori eficien\u0163a.",
+      "text": "Interesa\u0163i de rezolvarea rapid\u0103 a problemelor, ESTP-ii au predilec\u0163ia de a s\u0103ri direct la urm\u0103toarea urgen\u0163\u0103, f\u0103r\u0103 s\u0103 parcurg\u0103 p\u0103r\u0163ile mai pu\u0163in atr\u0103g\u0103toare ale proiectelor curente. Este recomandabil s\u0103 \u00eenve\u0163e \u015fi s\u0103 aplice gestionarea timpului \u015fi tehnicile de planificare pe termen  lung,  ce-i  vor  ajuta  s\u0103  se  preg\u0103teasc\u0103  pentru  responsabilit\u0103\u0163i  \u015fi  s\u0103  le  rezolve.  O reducere a ritmului personal, \u00een scopul dezvolt\u0103rii de norme pentru propriul comportament \u015fi pentru analiza urm\u0103rilor ac\u0163iunilor lor, le va spori eficien\u0163a."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.32,
+        "height": 842.04
+      },
+      "page_no": 1
+    }
+  }
+}

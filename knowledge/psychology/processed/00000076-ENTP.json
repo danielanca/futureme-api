@@ -1,0 +1,314 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "00000076-ENTP",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15415552326956098846,
+    "filename": "00000076-ENTP.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 277.61,
+            "t": 783.7860000000001,
+            "r": 330.13,
+            "b": 768.6458181818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "ENTP",
+      "text": "ENTP",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 174.74,
+            "t": 749.28112,
+            "r": 438.49312,
+            "b": 736.68824839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Extravertit, Intuitiv, G\u00e2nditor, Perceptiv",
+      "text": "Extravertit, Intuitiv, G\u00e2nditor, Perceptiv",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 719.836,
+            "r": 556.168,
+            "b": 433.02286187845306,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1793
+          ]
+        }
+      ],
+      "orig": "ENTP-ii iubesc stimulii si provoc\u0103rile. Entuzia\u015fti \u015fi ingenio\u015fi, ei sunt vorb\u0103re\u0163i, inteligen\u0163i, pricepu\u0163i  la  multe  lucruri  \u015fi  caut\u0103  permanent  s\u0103-\u015fi  sporeasc\u0103  competen\u0163a  \u015fi  puterea personal\u0103. ENTP-ii sunt n\u0103scu\u0163i \u00eentreprinz\u0103tori. Se arat\u0103 fascina\u0163i de ideile noi \u015fi sunt aten\u0163i la toate posibilit\u0103\u0163ile.  Au  ini\u0163iative  puternice  \u015fi  opereaz\u0103  pe  baza  impulsurilor  creative.  ENTP-ii  \u00ee\u015fi apreciaz\u0103  \u00een  primul  r\u00e2nd  inspira\u0163ia  \u015fi  se  str\u0103duiesc  s\u0103-\u015fi  transforme  ideile  originale  \u00een realitate.  Sunt  curio\u015fi,  flexibili,  adaptabili  \u015fi  plini  de  resurse  \u00een  rezolvarea  problemelor provocatoare \u015fi teoretice. Aten\u0163i  \u015fi  sinceri,  ENTP-ii  pot  distinge  cu  u\u015furin\u0163\u0103  punctul  nevralgic  al  oric\u0103rei  pozi\u0163ii  \u015fi adesea  se  amuz\u0103,  sus\u0163in\u00e2nd  p\u0103reri  diferite  despre  un  subiect  sau  altul.  De\u0163in  excelente capacit\u0103\u0163i analitice \u015fi sunt foarte buni g\u00e2nditori strategici. Aproape \u00eentotdeauna pot g\u0103si un motiv logic pentru lucrurile pe care le doresc. Celor  mai  mul\u0163i  dintre  ei  le  place  s\u0103  testeze  limitele  din  jurul  lor  \u015fi  consider\u0103  c\u0103 majoritatea regulilor \u015fi regulamentelor sunt f\u0103cute pentru a fi ocolite, dac\u0103 nu chiar \u00eenc\u0103lcate. Uneori, sunt neconven\u0163ionali \u00een stilul de abordare \u015fi se simt bine ajut\u00e2ndu-i pe al\u0163ii s\u0103 treac\u0103 dincolo de ceea ce este acceptat \u015fi a\u015fteptat. Ador\u0103 s\u0103 tr\u0103iasc\u0103 liberi \u015fi caut\u0103 amuzamentul \u015fi varietatea \u00een situa\u0163iile zilnice. ENTP-ii  abordeaz\u0103  cu  mult\u0103  imagina\u0163ie  rela\u0163iile  sociale  \u015fi  adesea  au  o  mul\u0163ime  de prieteni \u015fi de cuno\u015ftin\u0163e, extrem de diferi\u0163i. Pot dovedi un umor \u015fi un optimism deosebite. Pot reprezenta o companie \u00eenc\u00e2nt\u0103toare \u015fi stimulatoare, iar adesea \u00eei inspir\u0103 pe al\u0163ii s\u0103 se implice \u00een proiectele lor, gra\u0163ie entuziasmului molipsitor. ENTP-ii prefer\u0103 s\u0103 \u00eencerce s\u0103-i \u00een\u0163eleag\u0103 pe",
+      "text": "ENTP-ii iubesc stimulii si provoc\u0103rile. Entuzia\u015fti \u015fi ingenio\u015fi, ei sunt vorb\u0103re\u0163i, inteligen\u0163i, pricepu\u0163i  la  multe  lucruri  \u015fi  caut\u0103  permanent  s\u0103-\u015fi  sporeasc\u0103  competen\u0163a  \u015fi  puterea personal\u0103. ENTP-ii sunt n\u0103scu\u0163i \u00eentreprinz\u0103tori. Se arat\u0103 fascina\u0163i de ideile noi \u015fi sunt aten\u0163i la toate posibilit\u0103\u0163ile.  Au  ini\u0163iative  puternice  \u015fi  opereaz\u0103  pe  baza  impulsurilor  creative.  ENTP-ii  \u00ee\u015fi apreciaz\u0103  \u00een  primul  r\u00e2nd  inspira\u0163ia  \u015fi  se  str\u0103duiesc  s\u0103-\u015fi  transforme  ideile  originale  \u00een realitate.  Sunt  curio\u015fi,  flexibili,  adaptabili  \u015fi  plini  de  resurse  \u00een  rezolvarea  problemelor provocatoare \u015fi teoretice. Aten\u0163i  \u015fi  sinceri,  ENTP-ii  pot  distinge  cu  u\u015furin\u0163\u0103  punctul  nevralgic  al  oric\u0103rei  pozi\u0163ii  \u015fi adesea  se  amuz\u0103,  sus\u0163in\u00e2nd  p\u0103reri  diferite  despre  un  subiect  sau  altul.  De\u0163in  excelente capacit\u0103\u0163i analitice \u015fi sunt foarte buni g\u00e2nditori strategici. Aproape \u00eentotdeauna pot g\u0103si un motiv logic pentru lucrurile pe care le doresc. Celor  mai  mul\u0163i  dintre  ei  le  place  s\u0103  testeze  limitele  din  jurul  lor  \u015fi  consider\u0103  c\u0103 majoritatea regulilor \u015fi regulamentelor sunt f\u0103cute pentru a fi ocolite, dac\u0103 nu chiar \u00eenc\u0103lcate. Uneori, sunt neconven\u0163ionali \u00een stilul de abordare \u015fi se simt bine ajut\u00e2ndu-i pe al\u0163ii s\u0103 treac\u0103 dincolo de ceea ce este acceptat \u015fi a\u015fteptat. Ador\u0103 s\u0103 tr\u0103iasc\u0103 liberi \u015fi caut\u0103 amuzamentul \u015fi varietatea \u00een situa\u0163iile zilnice. ENTP-ii  abordeaz\u0103  cu  mult\u0103  imagina\u0163ie  rela\u0163iile  sociale  \u015fi  adesea  au  o  mul\u0163ime  de prieteni \u015fi de cuno\u015ftin\u0163e, extrem de diferi\u0163i. Pot dovedi un umor \u015fi un optimism deosebite. Pot reprezenta o companie \u00eenc\u00e2nt\u0103toare \u015fi stimulatoare, iar adesea \u00eei inspir\u0103 pe al\u0163ii s\u0103 se implice \u00een proiectele lor, gra\u0163ie entuziasmului molipsitor. ENTP-ii prefer\u0103 s\u0103 \u00eencerce s\u0103-i \u00een\u0163eleag\u0103 pe"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 430.106,
+            "r": 357.526,
+            "b": 419.34286187845305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "oameni \u015fi s\u0103 se arate sensibili fa\u0163a de ei, nu s\u0103-i judece.",
+      "text": "oameni \u015fi s\u0103 se arate sensibili fa\u0163a de ei, nu s\u0103-i judece."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 399.626,
+            "r": 199.346,
+            "b": 388.8821679558011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Posibile puncte nevralgice",
+      "text": "Posibile puncte nevralgice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 382.706,
+            "r": 556.072,
+            "b": 275.3128618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            714
+          ]
+        }
+      ],
+      "orig": "Deoarece  apreciaz\u0103  \u00een  primul  r\u00e2nd  creativitatea  \u015fi  inova\u0163ia,  ENTP-ii  ignor\u0103  uneori modalit\u0103\u0163ile standard de a face lucrurile, pur \u015fi simplu pentru c\u0103 nu sunt originale. Dispre\u0163ul lor  intens  pentru  rutin\u0103  \u015fi  pentru  lucrurile  previzibile  \u00eei  poate  \u00eempiedica  s\u0103  remarce detaliile necesare. Uneori, ENTP-ii neglijeaz\u0103 preg\u0103tirile necesare \u015fi, \u00een dorin\u0163a de a \u00eencepe ceva nou, se  n\u0103pustesc prea repede. O dat\u0103 ce problemele majore au fost rezolvate, ei pornesc de multe ori spre urm\u0103toarea aventur\u0103 excitant\u0103 \u00een loc s\u0103 r\u0103m\u00e2n\u0103 pe loc pentru a vedea sf\u00e2r\u015fitul proiectului original. Trebuie s\u0103 \u00eencerce s\u0103 se dedice unui num\u0103r mai mic de proiecte, pentru a \u00eencheia mai multe din cele pe care le \u00eencep.",
+      "text": "Deoarece  apreciaz\u0103  \u00een  primul  r\u00e2nd  creativitatea  \u015fi  inova\u0163ia,  ENTP-ii  ignor\u0103  uneori modalit\u0103\u0163ile standard de a face lucrurile, pur \u015fi simplu pentru c\u0103 nu sunt originale. Dispre\u0163ul lor  intens  pentru  rutin\u0103  \u015fi  pentru  lucrurile  previzibile  \u00eei  poate  \u00eempiedica  s\u0103  remarce detaliile necesare. Uneori, ENTP-ii neglijeaz\u0103 preg\u0103tirile necesare \u015fi, \u00een dorin\u0163a de a \u00eencepe ceva nou, se  n\u0103pustesc prea repede. O dat\u0103 ce problemele majore au fost rezolvate, ei pornesc de multe ori spre urm\u0103toarea aventur\u0103 excitant\u0103 \u00een loc s\u0103 r\u0103m\u00e2n\u0103 pe loc pentru a vedea sf\u00e2r\u015fitul proiectului original. Trebuie s\u0103 \u00eencerce s\u0103 se dedice unui num\u0103r mai mic de proiecte, pentru a \u00eencheia mai multe din cele pe care le \u00eencep."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 272.27600000000007,
+            "r": 556.1560000000001,
+            "b": 192.512861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            567
+          ]
+        }
+      ],
+      "orig": "Adesea, ENTP-ii vorbesc at\u00e2t de repede \u015fi at\u00e2t de mult \u00eenc\u00e2t nu le permit celorlal\u0163i s\u0103 mai spun\u0103 ceva. Sunt one\u015fti \u015fi obiectivi, dar pot fi totodat\u0103 insensibili \u015fi lipsi\u0163i  de  tact,  datorit\u0103 permanentei lor atitudini critice fa\u0163\u0103 de al\u0163ii. ENTP-ii trebuie s\u0103 considere sentimentele altor indivizi  ca  fiind  valide  \u015fi  importante,  chiar  dac\u0103  nu  le  \u00eemp\u0103rt\u0103\u015fesc.  De\u015fi  pot  fi  \u00eenc\u00e2nt\u0103tori, amuzan\u0163i \u015fi pl\u0103cu\u0163i, ei pot fi \u015fi nesinceri. ENTP-ii trebuie s\u0103 se \u00eempotriveasc\u0103 imboldului de a se adapta \u015fi de a juca teatru, \u00eenlocuindu-l cu sentimentele lor reale.",
+      "text": "Adesea, ENTP-ii vorbesc at\u00e2t de repede \u015fi at\u00e2t de mult \u00eenc\u00e2t nu le permit celorlal\u0163i s\u0103 mai spun\u0103 ceva. Sunt one\u015fti \u015fi obiectivi, dar pot fi totodat\u0103 insensibili \u015fi lipsi\u0163i  de  tact,  datorit\u0103 permanentei lor atitudini critice fa\u0163\u0103 de al\u0163ii. ENTP-ii trebuie s\u0103 considere sentimentele altor indivizi  ca  fiind  valide  \u015fi  importante,  chiar  dac\u0103  nu  le  \u00eemp\u0103rt\u0103\u015fesc.  De\u015fi  pot  fi  \u00eenc\u00e2nt\u0103tori, amuzan\u0163i \u015fi pl\u0103cu\u0163i, ei pot fi \u015fi nesinceri. ENTP-ii trebuie s\u0103 se \u00eempotriveasc\u0103 imboldului de a se adapta \u015fi de a juca teatru, \u00eenlocuindu-l cu sentimentele lor reale."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 189.476,
+            "r": 555.9940000000001,
+            "b": 137.2928618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            374
+          ]
+        }
+      ],
+      "orig": "Ezitarea  lor  de  a  se  dedica  unui  singur  lucru  deriv\u0103  din  teama  c\u0103  pot  sc\u0103pa  alte oportunit\u0103\u0163i, mai atr\u0103g\u0103toare. Dorin\u0163a lor de a r\u0103m\u00e2ne receptivi la noile provoc\u0103ri \u00eei poate face nep\u0103s\u0103tori  fa\u0163\u0103  de  planurile  \u015fi  programele  altora.  Faptul  de  a  se  g\u00e2ndi  la  modul  \u00een  care ac\u0163iunile lor \u00eei afecteaz\u0103 pe al\u0163ii \u00eei va ajuta s\u0103 fie mai pu\u0163in capricio\u015fi.",
+      "text": "Ezitarea  lor  de  a  se  dedica  unui  singur  lucru  deriv\u0103  din  teama  c\u0103  pot  sc\u0103pa  alte oportunit\u0103\u0163i, mai atr\u0103g\u0103toare. Dorin\u0163a lor de a r\u0103m\u00e2ne receptivi la noile provoc\u0103ri \u00eei poate face nep\u0103s\u0103tori  fa\u0163\u0103  de  planurile  \u015fi  programele  altora.  Faptul  de  a  se  g\u00e2ndi  la  modul  \u00een  care ac\u0163iunile lor \u00eei afecteaz\u0103 pe al\u0163ii \u00eei va ajuta s\u0103 fie mai pu\u0163in capricio\u015fi."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 134.25599999999997,
+            "r": 555.994,
+            "b": 68.2928618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            482
+          ]
+        }
+      ],
+      "orig": "Rapiditatea lor \u00eenn\u0103scut\u0103 \u015fi capacitatea de a anticipa ce urmeaz\u0103 \u00eei determin\u0103, ocazional, pe ENTP-i s\u0103 considere \u00een mod eronat c\u0103 \u015ftiu ce va spune un anumit individ, astfel \u00eenc\u00e2t, ei se gr\u0103besc s\u0103 termine fraza respectivului. Dac\u0103 vor fi mai aten\u0163i la ceea ce se petrece de fapt \u00een  lumea  real\u0103  din  jurul  lor  \u015fi  vor  asculta  cu  aten\u0163ie  informa\u0163iile  primite  din  partea  altora  \u015fi observ\u0103 reac\u0163iile acestora, vor avea de c\u00e2\u015ftigat, f\u0103r\u0103 s\u0103 mai par\u0103 grosolani \u015fi arogan\u0163i.",
+      "text": "Rapiditatea lor \u00eenn\u0103scut\u0103 \u015fi capacitatea de a anticipa ce urmeaz\u0103 \u00eei determin\u0103, ocazional, pe ENTP-i s\u0103 considere \u00een mod eronat c\u0103 \u015ftiu ce va spune un anumit individ, astfel \u00eenc\u00e2t, ei se gr\u0103besc s\u0103 termine fraza respectivului. Dac\u0103 vor fi mai aten\u0163i la ceea ce se petrece de fapt \u00een  lumea  real\u0103  din  jurul  lor  \u015fi  vor  asculta  cu  aten\u0163ie  informa\u0163iile  primite  din  partea  altora  \u015fi observ\u0103 reac\u0163iile acestora, vor avea de c\u00e2\u015ftigat, f\u0103r\u0103 s\u0103 mai par\u0103 grosolani \u015fi arogan\u0163i."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.32,
+        "height": 842.04
+      },
+      "page_no": 1
+    }
+  }
+}

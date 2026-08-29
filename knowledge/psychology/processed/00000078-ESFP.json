@@ -1,0 +1,284 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "00000078-ESFP",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 10126058633759693838,
+    "filename": "00000078-ESFP.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 291.65,
+            "t": 783.9060000000001,
+            "r": 340.21,
+            "b": 768.7658181818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "ESFP",
+      "text": "ESFP",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 172.34,
+            "t": 749.28112,
+            "r": 440.89312,
+            "b": 736.68824839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Extravertit, Senzorial, Afectiv, Perceptiv",
+      "text": "Extravertit, Senzorial, Afectiv, Perceptiv",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 716.836,
+            "r": 556.18,
+            "b": 459.4428618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1526
+          ]
+        }
+      ],
+      "orig": "ESFP-ii iubesc oamenii \u015fi au un adev\u0103rat entuziasm fa\u0163\u0103 de via\u0163\u0103. Sunt zburdalnici \u015fi plini de verv\u0103, f\u0103c\u00e2nd ca totul s\u0103 fie mai amuzant pentru ceilal\u0163i, gra\u0163ie bucuriei lor pure, f\u0103r\u0103 opreli\u015fti. Adaptabili \u015fi relaxa\u0163i, ESFP-ii sunt calzi, prieteno\u015fi \u015fi genero\u015fi. Sunt extrem de sociabili \u015fi adesea \"joac\u0103\" pentru al\u0163ii. Entuzia\u015fti \u015fi cooperan\u0163i, se implic\u0103 \u00een diverse activit\u0103\u0163i \u015fi jocuri \u015fi, de obicei, se ocup\u0103 de mai multe lucruri simultan. ESFP-ii sunt observatori reali\u015fti, care v\u0103d \u015fi accept\u0103 lucrurile a\u015fa cum sunt ele. Tind s\u0103 se \u00eencread\u0103 \u00een ceea ce pot auzi, mirosi, atinge \u015fi vedea, \u015fi nu \u00een explica\u0163iile teoretice. \u00centruc\u00e2t le  plac  faptele  concrete  \u015fi  au  memoria  am\u0103nuntelor,  \u00eenva\u0163\u0103  cel  mai  bine  din  experien\u0163a direct\u0103.  Judecata  lor  s\u0103n\u0103toas\u0103  le  ofer\u0103  capacit\u0103\u0163i  practice  de  abordare  a  oamenilor  \u015fi lucrurilor.  Prefer\u0103  s\u0103  acumuleze  informa\u0163ii  \u015fi  s\u0103  vad\u0103  ce  solu\u0163ii  rezult\u0103  \u00een  mod  firesc  din acestea. Toleran\u0163i  \u015fi  accept\u00e2ndu-se  pe  sine  \u015fi  pe  al\u0163ii,  ESFP-ii  nu  \u00eencearc\u0103,  \u00een  general,  s\u0103-\u015fi impun\u0103 voin\u0163a asupra acestora. Plini de tact \u015fi \u00een\u0163eleg\u0103tori, ei sunt, de obicei, iubi\u0163i realmente de mul\u0163i oameni. \u00cen general, sunt capabili s\u0103-i conving\u0103 pe al\u0163ii s\u0103 le accepte sugestiile, de aceea  se  pricep  s\u0103  ajute  la  aplanarea  unor  conflicte  \u00eentre  frac\u0163iuni.  Caut\u0103  compania  altor persoane. Le place s\u0103-i ajute pe al\u0163ii, dar prefer\u0103 s\u0103 o fac\u0103 \u00een mod real, tangibil. Spontani \u015fi \u00eenc\u00e2nt\u0103tori, ESFP-ii sunt conving\u0103tori. Le plac surprizele \u015fi posibilitatea de a",
+      "text": "ESFP-ii iubesc oamenii \u015fi au un adev\u0103rat entuziasm fa\u0163\u0103 de via\u0163\u0103. Sunt zburdalnici \u015fi plini de verv\u0103, f\u0103c\u00e2nd ca totul s\u0103 fie mai amuzant pentru ceilal\u0163i, gra\u0163ie bucuriei lor pure, f\u0103r\u0103 opreli\u015fti. Adaptabili \u015fi relaxa\u0163i, ESFP-ii sunt calzi, prieteno\u015fi \u015fi genero\u015fi. Sunt extrem de sociabili \u015fi adesea \"joac\u0103\" pentru al\u0163ii. Entuzia\u015fti \u015fi cooperan\u0163i, se implic\u0103 \u00een diverse activit\u0103\u0163i \u015fi jocuri \u015fi, de obicei, se ocup\u0103 de mai multe lucruri simultan. ESFP-ii sunt observatori reali\u015fti, care v\u0103d \u015fi accept\u0103 lucrurile a\u015fa cum sunt ele. Tind s\u0103 se \u00eencread\u0103 \u00een ceea ce pot auzi, mirosi, atinge \u015fi vedea, \u015fi nu \u00een explica\u0163iile teoretice. \u00centruc\u00e2t le  plac  faptele  concrete  \u015fi  au  memoria  am\u0103nuntelor,  \u00eenva\u0163\u0103  cel  mai  bine  din  experien\u0163a direct\u0103.  Judecata  lor  s\u0103n\u0103toas\u0103  le  ofer\u0103  capacit\u0103\u0163i  practice  de  abordare  a  oamenilor  \u015fi lucrurilor.  Prefer\u0103  s\u0103  acumuleze  informa\u0163ii  \u015fi  s\u0103  vad\u0103  ce  solu\u0163ii  rezult\u0103  \u00een  mod  firesc  din acestea. Toleran\u0163i  \u015fi  accept\u00e2ndu-se  pe  sine  \u015fi  pe  al\u0163ii,  ESFP-ii  nu  \u00eencearc\u0103,  \u00een  general,  s\u0103-\u015fi impun\u0103 voin\u0163a asupra acestora. Plini de tact \u015fi \u00een\u0163eleg\u0103tori, ei sunt, de obicei, iubi\u0163i realmente de mul\u0163i oameni. \u00cen general, sunt capabili s\u0103-i conving\u0103 pe al\u0163ii s\u0103 le accepte sugestiile, de aceea  se  pricep  s\u0103  ajute  la  aplanarea  unor  conflicte  \u00eentre  frac\u0163iuni.  Caut\u0103  compania  altor persoane. Le place s\u0103-i ajute pe al\u0163ii, dar prefer\u0103 s\u0103 o fac\u0103 \u00een mod real, tangibil. Spontani \u015fi \u00eenc\u00e2nt\u0103tori, ESFP-ii sunt conving\u0103tori. Le plac surprizele \u015fi posibilitatea de a"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 456.38599999999997,
+            "r": 384.886,
+            "b": 445.622861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "g\u0103si modalit\u0103\u0163i care s\u0103-i \u00eenc\u00e2nte \u00een mod nea\u015fteptat pe ceilal\u0163i.",
+      "text": "g\u0103si modalit\u0103\u0163i care s\u0103-i \u00eenc\u00e2nte \u00een mod nea\u015fteptat pe ceilal\u0163i."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 428.906,
+            "r": 199.346,
+            "b": 418.1621679558011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Posibile puncte nevralgice",
+      "text": "Posibile puncte nevralgice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 409.106,
+            "r": 556.1560000000001,
+            "b": 301.71286187845305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            772
+          ]
+        }
+      ],
+      "orig": "Deoarece ESFP-ii acord\u0103 o \u00eensemn\u0103tate at\u00e2t de mare tr\u0103irii din plin a vie\u0163ii, bucur\u00e2ndu-se de  ea,  e  posibil  ca  alte  responsabilit\u0103\u0163i  de-ale  lor  s\u0103  sufere  c\u00e2teodat\u0103.  Permanenta  lor socializare le poate produce necazuri \u015fi, fiindc\u0103 sunt at\u00e2t de u\u015for de ispitit, au dificult\u0103\u0163i cu autodisciplina. Predilec\u0163ia ESFP-ilor de a se l\u0103sa distra\u015fi de la terminarea sarcinilor pe care le-au \u00eenceput \u00eei poate \u00eempinge spre lene. Ac\u0163ion\u00e2nd \u00een direc\u0163ia alc\u0103tuirii unei liste de priorit\u0103\u0163i \u015fi a g\u0103sirii unui echilibru \u00eentre munc\u0103 \u015fi relaxare, ei vor dob\u00e2ndi o perspectiv\u0103 mai vast\u0103 \u015fi o viziune pe termen mai lung asupra vie\u0163ii lor. Folosirea de metode acceptate \u015fi \u00eencununate de succes pentru organizarea \u015fi gestionarea timpului, \u00eei ajut\u0103 s\u0103-\u015fi \u00eenving\u0103 aceast\u0103 predispozi\u0163ie",
+      "text": "Deoarece ESFP-ii acord\u0103 o \u00eensemn\u0103tate at\u00e2t de mare tr\u0103irii din plin a vie\u0163ii, bucur\u00e2ndu-se de  ea,  e  posibil  ca  alte  responsabilit\u0103\u0163i  de-ale  lor  s\u0103  sufere  c\u00e2teodat\u0103.  Permanenta  lor socializare le poate produce necazuri \u015fi, fiindc\u0103 sunt at\u00e2t de u\u015for de ispitit, au dificult\u0103\u0163i cu autodisciplina. Predilec\u0163ia ESFP-ilor de a se l\u0103sa distra\u015fi de la terminarea sarcinilor pe care le-au \u00eenceput \u00eei poate \u00eempinge spre lene. Ac\u0163ion\u00e2nd \u00een direc\u0163ia alc\u0103tuirii unei liste de priorit\u0103\u0163i \u015fi a g\u0103sirii unui echilibru \u00eentre munc\u0103 \u015fi relaxare, ei vor dob\u00e2ndi o perspectiv\u0103 mai vast\u0103 \u015fi o viziune pe termen mai lung asupra vie\u0163ii lor. Folosirea de metode acceptate \u015fi \u00eencununate de succes pentru organizarea \u015fi gestionarea timpului, \u00eei ajut\u0103 s\u0103-\u015fi \u00eenving\u0103 aceast\u0103 predispozi\u0163ie"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 298.67599999999993,
+            "r": 556.0720000000002,
+            "b": 143.892861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            920
+          ]
+        }
+      ],
+      "orig": "natural\u0103. Via\u0163a lor  activ\u0103  \u00eei  \u0163ine  at\u00e2t  de  ocupa\u0163i,  \u00eenc\u00e2t  nu  izbutesc  s\u0103-\u015fi  traseze  planuri  de  viitor. Aceasta \u00eei \u00eempiedic\u0103 s\u0103 fie preg\u0103ti\u0163i pentru schimb\u0103rile din via\u0163\u0103, pe care le-ar aborda mai u\u015for, dac\u0103 semnele apropierii lor ar fi fost sesizate. ESFP-ii trebuie s\u0103 \u00eencerce s\u0103 anticipeze ceea ce se poate \u00eent\u00e2mpla \u015fi s\u0103 dezvolte un plan alternativ, pentru cazul \u00een care situa\u0163ia ar deveni nepl\u0103cut\u0103. De  asemenea,  ESFP-ii  tind  s\u0103  ia  decizii  f\u0103r\u0103  s\u0103  analizeze  consecin\u0163ele  logice  ale ac\u0163iunilor  lor.  Se  \u00eencred  \u00een  propriile  sentimente  \u015fi  le  folosesc  p\u00e2n\u0103  aproape  de  excluderea datelor mai obiective. \u00ce\u015fi apreciaz\u0103 \u00een a\u015fa m\u0103sur\u0103 prietenii, \u00eenc\u00e2t tind s\u0103 le vad\u0103 doar laturile pozitive.  ESFP-ii  trebuie  s\u0103  se  retrag\u0103  un  pas,  pentru  a  se  g\u00e2ndi  la  cauzele  \u015fi  la  efectele ac\u0163iunilor lor, \u015fi s\u0103 \u00eencerce s\u0103 devin\u0103 mai pu\u0163in afectivi. Dac\u0103 o vor face, nu le va mai fi greu",
+      "text": "natural\u0103. Via\u0163a lor  activ\u0103  \u00eei  \u0163ine  at\u00e2t  de  ocupa\u0163i,  \u00eenc\u00e2t  nu  izbutesc  s\u0103-\u015fi  traseze  planuri  de  viitor. Aceasta \u00eei \u00eempiedic\u0103 s\u0103 fie preg\u0103ti\u0163i pentru schimb\u0103rile din via\u0163\u0103, pe care le-ar aborda mai u\u015for, dac\u0103 semnele apropierii lor ar fi fost sesizate. ESFP-ii trebuie s\u0103 \u00eencerce s\u0103 anticipeze ceea ce se poate \u00eent\u00e2mpla \u015fi s\u0103 dezvolte un plan alternativ, pentru cazul \u00een care situa\u0163ia ar deveni nepl\u0103cut\u0103. De  asemenea,  ESFP-ii  tind  s\u0103  ia  decizii  f\u0103r\u0103  s\u0103  analizeze  consecin\u0163ele  logice  ale ac\u0163iunilor  lor.  Se  \u00eencred  \u00een  propriile  sentimente  \u015fi  le  folosesc  p\u00e2n\u0103  aproape  de  excluderea datelor mai obiective. \u00ce\u015fi apreciaz\u0103 \u00een a\u015fa m\u0103sur\u0103 prietenii, \u00eenc\u00e2t tind s\u0103 le vad\u0103 doar laturile pozitive.  ESFP-ii  trebuie  s\u0103  se  retrag\u0103  un  pas,  pentru  a  se  g\u00e2ndi  la  cauzele  \u015fi  la  efectele ac\u0163iunilor lor, \u015fi s\u0103 \u00eencerce s\u0103 devin\u0103 mai pu\u0163in afectivi. Dac\u0103 o vor face, nu le va mai fi greu"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 140.856,
+            "r": 112.676,
+            "b": 130.09286187845305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "s\u0103 refuze.",
+      "text": "s\u0103 refuze."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.32,
+        "height": 842.04
+      },
+      "page_no": 1
+    }
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "00000086-ISTJ",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 14237100017940300653,
+    "filename": "00000086-ISTJ.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 256.49,
+            "t": 797.706,
+            "r": 294.41600000000005,
+            "b": 782.5658181818181,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "ISTJ",
+      "text": "ISTJ"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 186.41,
+            "t": 769.516,
+            "r": 426.406,
+            "b": 758.752861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Introvertit, Senzorial, G\u00e2nditor, Judec\u0103tor",
+      "text": "Introvertit, Senzorial, G\u00e2nditor, Judec\u0103tor",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 741.22972,
+            "r": 555.68048,
+            "b": 713.06128,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "ISTJ-ii  sunt  atle\u0163ii  serio\u015fi,  responsabili  \u015fi  sensibili  ai  societ\u0103\u0163ii.  \u00cen  ei  se  poate  avea \u00eencredere, \u00eentruc\u00e2t \u00ee\u015fi onoreaz\u0103 angajamentele. Cuv\u00e2ntul lor este un leg\u0103m\u00e2nt solemn.",
+      "text": "ISTJ-ii  sunt  atle\u0163ii  serio\u015fi,  responsabili  \u015fi  sensibili  ai  societ\u0103\u0163ii.  \u00cen  ei  se  poate  avea \u00eencredere, \u00eentruc\u00e2t \u00ee\u015fi onoreaz\u0103 angajamentele. Cuv\u00e2ntul lor este un leg\u0103m\u00e2nt solemn."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 706.0697200000001,
+            "r": 555.8268800000002,
+            "b": 645.7412800000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            363
+          ]
+        }
+      ],
+      "orig": "Practici \u015fi reali\u015fti, ISTJ-ii sunt prozaici \u015fi meticulo\u015fi. Ei sunt teribil de preci\u015fi \u015fi de metodici, cu mare putere de concentrare. Indiferent ce ar face, procedeaz\u0103 cu acurate\u0163e \u015fi  cu  temeinicie.  Au  idei  de  neclintit,  bine  elaborate  \u015fi  sunt  greu  de  distras  ori  de descurajat, odat\u0103 ce au pornit pe ceea ce consider\u0103 drept calea optim\u0103 de ac\u0163iune.",
+      "text": "Practici \u015fi reali\u015fti, ISTJ-ii sunt prozaici \u015fi meticulo\u015fi. Ei sunt teribil de preci\u015fi \u015fi de metodici, cu mare putere de concentrare. Indiferent ce ar face, procedeaz\u0103 cu acurate\u0163e \u015fi  cu  temeinicie.  Au  idei  de  neclintit,  bine  elaborate  \u015fi  sunt  greu  de  distras  ori  de descurajat, odat\u0103 ce au pornit pe ceea ce consider\u0103 drept calea optim\u0103 de ac\u0163iune."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 638.74972,
+            "r": 555.9986000000001,
+            "b": 546.1112800000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            497
+          ]
+        }
+      ],
+      "orig": "\u00cen  general  t\u0103cu\u0163i  \u015fi  muncitori,  ISTJ-ii  de\u0163in  o  bun\u0103  judecat\u0103  practic\u0103  \u015fi  o  bun\u0103 memorie \u00een privin\u0163a detaliilor. Ei pot cita dovezi exacte \u00een sprijinul opiniilor personale \u015fi aplic\u0103 experien\u0163a trecut\u0103 la deciziile prezente. Apreciaz\u0103 \u015fi utilizeaz\u0103 logica \u015fi analiza impersonal\u0103,  sunt  organiza\u0163i  \u015fi  sistematici  \u00een  modul  cum  abordeaz\u0103  lucrurile  \u015fi  le sf\u00e2r\u015fesc \u00eentotdeauna la timp.  Urmeaz\u0103 metodele \u015fi opera\u0163iile necesare \u015fi sunt nemul\u0163umi\u0163i de cei care nu procedeaz\u0103 la fel.",
+      "text": "\u00cen  general  t\u0103cu\u0163i  \u015fi  muncitori,  ISTJ-ii  de\u0163in  o  bun\u0103  judecat\u0103  practic\u0103  \u015fi  o  bun\u0103 memorie \u00een privin\u0163a detaliilor. Ei pot cita dovezi exacte \u00een sprijinul opiniilor personale \u015fi aplic\u0103 experien\u0163a trecut\u0103 la deciziile prezente. Apreciaz\u0103 \u015fi utilizeaz\u0103 logica \u015fi analiza impersonal\u0103,  sunt  organiza\u0163i  \u015fi  sistematici  \u00een  modul  cum  abordeaz\u0103  lucrurile  \u015fi  le sf\u00e2r\u015fesc \u00eentotdeauna la timp.  Urmeaz\u0103 metodele \u015fi opera\u0163iile necesare \u015fi sunt nemul\u0163umi\u0163i de cei care nu procedeaz\u0103 la fel."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 539.11972,
+            "r": 556.1266,
+            "b": 462.59128,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            412
+          ]
+        }
+      ],
+      "orig": "ISTJ-ii  sunt  precau\u0163i  \u015fi  tradi\u0163ionali.  Sunt  buni  ascult\u0103tori;  totodat\u0103,  le  place  ca lucrurile s\u0103 fie bine \u015fi corect prezentate. Se afirm\u0103 despre ei c\u0103 \"spun ceea ce vor \u015fi vor ceea ce spun\". Retra\u015fi prin natur\u0103, ISTJ-ii par calmi chiar \u015fi \u00een momentele de criz\u0103. Sunt fermi \u015fi se dedic\u0103 total sarcinilor ce le revin, dar sub fa\u0163ada lor calm\u0103 se pot ascunde sentimente puternice, de\u015fi rareori exprimate.",
+      "text": "ISTJ-ii  sunt  precau\u0163i  \u015fi  tradi\u0163ionali.  Sunt  buni  ascult\u0103tori;  totodat\u0103,  le  place  ca lucrurile s\u0103 fie bine \u015fi corect prezentate. Se afirm\u0103 despre ei c\u0103 \"spun ceea ce vor \u015fi vor ceea ce spun\". Retra\u015fi prin natur\u0103, ISTJ-ii par calmi chiar \u015fi \u00een momentele de criz\u0103. Sunt fermi \u015fi se dedic\u0103 total sarcinilor ce le revin, dar sub fa\u0163ada lor calm\u0103 se pot ascunde sentimente puternice, de\u015fi rareori exprimate."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 442.51376,
+            "r": 209.48,
+            "b": 430.4078763636363,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Posibile puncte nevralgice",
+      "text": "Posibile puncte nevralgice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 420.41972,
+            "r": 556.1501199999998,
+            "b": 343.89128,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            457
+          ]
+        }
+      ],
+      "orig": "O problem\u0103 comun\u0103 a ISTJ-ilor este tendin\u0163a de a se pierde \u00een detaliile \u015fi opera\u0163iunile cotidiene ale unui proiect. O dat\u0103 afunda\u0163i \u00een acestea, ei pot deveni rigizi \u015fi nedoritori s\u0103 se adapteze ori s\u0103 accepte alt punct de vedere. Tind s\u0103 fie sceptici \u00een privin\u0163a ideilor noi, dac\u0103  nu  \u00eentrev\u0103d  aplicarea  lor  imediat\u0103.  Trebuie  s\u0103  dedice  mai  mult  timp  analiz\u0103rii obiectivelor lor generale \u015fi s\u0103 ia \u00een considere variante pe care poate le-au ignorat.",
+      "text": "O problem\u0103 comun\u0103 a ISTJ-ilor este tendin\u0163a de a se pierde \u00een detaliile \u015fi opera\u0163iunile cotidiene ale unui proiect. O dat\u0103 afunda\u0163i \u00een acestea, ei pot deveni rigizi \u015fi nedoritori s\u0103 se adapteze ori s\u0103 accepte alt punct de vedere. Tind s\u0103 fie sceptici \u00een privin\u0163a ideilor noi, dac\u0103  nu  \u00eentrev\u0103d  aplicarea  lor  imediat\u0103.  Trebuie  s\u0103  dedice  mai  mult  timp  analiz\u0103rii obiectivelor lor generale \u015fi s\u0103 ia \u00een considere variante pe care poate le-au ignorat."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 336.89972,
+            "r": 556.1569599999998,
+            "b": 292.50127999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "Adun\u00e2nd  un  volum  mai  mare  de  informa\u0163ii  \u015fi  str\u0103duindu-se,  \u00een  mod  con\u015ftient,  s\u0103 anticipeze implica\u0163iile viitoare ale comportamentului lor, \u00ee\u015fi vor spori eficien\u0163a \u00een toate domeniile.",
+      "text": "Adun\u00e2nd  un  volum  mai  mare  de  informa\u0163ii  \u015fi  str\u0103duindu-se,  \u00een  mod  con\u015ftient,  s\u0103 anticipeze implica\u0163iile viitoare ale comportamentului lor, \u00ee\u015fi vor spori eficien\u0163a \u00een toate domeniile."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 285.50972,
+            "r": 555.9400400000001,
+            "b": 225.18128000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            303
+          ]
+        }
+      ],
+      "orig": "Uneori, ISTJ-ii au dificult\u0103\u0163i s\u0103 \u00een\u0163eleag\u0103 nevoile altora, mai cu seam\u0103 pe cele care difer\u0103 de ale lor. Deoarece nu-\u015fi exteriorizeaz\u0103 sentimentele, pot l\u0103sa impresia c\u0103 sunt reci \u015fi insensibili. ISTJ-ii trebuie s\u0103-\u015fi exprime aprecierea fa\u0163\u0103 de al\u0163ii \u00een mod direct, nu s-o \u00eenchid\u0103 \u00een ad\u00e2ncul sufletului.",
+      "text": "Uneori, ISTJ-ii au dificult\u0103\u0163i s\u0103 \u00een\u0163eleag\u0103 nevoile altora, mai cu seam\u0103 pe cele care difer\u0103 de ale lor. Deoarece nu-\u015fi exteriorizeaz\u0103 sentimentele, pot l\u0103sa impresia c\u0103 sunt reci \u015fi insensibili. ISTJ-ii trebuie s\u0103-\u015fi exprime aprecierea fa\u0163\u0103 de al\u0163ii \u00een mod direct, nu s-o \u00eenchid\u0103 \u00een ad\u00e2ncul sufletului."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 218.18971999999997,
+            "r": 556.1294799999998,
+            "b": 173.82128,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "Fiind logici, ISTJ-ii tind s\u0103 se a\u015ftepte la acela\u015fi lucru \u015fi din partea celorlal\u0163i. Ei risc\u0103 s\u0103 le impun\u0103 altora propriile judec\u0103\u0163i \u015fi s\u0103 nu asculte p\u0103rerile unor persoane mai pu\u0163in agresive.",
+      "text": "Fiind logici, ISTJ-ii tind s\u0103 se a\u015ftepte la acela\u015fi lucru \u015fi din partea celorlal\u0163i. Ei risc\u0103 s\u0103 le impun\u0103 altora propriile judec\u0103\u0163i \u015fi s\u0103 nu asculte p\u0103rerile unor persoane mai pu\u0163in agresive."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 166.82971999999995,
+            "r": 556.0365199999999,
+            "b": 106.48127999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            341
+          ]
+        }
+      ],
+      "orig": "ISTJ-ii  le  pot  cere  celorlal\u0163i  s\u0103  se  conformeze  felului  lor  de  a  face  lucrurile  \u015fi  s\u0103 descurajeze abord\u0103ri mai creative sau inovatoare. R\u0103m\u00e2n\u00e2nd deschi\u015fi fa\u0163\u0103 de metodele netestate sau neconven\u0163ionale, \u00ee\u015fi vor dezvolta o toleran\u0163\u0103 mai mare fa\u0163\u0103 de diferen\u0163ele dintre oameni, c\u00e2\u015ftig\u00e2nd astfel variante \u015fi op\u0163iuni mai eficiente.",
+      "text": "ISTJ-ii  le  pot  cere  celorlal\u0163i  s\u0103  se  conformeze  felului  lor  de  a  face  lucrurile  \u015fi  s\u0103 descurajeze abord\u0103ri mai creative sau inovatoare. R\u0103m\u00e2n\u00e2nd deschi\u015fi fa\u0163\u0103 de metodele netestate sau neconven\u0163ionale, \u00ee\u015fi vor dezvolta o toleran\u0163\u0103 mai mare fa\u0163\u0103 de diferen\u0163ele dintre oameni, c\u00e2\u015ftig\u00e2nd astfel variante \u015fi op\u0163iuni mai eficiente."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 247.0673984112836,
+            "t": 808.1028002929687,
+            "r": 306.4839053324245,
+            "b": 777.5724449369491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.32,
+        "height": 842.04
+      },
+      "page_no": 1
+    }
+  }
+}

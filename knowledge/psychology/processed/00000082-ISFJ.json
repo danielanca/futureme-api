@@ -1,0 +1,344 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "00000082-ISFJ",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4292362583998974948,
+    "filename": "00000082-ISFJ.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 280.61,
+            "t": 740.946,
+            "r": 322.07,
+            "b": 725.8058181818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "ISFJ",
+      "text": "ISFJ",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 180.98,
+            "t": 705.36112,
+            "r": 449.41312,
+            "b": 692.76824839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Introvertit, Senzorial, Afectiv, Judec\u0103tor",
+      "text": "Introvertit, Senzorial, Afectiv, Judec\u0103tor",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.88,
+            "t": 675.9159999999999,
+            "r": 572.7580000000003,
+            "b": 651.352861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "ISFJ-ii sunt loiali, devota\u0163i, plini de compasiune \u015fi receptivi fa\u0163\u0103 de sentimentele altora. Sunt con\u015ftiincio\u015fi \u015fi reponsabili, \u015fi le place s\u0103 fie solicita\u0163i.",
+      "text": "ISFJ-ii sunt loiali, devota\u0163i, plini de compasiune \u015fi receptivi fa\u0163\u0103 de sentimentele altora. Sunt con\u015ftiincio\u015fi \u015fi reponsabili, \u015fi le place s\u0103 fie solicita\u0163i."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.88,
+            "t": 648.316,
+            "r": 572.908,
+            "b": 596.152861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            351
+          ]
+        }
+      ],
+      "orig": "ISFJ-ii  sunt  indivizi  reali\u015fti,  cu  picioarele  pe  p\u0103m\u00e2nt,  care  prefer\u0103  persoanele  lini\u015ftite  \u015fi rezervate. Ei absorb un num\u0103r mare de fapte, pe care le folosesc cu pl\u0103cere. Av\u00e2nd o memorie deosebit\u0103 \u00een privin\u0163a detaliilor, sunt r\u0103bd\u0103tori \u00een etapa de derulare a sarcinilor. ISFJ-ilor le place ca lucrurile s\u0103 fie clare \u015fi explicit prezentate.",
+      "text": "ISFJ-ii  sunt  indivizi  reali\u015fti,  cu  picioarele  pe  p\u0103m\u00e2nt,  care  prefer\u0103  persoanele  lini\u015ftite  \u015fi rezervate. Ei absorb un num\u0103r mare de fapte, pe care le folosesc cu pl\u0103cere. Av\u00e2nd o memorie deosebit\u0103 \u00een privin\u0163a detaliilor, sunt r\u0103bd\u0103tori \u00een etapa de derulare a sarcinilor. ISFJ-ilor le place ca lucrurile s\u0103 fie clare \u015fi explicit prezentate."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.88,
+            "t": 593.116,
+            "r": 572.884,
+            "b": 527.122861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            446
+          ]
+        }
+      ],
+      "orig": "Deoarece au o etic\u0103 a muncii, ei accept\u0103 responsabilitatea pentru lucrurile ce trebuie f\u0103cute, dac\u0103  v\u0103d  c\u0103  ac\u0163iunile  lor  pot  ajuta  cu  adev\u0103rat.  Sunt  extrem  de  meticulo\u015fi  \u015fi  sistematici  \u00een \u00eendeplinirea sarcinilor. ISFJ-ii tind s\u0103 fie conservatori, respect\u00e2nd valorile tradi\u0163ionale. Ei folosesc judecata  practic\u0103  \u00een  luarea  deciziilor  \u015fi  contribuie  la  stabilitate  prin  excelenta  lor  perspectiv\u0103 asupra sim\u0163ului realit\u0103\u0163ii.",
+      "text": "Deoarece au o etic\u0103 a muncii, ei accept\u0103 responsabilitatea pentru lucrurile ce trebuie f\u0103cute, dac\u0103  v\u0103d  c\u0103  ac\u0163iunile  lor  pot  ajuta  cu  adev\u0103rat.  Sunt  extrem  de  meticulo\u015fi  \u015fi  sistematici  \u00een \u00eendeplinirea sarcinilor. ISFJ-ii tind s\u0103 fie conservatori, respect\u00e2nd valorile tradi\u0163ionale. Ei folosesc judecata  practic\u0103  \u00een  luarea  deciziilor  \u015fi  contribuie  la  stabilitate  prin  excelenta  lor  perspectiv\u0103 asupra sim\u0163ului realit\u0103\u0163ii."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.88,
+            "t": 524.086,
+            "r": 572.956,
+            "b": 444.32286187845307,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            622
+          ]
+        }
+      ],
+      "orig": "T\u0103cu\u0163i  \u015fi  mode\u015fti,  ISFJ-ii  sunt  serio\u015fi  \u015fi  muncitori.  Sunt  bl\u00e2nzi,  sim\u0163itori  \u015fi  plini  de  tact, ajut\u00e2ndu-\u015fi prietenii \u015fi colegii. Le place s\u0103 aib\u0103 grij\u0103 de al\u0163ii \u015fi prefer\u0103 s\u0103 ajute \u00een mod practic, tangibil. \u00ce\u015fi folosesc c\u0103ldura personal\u0103 pentru a comunica \u015fi interac\u0163ioneaz\u0103 bine cu indivizi afla\u0163i \u00een  cumpn\u0103.  ISFJ-ii  manifest\u0103  tendin\u0163\u0103  de  a  nu-\u015fi  etala  sentimentele  intime,  dar  au  o  reac\u0163ie personal\u0103  intens\u0103  fa\u0163\u0103  de  cele  mai  multe  situa\u0163ii  \u015fi  evenimente.  Sunt  protectori  \u015fi  devota\u0163i prietenilor lor, con\u015ftien\u0163i de importan\u0163a muncii depuse, preocupa\u0163i de respectarea obliga\u0163iilor.",
+      "text": "T\u0103cu\u0163i  \u015fi  mode\u015fti,  ISFJ-ii  sunt  serio\u015fi  \u015fi  muncitori.  Sunt  bl\u00e2nzi,  sim\u0163itori  \u015fi  plini  de  tact, ajut\u00e2ndu-\u015fi prietenii \u015fi colegii. Le place s\u0103 aib\u0103 grij\u0103 de al\u0163ii \u015fi prefer\u0103 s\u0103 ajute \u00een mod practic, tangibil. \u00ce\u015fi folosesc c\u0103ldura personal\u0103 pentru a comunica \u015fi interac\u0163ioneaz\u0103 bine cu indivizi afla\u0163i \u00een  cumpn\u0103.  ISFJ-ii  manifest\u0103  tendin\u0163\u0103  de  a  nu-\u015fi  etala  sentimentele  intime,  dar  au  o  reac\u0163ie personal\u0103  intens\u0103  fa\u0163\u0103  de  cele  mai  multe  situa\u0163ii  \u015fi  evenimente.  Sunt  protectori  \u015fi  devota\u0163i prietenilor lor, con\u015ftien\u0163i de importan\u0163a muncii depuse, preocupa\u0163i de respectarea obliga\u0163iilor."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.88,
+            "t": 427.606,
+            "r": 199.556,
+            "b": 416.8621679558011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Posibile puncte nevralgice",
+      "text": "Posibile puncte nevralgice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.88,
+            "t": 410.666,
+            "r": 572.92,
+            "b": 358.502861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            352
+          ]
+        }
+      ],
+      "orig": "Deoarece tr\u0103iesc at\u00e2t de total \u00een clipa prezent\u0103, ISFJ-ii au probleme \u00een perceperea global\u0103 a evenimentelor sau \u00een anticiparea posibilelor rezultate ale unei situa\u0163ii, mai cu seam\u0103 atunci c\u00e2nd aceasta nu este familial\u0103. Ei au nevoie de ajutor pentru a privi dincolo de prezent \u015fi a-\u015fi imagina ce s-ar putea \u00eent\u00e2mpla dac\u0103 lucrurile s-ar face \u00een alt mod.",
+      "text": "Deoarece tr\u0103iesc at\u00e2t de total \u00een clipa prezent\u0103, ISFJ-ii au probleme \u00een perceperea global\u0103 a evenimentelor sau \u00een anticiparea posibilelor rezultate ale unei situa\u0163ii, mai cu seam\u0103 atunci c\u00e2nd aceasta nu este familial\u0103. Ei au nevoie de ajutor pentru a privi dincolo de prezent \u015fi a-\u015fi imagina ce s-ar putea \u00eent\u00e2mpla dac\u0103 lucrurile s-ar face \u00een alt mod."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.88,
+            "t": 355.466,
+            "r": 572.956,
+            "b": 275.70286187845306,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            597
+          ]
+        }
+      ],
+      "orig": "ISFJ-ii se pot \u00eempotmoli \u00een obstacolele cotidiene \u015fi \u00een problemele f\u0103r\u0103 sf\u00e2r\u015fit din jurul lor - at\u00e2t cele personale, c\u00e2t \u015fi ale altora, fa\u0163\u0103 de care ei se simt responsabili. Pot obosi cu u\u015furin\u0163\u0103, fiindc\u0103 fac totul singuri, ca s\u0103 se asigure c\u0103 sarcinile sunt \u00eendeplinite \u00een detaliu. Nefiind autoritari prin  natur\u0103,  nici  duri,  ei  risc\u0103  s\u0103  fie  exploata\u0163i.  Trebuie  s\u0103-\u015fi  exprime  sentimentele,  ori resentimentele, adesea z\u0103g\u0103zuite, pentru a nu ajunge \u00een situa\u0163ia de a avea ei \u00een\u015fi\u015fi nevoie de ajutor. De asemenea, este necesar s\u0103-i lase pe al\u0163ii s\u0103 le cunoasc\u0103 trebuin\u0163ele \u015fi realiz\u0103rile.",
+      "text": "ISFJ-ii se pot \u00eempotmoli \u00een obstacolele cotidiene \u015fi \u00een problemele f\u0103r\u0103 sf\u00e2r\u015fit din jurul lor - at\u00e2t cele personale, c\u00e2t \u015fi ale altora, fa\u0163\u0103 de care ei se simt responsabili. Pot obosi cu u\u015furin\u0163\u0103, fiindc\u0103 fac totul singuri, ca s\u0103 se asigure c\u0103 sarcinile sunt \u00eendeplinite \u00een detaliu. Nefiind autoritari prin  natur\u0103,  nici  duri,  ei  risc\u0103  s\u0103  fie  exploata\u0163i.  Trebuie  s\u0103-\u015fi  exprime  sentimentele,  ori resentimentele, adesea z\u0103g\u0103zuite, pentru a nu ajunge \u00een situa\u0163ia de a avea ei \u00een\u015fi\u015fi nevoie de ajutor. De asemenea, este necesar s\u0103-i lase pe al\u0163ii s\u0103 le cunoasc\u0103 trebuin\u0163ele \u015fi realiz\u0103rile."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.88,
+            "t": 272.66599999999994,
+            "r": 572.956,
+            "b": 220.47286187845305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            374
+          ]
+        }
+      ],
+      "orig": "Adesea, ISFJ-ii au nevoie de un timp mai \u00eendelungat pentru a st\u0103p\u00e2ni problemele tehnice. Au predilec\u0163ie pentru planificarea excesiv\u0103 \u015fi trebuie s\u0103-\u015fi dezvolte strategii care s\u0103-i ajute s\u0103-\u015fi refocalizeze  energia  pe  care  o  irosesc  f\u0103c\u00e2ndu-\u015fi  griji  inutile.  ISFJ-ii  trebuie  s\u0103  g\u0103seasc\u0103 modalit\u0103\u0163i de a ob\u0163ine bucuria at\u00e2t de necesar\u0103 \u015fi relaxarea pe care o merit\u0103.",
+      "text": "Adesea, ISFJ-ii au nevoie de un timp mai \u00eendelungat pentru a st\u0103p\u00e2ni problemele tehnice. Au predilec\u0163ie pentru planificarea excesiv\u0103 \u015fi trebuie s\u0103-\u015fi dezvolte strategii care s\u0103-i ajute s\u0103-\u015fi refocalizeze  energia  pe  care  o  irosesc  f\u0103c\u00e2ndu-\u015fi  griji  inutile.  ISFJ-ii  trebuie  s\u0103  g\u0103seasc\u0103 modalit\u0103\u0163i de a ob\u0163ine bucuria at\u00e2t de necesar\u0103 \u015fi relaxarea pe care o merit\u0103."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

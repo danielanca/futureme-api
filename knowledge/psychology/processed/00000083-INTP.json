@@ -1,0 +1,284 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "00000083-INTP",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 612486400257725763,
+    "filename": "00000083-INTP.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 284.57,
+            "t": 769.606,
+            "r": 332.05,
+            "b": 754.4658181818181,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "INTP",
+      "text": "INTP",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 169.58,
+            "t": 735.24112,
+            "r": 429.49312,
+            "b": 722.64824839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Introvertit, Intuitiv, G\u00e2nditor, Perceptiv",
+      "text": "Introvertit, Intuitiv, G\u00e2nditor, Perceptiv",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 702.676,
+            "r": 541.996,
+            "b": 448.38286187845307,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1482
+          ]
+        }
+      ],
+      "orig": "INTP-ii solu\u0163ioneaz\u0103 probleme conceptuale. Sunt intelectuali \u015fi logici, cu str\u0103fulger\u0103ri de creativitate excep\u0163ional\u0103. T\u0103cu\u0163i, rezerva\u0163i \u015fi deta\u015fa\u0163i \u00een exterior, INTP-ii sunt absorbi\u0163i \u00een plan l\u0103untric de analiza problemelor. Sunt critici, preci\u015fi \u015fi sceptici. Ei \u00eencearc\u0103 s\u0103 g\u0103seasc\u0103 \u015fi s\u0103 utilizeze principii pentru a \u00een\u0163elege numeroasele lor idei. Le place ca discu\u0163iile s\u0103 fie logice \u015fi cu scop, \u015fi pot argumenta, despic\u00e2nd firul \u00een patru, doar pentru amuzament. INTP-ii sunt convin\u015fi numai de ra\u0163ionamentele logice. De  obicei,  INTP-ii  sunt  g\u00e2nditori  ingenio\u015fi  \u015fi  originali. \u00ce\u015fi  apreciaz\u0103  inteligen\u0163a, manifest\u0103 o puternic\u0103 pornire spre competen\u0163a personal\u0103 \u015fi sunt interesa\u0163i s\u0103-i provoace pe  al\u0163ii  s\u0103  devin\u0103  mai  competen\u0163i.  INTP-ii  sunt  \u00een  primul  r\u00e2nd  interesa\u0163i  de  a  \u00eentrez\u0103ri posibilit\u0103\u0163i dincolo de cele cunoscute, acceptate sau evidente \u00een mod curent. Le place s\u0103 dezvolte  modele  pentru  \u00eembun\u0103t\u0103\u0163irea  felului  \u00een  care  se  prezint\u0103  lucrurile  sau  pentru rezolvarea problemelor dificile. G\u00e2ndesc \u00eentr-o manier\u0103 extrem de complex\u0103 \u015fi sunt mai degrab\u0103  capabili  s\u0103  organizeze  ideile  \u015fi  conceptele,  dec\u00e2t  s\u0103-i  organizeze  pe  oameni. Ocazional, ideile lor sunt at\u00e2t de complexe \u00eenc\u00e2t au dificult\u0103\u0163i \u00een a le comunica \u015fi a-i face pe al\u0163ii s\u0103 le \u00een\u0163eleag\u0103. Extrem de independen\u0163i, INTP-ii sunt atra\u015fi de activit\u0103\u0163ile speculative \u015fi imaginative. Sunt flexibili \u015fi cu mintea deschis\u0103, fiind mai interesa\u0163i de g\u0103sirea unor solu\u0163ii creative, dar",
+      "text": "INTP-ii solu\u0163ioneaz\u0103 probleme conceptuale. Sunt intelectuali \u015fi logici, cu str\u0103fulger\u0103ri de creativitate excep\u0163ional\u0103. T\u0103cu\u0163i, rezerva\u0163i \u015fi deta\u015fa\u0163i \u00een exterior, INTP-ii sunt absorbi\u0163i \u00een plan l\u0103untric de analiza problemelor. Sunt critici, preci\u015fi \u015fi sceptici. Ei \u00eencearc\u0103 s\u0103 g\u0103seasc\u0103 \u015fi s\u0103 utilizeze principii pentru a \u00een\u0163elege numeroasele lor idei. Le place ca discu\u0163iile s\u0103 fie logice \u015fi cu scop, \u015fi pot argumenta, despic\u00e2nd firul \u00een patru, doar pentru amuzament. INTP-ii sunt convin\u015fi numai de ra\u0163ionamentele logice. De  obicei,  INTP-ii  sunt  g\u00e2nditori  ingenio\u015fi  \u015fi  originali. \u00ce\u015fi  apreciaz\u0103  inteligen\u0163a, manifest\u0103 o puternic\u0103 pornire spre competen\u0163a personal\u0103 \u015fi sunt interesa\u0163i s\u0103-i provoace pe  al\u0163ii  s\u0103  devin\u0103  mai  competen\u0163i.  INTP-ii  sunt  \u00een  primul  r\u00e2nd  interesa\u0163i  de  a  \u00eentrez\u0103ri posibilit\u0103\u0163i dincolo de cele cunoscute, acceptate sau evidente \u00een mod curent. Le place s\u0103 dezvolte  modele  pentru  \u00eembun\u0103t\u0103\u0163irea  felului  \u00een  care  se  prezint\u0103  lucrurile  sau  pentru rezolvarea problemelor dificile. G\u00e2ndesc \u00eentr-o manier\u0103 extrem de complex\u0103 \u015fi sunt mai degrab\u0103  capabili  s\u0103  organizeze  ideile  \u015fi  conceptele,  dec\u00e2t  s\u0103-i  organizeze  pe  oameni. Ocazional, ideile lor sunt at\u00e2t de complexe \u00eenc\u00e2t au dificult\u0103\u0163i \u00een a le comunica \u015fi a-i face pe al\u0163ii s\u0103 le \u00een\u0163eleag\u0103. Extrem de independen\u0163i, INTP-ii sunt atra\u015fi de activit\u0103\u0163ile speculative \u015fi imaginative. Sunt flexibili \u015fi cu mintea deschis\u0103, fiind mai interesa\u0163i de g\u0103sirea unor solu\u0163ii creative, dar"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 445.346,
+            "r": 358.846,
+            "b": 434.58286187845306,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "corecte, dec\u00e2t de transpunerea acelor solu\u0163ii \u00een realitate.",
+      "text": "corecte, dec\u00e2t de transpunerea acelor solu\u0163ii \u00een realitate."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 411.19112,
+            "r": 223.31312,
+            "b": 398.6208365082873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Posibile puncte nevralgice",
+      "text": "Posibile puncte nevralgice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 392.546,
+            "r": 541.8880000000001,
+            "b": 340.38286187845307,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            385
+          ]
+        }
+      ],
+      "orig": "Deoarece  se  bazeaz\u0103  at\u00e2t  de  mult  pe  analiza  logic\u0103,  INTP-ii  pot  trece  cu  vederea ceea  ce  conteaz\u0103  pentru  al\u0163ii.  Dac\u0103  ceva  nu  este  logic,  INTP-ii  risc\u0103  s\u0103-l  abandoneze, chiar  dac\u0103  este  important  pentru  ei.  Dac\u0103  vor  admite  fa\u0163\u0103  de  ei  \u00een\u015fi\u015fi  lucrurile  care conteaz\u0103  realmente  pentru  ei,  vor  reu\u015fi  s\u0103  r\u0103m\u00e2n\u0103  \u00een  contact  cu  adev\u0103ratele  lor",
+      "text": "Deoarece  se  bazeaz\u0103  at\u00e2t  de  mult  pe  analiza  logic\u0103,  INTP-ii  pot  trece  cu  vederea ceea  ce  conteaz\u0103  pentru  al\u0163ii.  Dac\u0103  ceva  nu  este  logic,  INTP-ii  risc\u0103  s\u0103-l  abandoneze, chiar  dac\u0103  este  important  pentru  ei.  Dac\u0103  vor  admite  fa\u0163\u0103  de  ei  \u00een\u015fi\u015fi  lucrurile  care conteaz\u0103  realmente  pentru  ei,  vor  reu\u015fi  s\u0103  r\u0103m\u00e2n\u0103  \u00een  contact  cu  adev\u0103ratele  lor"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 337.346,
+            "r": 541.996,
+            "b": 138.25286187845302,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1144
+          ]
+        }
+      ],
+      "orig": "sentimente. Excelen\u0163i \u00een detectarea punctelor slabe ale unei idei, INTP-ii sunt mai reticen\u0163i \u00een a-\u015fi exprima aprecierile. Ei pot s\u0103 fac\u0103 o fixa\u0163ie pe o eroare minor\u0103 dintr-un plan \u015fi s\u0103 stopeze \u00eentregul proiect, pentru c\u0103 refuz\u0103 men\u0163inerea unui aspect ilogic. Atunci c\u00e2nd \u00ee\u015fi \u00eendreapt\u0103 foarte  \u015flefuitele  capacit\u0103\u0163i  de  g\u00e2ndire  critic\u0103  asupra  celor  din  jur,  onestitatea  lor  poate \u00eembr\u0103ca forma unor jigniri neinten\u0163ionate. Trebuie s\u0103 li se spun\u0103 \u015fi trebuie s\u0103 \u00eenve\u0163e s\u0103 \u00eentrebe ce anume este important, din punct de vedere emo\u0163ional, pentru al\u0163ii. Fascina\u0163i  de  rezolvarea  problemelor,  INTP-ii  tind  s\u0103  se  plictiseasc\u0103  de  detaliile rutiniere  \u015fi  \u00ee\u015fi  pot  pierde  interesul  fa\u0163\u0103  de  un  proiect,  netermin\u00e2ndu-l  dac\u0103  necesit\u0103  o munc\u0103 prea \u00eendelungat\u0103 sau dac\u0103 el con\u0163ine prea multe deta\u0163ii. Orient\u00e2ndu-\u015fi energia spre exterior, vor putea c\u00e2\u015ftiga suficiente cuno\u015ftin\u0163e practice pentru ca ideile lor s\u0103 fie utile \u015fi acceptabile pentru ceilal\u0163i. Uneori, INTP-ii se simt neadecvat atunci c\u00e2nd \u00eencearc\u0103 s\u0103 tr\u0103iasc\u0103 conform propriilor lor standarde de perfec\u0163iune. Dac\u0103 vor \u00eenv\u0103\u0163a s\u0103 \u00eempart\u0103 sentimentele acelea cu altcineva,",
+      "text": "sentimente. Excelen\u0163i \u00een detectarea punctelor slabe ale unei idei, INTP-ii sunt mai reticen\u0163i \u00een a-\u015fi exprima aprecierile. Ei pot s\u0103 fac\u0103 o fixa\u0163ie pe o eroare minor\u0103 dintr-un plan \u015fi s\u0103 stopeze \u00eentregul proiect, pentru c\u0103 refuz\u0103 men\u0163inerea unui aspect ilogic. Atunci c\u00e2nd \u00ee\u015fi \u00eendreapt\u0103 foarte  \u015flefuitele  capacit\u0103\u0163i  de  g\u00e2ndire  critic\u0103  asupra  celor  din  jur,  onestitatea  lor  poate \u00eembr\u0103ca forma unor jigniri neinten\u0163ionate. Trebuie s\u0103 li se spun\u0103 \u015fi trebuie s\u0103 \u00eenve\u0163e s\u0103 \u00eentrebe ce anume este important, din punct de vedere emo\u0163ional, pentru al\u0163ii. Fascina\u0163i  de  rezolvarea  problemelor,  INTP-ii  tind  s\u0103  se  plictiseasc\u0103  de  detaliile rutiniere  \u015fi  \u00ee\u015fi  pot  pierde  interesul  fa\u0163\u0103  de  un  proiect,  netermin\u00e2ndu-l  dac\u0103  necesit\u0103  o munc\u0103 prea \u00eendelungat\u0103 sau dac\u0103 el con\u0163ine prea multe deta\u0163ii. Orient\u00e2ndu-\u015fi energia spre exterior, vor putea c\u00e2\u015ftiga suficiente cuno\u015ftin\u0163e practice pentru ca ideile lor s\u0103 fie utile \u015fi acceptabile pentru ceilal\u0163i. Uneori, INTP-ii se simt neadecvat atunci c\u00e2nd \u00eencearc\u0103 s\u0103 tr\u0103iasc\u0103 conform propriilor lor standarde de perfec\u0163iune. Dac\u0103 vor \u00eenv\u0103\u0163a s\u0103 \u00eempart\u0103 sentimentele acelea cu altcineva,"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 135.216,
+            "r": 461.716,
+            "b": 124.45286187845306,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "vor putea ob\u0163ine o imagine mai realist\u0103 \u015fi mai obiectiv\u0103 a propriei persoane.",
+      "text": "vor putea ob\u0163ine o imagine mai realist\u0103 \u015fi mai obiectiv\u0103 a propriei persoane."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.32,
+        "height": 842.04
+      },
+      "page_no": 1
+    }
+  }
+}

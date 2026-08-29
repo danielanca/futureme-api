@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "description": "Hartă de rutare pentru selectarea documentelor aprobate din knowledge/psychology/processed înaintea căutării fragmentelor.",
+  "processed_root": "knowledge/psychology/processed",
+  "categories": [
+    { "id": "futureme", "label": "Metodologia FutureMe", "keywords": ["futureme", "modul", "evaluare", "raport", "feedback", "profil", "rezultat", "interpretare"], "paths": ["*FutureMe*", "*AI*", "*comportament*", "*modul*", "*interpretare*"] },
+    { "id": "career-counselling", "label": "Consiliere și dezvoltare în carieră", "keywords": ["carieră", "cariera", "consiliere în carieră", "vocațional", "vocational", "job", "profesie", "alegere profesională", "plan profesional", "dezvoltare profesională", "tranziție profesională"], "paths": ["*carier*", "*career*", "*couns*", "*guidance*", "*rainbow*", "*parachute*"] },
+    { "id": "personality", "label": "Personalitate și MBTI", "keywords": ["mbti", "personalitate", "tip de personalitate", "infj", "intj", "enfj", "enfp", "entj", "entp", "esfj", "esfp", "estp", "infp", "isfj", "istj", "istp", "intp", "isfp", "extrovert", "introvert", "stil de personalitate"], "paths": ["*MBTI*", "*INFJ*", "*INTJ*", "*ENFP*", "*ENFJ*", "*ENTJ*", "*ENTP*", "*ESFJ*", "*ESFP*", "*ESTP*", "*INFP*", "*ISFJ*", "*ISTJ*", "*ISTP*", "*INTP*", "*ISFP*"] },
+    { "id": "decision-making", "label": "Stil decizional și valori", "keywords": ["decizie", "decizional", "stil decizional", "valori", "aleg", "strategie", "tranziție", "transition", "schimbare", "opțiuni"], "paths": ["*deciz*", "*Choices*", "*Transitions*", "*valo*"] },
+    { "id": "assessment-tools", "label": "Chestionare și instrumente de evaluare", "keywords": ["chestionar", "test", "holland", "aptitudini", "interese", "scor", "item", "întrebări", "răspunsuri", "profil holland"], "paths": ["*Chestionar*", "*Test*", "*Holland*", "*Simulator*"] },
+    { "id": "ethics", "label": "Etică și practică profesională", "keywords": ["etică", "ethic", "confidențial", "consimțământ", "counselling skill", "professional", "limite profesionale", "relația de consiliere"], "paths": ["*Ethical*", "*ethic*", "*McLeod*", "*skill*", "*couns skill*"] },
+    { "id": "career-planning", "label": "Planificare și explorare profesională", "keywords": ["planificare carieră", "explorare profesională", "obiective profesionale", "drum profesional", "meserie potrivită", "ce carieră", "ce profesie"], "paths": ["*planning*", "*pathway*", "*Drumuri*", "*Choices*", "*Transitions*", "*Bolles*"] },
+    { "id": "counselling-methods", "label": "Metode de consiliere", "keywords": ["metodă de consiliere", "tehnică de consiliere", "abilități de consiliere", "intervenție", "consiliere psihologică", "consiliere vocațională"], "paths": ["*Counselling*", "*counselling*", "*Consilierea*", "*skill*", "*Sigma*"] }
+  ],
+  "documents": [
+    { "path": "knowledge/psychology/processed/*MBTI*", "description": "Chestionare, foi de răspuns și interpretări pentru tipurile de personalitate MBTI." },
+    { "path": "knowledge/psychology/processed/*decizional*", "description": "Instrumente și interpretări pentru stilul de luare a deciziilor." },
+    { "path": "knowledge/psychology/processed/*Holland*", "description": "Chestionar și repere pentru interesele vocaționale Holland." },
+    { "path": "knowledge/psychology/processed/*carier*", "description": "Consiliere, dezvoltare și planificare a carierei." },
+    { "path": "knowledge/psychology/processed/*career*", "description": "Modele și metode de orientare și dezvoltare profesională." },
+    { "path": "knowledge/psychology/processed/*Ethical*", "description": "Cod etic și principii pentru practica de consiliere." },
+    { "path": "knowledge/psychology/processed/*skill*", "description": "Abilități și tehnici de consiliere." }
+  ]
+}

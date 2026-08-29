@@ -1,0 +1,404 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "00000074-ENFP",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 17628143466003513855,
+    "filename": "00000074-ENFP.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 291.65,
+            "t": 805.1460000000001,
+            "r": 343.21,
+            "b": 790.0058181818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "ENFP",
+      "text": "ENFP",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 205.49,
+            "t": 771.7959999999999,
+            "r": 421.606,
+            "b": 761.032861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Extravertit, Intuitiv, Afectiv, Perceptiv",
+      "text": "Extravertit, Intuitiv, Afectiv, Perceptiv",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 748.996,
+            "r": 569.8640000000003,
+            "b": 710.632861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            216
+          ]
+        }
+      ],
+      "orig": "ENFP-ii sunt plini de entuziasm \u015fi de idei noi. Optimi\u015fti, spontani, creativi \u015fi \u00eencrez\u0103tori, ei au min\u0163i  originale  \u015fi  un  sim\u0163  puternic  al  posibilului.  Pentru  un  ENFP,  via\u0163a  este  un  spectacol palpitant.",
+      "text": "ENFP-ii sunt plini de entuziasm \u015fi de idei noi. Optimi\u015fti, spontani, creativi \u015fi \u00eencrez\u0103tori, ei au min\u0163i  originale  \u015fi  un  sim\u0163  puternic  al  posibilului.  Pentru  un  ENFP,  via\u0163a  este  un  spectacol palpitant."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 707.596,
+            "r": 570.238,
+            "b": 655.4328618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            300
+          ]
+        }
+      ],
+      "orig": "Deoarece sunt at\u00e2t de interesa\u0163i de posibilit\u0103\u0163i, ENFP-ii disting semnifica\u0163ii \u00een toate lucrurile \u015fi prefer\u0103 s\u0103 p\u0103streze deschise c\u00e2t mai mlte op\u0163iuni. Sunt observatori perceptivi \u015fi ageri, care remarc\u0103 orice lucru deosebit. ENFP-ii sunt curio\u015fi; ei prefer\u0103 mai degrab\u0103 s\u0103 \u00een\u0163eleag\u0103, dec\u00e2t s\u0103 judece.",
+      "text": "Deoarece sunt at\u00e2t de interesa\u0163i de posibilit\u0103\u0163i, ENFP-ii disting semnifica\u0163ii \u00een toate lucrurile \u015fi prefer\u0103 s\u0103 p\u0103streze deschise c\u00e2t mai mlte op\u0163iuni. Sunt observatori perceptivi \u015fi ageri, care remarc\u0103 orice lucru deosebit. ENFP-ii sunt curio\u015fi; ei prefer\u0103 mai degrab\u0103 s\u0103 \u00een\u0163eleag\u0103, dec\u00e2t s\u0103 judece."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 652.396,
+            "r": 570.0860000000001,
+            "b": 600.2028618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            300
+          ]
+        }
+      ],
+      "orig": "Imaginativi, aler\u0163i \u015fi adaptabili, ENFP-ii apreciaz\u0103 mai mult dec\u00e2t orice inspira\u0163ia \u015fi adesea sunt inventatori ingenio\u015fi. Uneori sunt nonconformi\u015fti \u015fi se pricep s\u0103 \u00eentrez\u0103reasc\u0103 modalit\u0103\u0163i noi de a realiza activit\u0103\u0163ile. ENFP-ii deschid noi direc\u0163ii pentru g\u00e2ndire sau ac\u0163iune \u015fi le men\u0163in deschise.",
+      "text": "Imaginativi, aler\u0163i \u015fi adaptabili, ENFP-ii apreciaz\u0103 mai mult dec\u00e2t orice inspira\u0163ia \u015fi adesea sunt inventatori ingenio\u015fi. Uneori sunt nonconformi\u015fti \u015fi se pricep s\u0103 \u00eentrez\u0103reasc\u0103 modalit\u0103\u0163i noi de a realiza activit\u0103\u0163ile. ENFP-ii deschid noi direc\u0163ii pentru g\u00e2ndire sau ac\u0163iune \u015fi le men\u0163in deschise."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 597.1659999999999,
+            "r": 570.4,
+            "b": 545.002861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            322
+          ]
+        }
+      ],
+      "orig": "\u00cen  \u00eendeplinirea  ideilor  lor  novatoare,  ENFP-ii  se  bizuie  pe  energia  lor  impulsiv\u0103.  Au  o mul\u0163ime de ini\u0163iative \u015fi g\u0103sesc problemele stimulatoare. De asemenea, ei primesc o infuzie de energie atunci c\u00e2nd se afl\u0103 \u00een prezen\u0163a altor persoane \u015fi-\u015fi pot combina, cu succes, talentele cu punctele tari ale celorlal\u0163i.",
+      "text": "\u00cen  \u00eendeplinirea  ideilor  lor  novatoare,  ENFP-ii  se  bizuie  pe  energia  lor  impulsiv\u0103.  Au  o mul\u0163ime de ini\u0163iative \u015fi g\u0103sesc problemele stimulatoare. De asemenea, ei primesc o infuzie de energie atunci c\u00e2nd se afl\u0103 \u00een prezen\u0163a altor persoane \u015fi-\u015fi pot combina, cu succes, talentele cu punctele tari ale celorlal\u0163i."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 541.966,
+            "r": 570.364,
+            "b": 476.002861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            472
+          ]
+        }
+      ],
+      "orig": "ENFP-ii sunt \u00eenc\u00e2nt\u0103tori  \u015fi  plini  de  vitalitate.  Ei  trateaz\u0103  oamenii  cu  simpatie,  bl\u00e2nde\u0163e  \u015fi c\u0103ldur\u0103 \u015fi sunt gata s\u0103 ajute pe oricine are probleme. Pot fi remarcabil de intuitivi \u015fi perceptivi, \u015fi adesea sunt interesa\u0163i de dezvoltarea altora. ENFP-ii evit\u0103 conflictele \u015fi prefer\u0103 armonia. Ei utilizeaz\u0103 mai mult\u0103 energie \u00een men\u0163inerea rela\u0163iilor personale dec\u00e2t \u00een men\u0163inerea obiectelor, \u015fi le place s\u0103 p\u0103streze \"\u00een stare activ\u0103\" o mare diversitate de rela\u0163ii.",
+      "text": "ENFP-ii sunt \u00eenc\u00e2nt\u0103tori  \u015fi  plini  de  vitalitate.  Ei  trateaz\u0103  oamenii  cu  simpatie,  bl\u00e2nde\u0163e  \u015fi c\u0103ldur\u0103 \u015fi sunt gata s\u0103 ajute pe oricine are probleme. Pot fi remarcabil de intuitivi \u015fi perceptivi, \u015fi adesea sunt interesa\u0163i de dezvoltarea altora. ENFP-ii evit\u0103 conflictele \u015fi prefer\u0103 armonia. Ei utilizeaz\u0103 mai mult\u0103 energie \u00een men\u0163inerea rela\u0163iilor personale dec\u00e2t \u00een men\u0163inerea obiectelor, \u015fi le place s\u0103 p\u0103streze \"\u00een stare activ\u0103\" o mare diversitate de rela\u0163ii."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 456.26599999999996,
+            "r": 199.346,
+            "b": 445.5221679558011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Posibile puncte nevralgice",
+      "text": "Posibile puncte nevralgice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 439.346,
+            "r": 570.3999999999999,
+            "b": 359.58286187845306,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            561
+          ]
+        }
+      ],
+      "orig": "Deoarece  g\u0103sesc  c\u0103  este  at\u00e2t  de  u\u015for  s\u0103  genereze  idei,  ENFP-ii  au  dificult\u0103\u0163i  \u00een  a  se concentra asupra unui singur lucru o dat\u0103 \u015fi pot avea probleme \u00een luarea deciziilor. Ei \u00eentrev\u0103d at\u00e2t de multe posibilit\u0103\u0163i \u00eenc\u00e2t \u00eent\u00e2mpin\u0103 dificult\u0103\u0163i \u00een selectarea celei mai bune activit\u0103\u0163i sau a celui mai important interes. Uneori, fac alegeri mai pu\u0163in reu\u015fite sau se implic\u0103 \u00een prea multe lucruri simultan. Aleg\u00e2nd cu aten\u0163ie direc\u0163ia \u00een care trebuie s\u0103-\u015fi focalizeze energia, ENFP-ii pot evita pierderea timpului \u015fi irosirea considerabilelor lor talente.",
+      "text": "Deoarece  g\u0103sesc  c\u0103  este  at\u00e2t  de  u\u015for  s\u0103  genereze  idei,  ENFP-ii  au  dificult\u0103\u0163i  \u00een  a  se concentra asupra unui singur lucru o dat\u0103 \u015fi pot avea probleme \u00een luarea deciziilor. Ei \u00eentrev\u0103d at\u00e2t de multe posibilit\u0103\u0163i \u00eenc\u00e2t \u00eent\u00e2mpin\u0103 dificult\u0103\u0163i \u00een selectarea celei mai bune activit\u0103\u0163i sau a celui mai important interes. Uneori, fac alegeri mai pu\u0163in reu\u015fite sau se implic\u0103 \u00een prea multe lucruri simultan. Aleg\u00e2nd cu aten\u0163ie direc\u0163ia \u00een care trebuie s\u0103-\u015fi focalizeze energia, ENFP-ii pot evita pierderea timpului \u015fi irosirea considerabilelor lor talente."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 356.546,
+            "r": 570.238,
+            "b": 249.152861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            691
+          ]
+        }
+      ],
+      "orig": "Pentru ace\u015fti oameni, partea amuzant\u0103 a unui proiect este rezolvarea problemei ini\u0163iale \u015fi crearea a ceva nou. Le place s\u0103-\u015fi exercite inspira\u0163ia asupra p\u0103r\u0163ilor importante \u015fi provocatoare a unei probleme. Dup\u0103 ce dep\u0103\u015fesc etapa respectiv\u0103, ei \u00ee\u015fi pierd adesea interesul pentru ceea ce fac; le lipse\u015fte autodisciplina necesar\u0103 pentru a completa ceea ce au \u00eenceput. Obi\u015fnuiesc s\u0103 \u00eenceap\u0103 multe proiecte, dar termin\u0103 pu\u0163ine. ENFP-ii \u00ee\u015fi demonstreaz\u0103 valoarea eforturilor atunci c\u00e2nd  parcurg  p\u0103r\u0163ile  necesare,  dar  lungi  \u015fi  obositoare,  ale  unui  proiect  p\u00e2n\u0103  la  \u00eencheierea acestuia. Adesea, enumerarea \u00een scris a factorilor sau a etapelor importante \u00eei ajut\u0103 s\u0103 nu se abat\u0103 din drum.",
+      "text": "Pentru ace\u015fti oameni, partea amuzant\u0103 a unui proiect este rezolvarea problemei ini\u0163iale \u015fi crearea a ceva nou. Le place s\u0103-\u015fi exercite inspira\u0163ia asupra p\u0103r\u0163ilor importante \u015fi provocatoare a unei probleme. Dup\u0103 ce dep\u0103\u015fesc etapa respectiv\u0103, ei \u00ee\u015fi pierd adesea interesul pentru ceea ce fac; le lipse\u015fte autodisciplina necesar\u0103 pentru a completa ceea ce au \u00eenceput. Obi\u015fnuiesc s\u0103 \u00eenceap\u0103 multe proiecte, dar termin\u0103 pu\u0163ine. ENFP-ii \u00ee\u015fi demonstreaz\u0103 valoarea eforturilor atunci c\u00e2nd  parcurg  p\u0103r\u0163ile  necesare,  dar  lungi  \u015fi  obositoare,  ale  unui  proiect  p\u00e2n\u0103  la  \u00eencheierea acestuia. Adesea, enumerarea \u00een scris a factorilor sau a etapelor importante \u00eei ajut\u0103 s\u0103 nu se abat\u0103 din drum."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 246.11599999999999,
+            "r": 570.412,
+            "b": 166.35286187845304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            557
+          ]
+        }
+      ],
+      "orig": "\u00cen mod frecvent, ENFP-ii nu sunt indivizi foarte bine organiza\u0163i. Ei pot beneficia de pe urma \u00eenv\u00e2\u0163\u0103rii \u015fi aplic\u0103rii gestion\u0103rii timpului \u015fi a capacit\u0103\u0163ilor personale de organizare. Se descurc\u0103 foarte bine atunci c\u00e2nd fac echip\u0103 cu alte persoane, mai realiste \u015fi mai practice. Oricum, situa\u0163ia respectiv\u0103 este una care le convine, fiindc\u0103 ENFP-ilor nu le place s\u0103 lucreze singuri, mai ales pe perioada \u00eendelungate. Ei consider\u0103 c\u0103 lucrul al\u0103turi de altcineva, chiar \u00eentr-o etap\u0103 mai pu\u0163in interesant\u0103 a unui proiect, este preferabil lucrului de unul singur.",
+      "text": "\u00cen mod frecvent, ENFP-ii nu sunt indivizi foarte bine organiza\u0163i. Ei pot beneficia de pe urma \u00eenv\u00e2\u0163\u0103rii \u015fi aplic\u0103rii gestion\u0103rii timpului \u015fi a capacit\u0103\u0163ilor personale de organizare. Se descurc\u0103 foarte bine atunci c\u00e2nd fac echip\u0103 cu alte persoane, mai realiste \u015fi mai practice. Oricum, situa\u0163ia respectiv\u0103 este una care le convine, fiindc\u0103 ENFP-ilor nu le place s\u0103 lucreze singuri, mai ales pe perioada \u00eendelungate. Ei consider\u0103 c\u0103 lucrul al\u0103turi de altcineva, chiar \u00eentr-o etap\u0103 mai pu\u0163in interesant\u0103 a unui proiect, este preferabil lucrului de unul singur."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 163.31600000000003,
+            "r": 570.436,
+            "b": 42.132861878453014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            846
+          ]
+        }
+      ],
+      "orig": "ENFP-ii nu sunt prea interesa\u0163i de am\u0103nunte. Deoarece sunt mai \u00eenc\u00e2nta\u0163i s\u0103-\u015fi foloseasc\u0103 imagina\u0163ia  \u015fi  s\u0103  creeze  ceva  original,  este  posibil  s\u0103  nu  se  deranjeze  s\u0103  culeag\u0103  toate informa\u0163iile de care au nevoie pentru a \u00eendeplini o activitate anume. Uneori, ei improvizeaz\u0103 pe moment,  \u00een  loc  s\u0103  planifice  \u015fi  s\u0103  se  preg\u0103teasc\u0103  din  timp.  Deoarece  consider\u0103  plictisitoare str\u00e2ngerea informa\u0163iilor, ENFP-ii se confrunt\u0103 cu riscul de a nu dep\u0103\u015fi niciodat\u0103 stadiul de \"idee sclipitoare\"  sau,  o  dat\u0103  porni\u0163i,  de  a  nu  mai  termina.  \u00centotdeauna  \u00een  mi\u015fcare,  ei  prefer\u0103  s\u0103 am\u00e2ne  am\u0103nuntele  enervante  \u015fi  s\u0103  treac\u0103  la  altceva  nou  sau  neobi\u015fnuit.  ENFP-ii  sunt  mai eficien\u0163i atunci c\u00e2nd particip\u0103 \u00een mod con\u015ftient la lumea din jurul lor \u015fi culeg impresii mai realiste pentru a-\u015fi pune \u00een func\u0163iune inova\u0163iile.",
+      "text": "ENFP-ii nu sunt prea interesa\u0163i de am\u0103nunte. Deoarece sunt mai \u00eenc\u00e2nta\u0163i s\u0103-\u015fi foloseasc\u0103 imagina\u0163ia  \u015fi  s\u0103  creeze  ceva  original,  este  posibil  s\u0103  nu  se  deranjeze  s\u0103  culeag\u0103  toate informa\u0163iile de care au nevoie pentru a \u00eendeplini o activitate anume. Uneori, ei improvizeaz\u0103 pe moment,  \u00een  loc  s\u0103  planifice  \u015fi  s\u0103  se  preg\u0103teasc\u0103  din  timp.  Deoarece  consider\u0103  plictisitoare str\u00e2ngerea informa\u0163iilor, ENFP-ii se confrunt\u0103 cu riscul de a nu dep\u0103\u015fi niciodat\u0103 stadiul de \"idee sclipitoare\"  sau,  o  dat\u0103  porni\u0163i,  de  a  nu  mai  termina.  \u00centotdeauna  \u00een  mi\u015fcare,  ei  prefer\u0103  s\u0103 am\u00e2ne  am\u0103nuntele  enervante  \u015fi  s\u0103  treac\u0103  la  altceva  nou  sau  neobi\u015fnuit.  ENFP-ii  sunt  mai eficien\u0163i atunci c\u00e2nd particip\u0103 \u00een mod con\u015ftient la lumea din jurul lor \u015fi culeg impresii mai realiste pentru a-\u015fi pune \u00een func\u0163iune inova\u0163iile."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.32,
+        "height": 842.04
+      },
+      "page_no": 1
+    }
+  }
+}

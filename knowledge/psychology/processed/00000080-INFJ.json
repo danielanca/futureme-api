@@ -1,0 +1,193 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "00000080-INFJ",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 13927903766269392322,
+    "filename": "00000080-INFJ.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.01,
+            "t": 738.546,
+            "r": 345.49,
+            "b": 723.4058181818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "INFJ",
+      "text": "INFJ"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 191.78,
+            "t": 705.84112,
+            "r": 438.49312,
+            "b": 693.24824839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Introvetit, Intuitiv, Afectiv, Judec\u0103tor",
+      "text": "Introvetit, Intuitiv, Afectiv, Judec\u0103tor",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.4,
+            "t": 676.396,
+            "r": 579.436,
+            "b": 334.38286187845307,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2298
+          ]
+        }
+      ],
+      "orig": "INFJ  -ii  tr\u0103iesc  \u00eentr-o  lume  a  ideilor.  Sunt  g\u00e2nditori  independen\u0163i,  originali,  cu  sentimente puternice, principii ferme \u015fi integritate personal\u0103. Chiar  \u00een  fa\u0163a  scepticilor,  ei  se  \u00eencred  \u00een  ideile  \u015fi  \u00een  deciziile  lor.  Sunt  motiva\u0163i  de  o  viziune interioar\u0103 pe  care o  apreciaz\u0103  mai mult dec\u00e2t orice altceva,  inclusiv  opiniile  majoritare sau  cele apartin\u00e2nd unor autorit\u0103\u0163i recunoscute. Adesea, INFJ-ii disting in\u0163elesuri mai profunde \u015fi au intui\u0163ii revelatoare.  Inspira\u0163iile  lor  sunt  importante  \u015fi  valide  pentru  ei,  chiar  dac\u0103  al\u0163ii  nu  le  \u00eemp\u0103rt\u0103\u015fesc entuziasmul. INFJ-ii  sunt  loiali,  dedica\u0163i  \u015fi  ideali\u015fti.  Ei  caut\u0103,  \u00een  mod  discret,  dar  cu  insisten\u0163\u0103,  s\u0103  impun\u0103 acceptarea  \u015fi  aplicarea  lor.  Apreciaz\u0103  integritatea  \u015fi  pot  fi  deci\u015fi  p\u00e2n\u0103  la  \u00eenc\u0103p\u0103\u0163inare.  Datorit\u0103 t\u0103riei convingerilor \u015fi a viziunii limpezi a ceea ce este cel mai bun pentru binele general, INFJ-ii pot fi excelen\u0163i conduc\u0103tori. Ei sunt adesea onora\u0163i sau respecta\u0163i pentru contribu\u0163iile aduse. Deoarece  apreciaz\u0103  armonia  \u015fi  \u00een\u0163elegerea,  INFJ-ilor  le  pace  s\u0103-i  conving\u0103  pe  al\u0163ii  de validitatea punctului lor de vedere. Ei ob\u0163in cooperarea altor indivizi, folosind laudele \u015fi aprob\u0103rile, iar nu intimid\u0103rile sau argumentele. INFJ-ii se vor str\u0103dui din r\u0103sputeri s\u0103 promoveze camaraderia \u015fi s\u0103 evite conflictele. Lu\u00e2nd,  \u00een  general,  deciziile  dup\u0103  o  chibzuin\u0163\u0103  atent\u0103,  INFJ-ii  consider\u0103  c\u0103  problemele  sunt stimulatoare  \u015fi  obisnuiesc  s\u0103  reflecteze  cu  aten\u0163ie  \u00eenainte  de  a  ac\u0163iona.  Ei  prefer\u0103  s\u0103  se concentreze  mai  mult  asupra  c\u00e2te  unui  lucru,  pe  r\u00e2nd,  ceea  ce  poate  duce  la  perioade  de unidirec\u0163ionalitate. Afectivi  \u015fi  grijulii,  INFJ-ii  au  o  dorin\u0163\u0103  puternic\u0103  de  a  contribui  la  bun\u0103starea  altora.  Ei  sunt con\u0163tien\u0163i  de  sentimentele  \u015fi  interesele  altor  persoane,  \u015fi  adesea  se  descurc\u0103  bine  cu  indivizi complica\u0163i. INFJ-ii \u00een\u015fi\u015fi au, \u00een general, personalit\u0103\u0163i profunde, complexe, \u015fi pot fi at\u00e2t sensibili, c\u00e2t \u015fi vehemen\u0163i. Pot fi rezerva\u0163i \u015fi greu de cunoscut, dar doritori s\u0103-\u015fi \u00eempart\u0103 fr\u0103m\u00e2nt\u0103rile interioare cu cei \u00een care au \u00eencredere. Obi\u015fnuiesc s\u0103 aib\u0103 un grup restr\u00e2ns de prieteni vechi, fiind capabili s\u0103 genereze entuziasm \u015fi c\u0103ldur\u0103 personal\u0103 \u00een circumstan\u0163ele cuvenite.",
+      "text": "INFJ  -ii  tr\u0103iesc  \u00eentr-o  lume  a  ideilor.  Sunt  g\u00e2nditori  independen\u0163i,  originali,  cu  sentimente puternice, principii ferme \u015fi integritate personal\u0103. Chiar  \u00een  fa\u0163a  scepticilor,  ei  se  \u00eencred  \u00een  ideile  \u015fi  \u00een  deciziile  lor.  Sunt  motiva\u0163i  de  o  viziune interioar\u0103 pe  care o  apreciaz\u0103  mai mult dec\u00e2t orice altceva,  inclusiv  opiniile  majoritare sau  cele apartin\u00e2nd unor autorit\u0103\u0163i recunoscute. Adesea, INFJ-ii disting in\u0163elesuri mai profunde \u015fi au intui\u0163ii revelatoare.  Inspira\u0163iile  lor  sunt  importante  \u015fi  valide  pentru  ei,  chiar  dac\u0103  al\u0163ii  nu  le  \u00eemp\u0103rt\u0103\u015fesc entuziasmul. INFJ-ii  sunt  loiali,  dedica\u0163i  \u015fi  ideali\u015fti.  Ei  caut\u0103,  \u00een  mod  discret,  dar  cu  insisten\u0163\u0103,  s\u0103  impun\u0103 acceptarea  \u015fi  aplicarea  lor.  Apreciaz\u0103  integritatea  \u015fi  pot  fi  deci\u015fi  p\u00e2n\u0103  la  \u00eenc\u0103p\u0103\u0163inare.  Datorit\u0103 t\u0103riei convingerilor \u015fi a viziunii limpezi a ceea ce este cel mai bun pentru binele general, INFJ-ii pot fi excelen\u0163i conduc\u0103tori. Ei sunt adesea onora\u0163i sau respecta\u0163i pentru contribu\u0163iile aduse. Deoarece  apreciaz\u0103  armonia  \u015fi  \u00een\u0163elegerea,  INFJ-ilor  le  pace  s\u0103-i  conving\u0103  pe  al\u0163ii  de validitatea punctului lor de vedere. Ei ob\u0163in cooperarea altor indivizi, folosind laudele \u015fi aprob\u0103rile, iar nu intimid\u0103rile sau argumentele. INFJ-ii se vor str\u0103dui din r\u0103sputeri s\u0103 promoveze camaraderia \u015fi s\u0103 evite conflictele. Lu\u00e2nd,  \u00een  general,  deciziile  dup\u0103  o  chibzuin\u0163\u0103  atent\u0103,  INFJ-ii  consider\u0103  c\u0103  problemele  sunt stimulatoare  \u015fi  obisnuiesc  s\u0103  reflecteze  cu  aten\u0163ie  \u00eenainte  de  a  ac\u0163iona.  Ei  prefer\u0103  s\u0103  se concentreze  mai  mult  asupra  c\u00e2te  unui  lucru,  pe  r\u00e2nd,  ceea  ce  poate  duce  la  perioade  de unidirec\u0163ionalitate. Afectivi  \u015fi  grijulii,  INFJ-ii  au  o  dorin\u0163\u0103  puternic\u0103  de  a  contribui  la  bun\u0103starea  altora.  Ei  sunt con\u0163tien\u0163i  de  sentimentele  \u015fi  interesele  altor  persoane,  \u015fi  adesea  se  descurc\u0103  bine  cu  indivizi complica\u0163i. INFJ-ii \u00een\u015fi\u015fi au, \u00een general, personalit\u0103\u0163i profunde, complexe, \u015fi pot fi at\u00e2t sensibili, c\u00e2t \u015fi vehemen\u0163i. Pot fi rezerva\u0163i \u015fi greu de cunoscut, dar doritori s\u0103-\u015fi \u00eempart\u0103 fr\u0103m\u00e2nt\u0103rile interioare cu cei \u00een care au \u00eencredere. Obi\u015fnuiesc s\u0103 aib\u0103 un grup restr\u00e2ns de prieteni vechi, fiind capabili s\u0103 genereze entuziasm \u015fi c\u0103ldur\u0103 personal\u0103 \u00een circumstan\u0163ele cuvenite."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.4,
+            "t": 317.666,
+            "r": 193.07600000000002,
+            "b": 306.9221679558011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Posibile puncte nevralgice",
+      "text": "Posibile puncte nevralgice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.4,
+            "t": 300.746,
+            "r": 579.4479999999999,
+            "b": 82.93286187845308,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1450
+          ]
+        }
+      ],
+      "orig": "Deoarece tind s\u0103 fie at\u00e2t de absorbi\u0163i de 'idee', INFJ-ii pot, uneori, s\u0103 fie lipsi\u0163i de spirit practic \u015fi sunt \u00een stare s\u0103 neglijeze detalii de rutin\u0103, ce necesit\u0103 aten\u0163ie. Dac\u0103 vor deveni mai con\u015ftien\u0163i de ceea ce se petrece \u00een jurul lor \u015fi dac\u0103 se vor bizui mai mult pe informa\u0163iile verificate, INFJ-ii \u00ee\u015fi vor ancora ideile creative \u00een lumea real\u0103. INFJ-ii pot fi at\u00e2t de dedica\u0163i principiilor personale, \u00eenc\u00e2t s\u0103-\u015fi dezvolte o viziune tip tunel. Ei pot fi \u00eenc\u0103p\u0103\u0163\u00eena\u015fi \u00een privin\u0163a schimb\u0103rilor, ajung\u00e2nd chiar s\u0103 se opuna modific\u0103rii unei decizii, dup\u0103 ce  aceasta  a  fost  luat\u0103.  Uneori,  trec  cu  vederea  peste  fapte  importante  ce  nu  le  sprijin\u0103 argumentele, sau se opun ideilor ce sunt \u00een contradic\u0163ie cu propriile lor valori. Este posibil s\u0103 nu aud\u0103 obiec\u0163iile altora, fiindc\u0103, pentru ei, pozi\u0163ia lor pare mai presus de orice dubii. INFJ-ii trebuie s\u0103 \u00eencerce s\u0103 se autoexamineze - pe ei, dar \u015fi munca lor - cu mai mult\u0103 obiectivitate, a\u015fa cum o pot face al\u0163ii. Deoarece  sunt  at\u00e2t  de  protectori  fa\u0163\u0103  de  viziunea  personal\u0103,  INFJ-ii  tind  s\u0103  exagereze  cu reglement\u0103rile. Adesea, sunt perfec\u0163ioni\u015fti \u015fi se dovedesc hipersensibili la critici. De\u015fi perseveren\u0163i, au dificult\u0103\u0163i \u00een rezolvarea conflictelor din cadrul rela\u0163iilor, \u015fi pot fi dezam\u0103gi\u0163i sau deziluziona\u0163i dac\u0103 apar asemenea conflicte. Cu c\u00e2t vor fi mai obiectivi \u00een privin\u0163a lor \u015fi a rela\u0163iilor lor, cu at\u00e2t vor fi mai pu\u0163in vulnerabili \u00een fa\u0163a acestor situa\u0163ii.",
+      "text": "Deoarece tind s\u0103 fie at\u00e2t de absorbi\u0163i de 'idee', INFJ-ii pot, uneori, s\u0103 fie lipsi\u0163i de spirit practic \u015fi sunt \u00een stare s\u0103 neglijeze detalii de rutin\u0103, ce necesit\u0103 aten\u0163ie. Dac\u0103 vor deveni mai con\u015ftien\u0163i de ceea ce se petrece \u00een jurul lor \u015fi dac\u0103 se vor bizui mai mult pe informa\u0163iile verificate, INFJ-ii \u00ee\u015fi vor ancora ideile creative \u00een lumea real\u0103. INFJ-ii pot fi at\u00e2t de dedica\u0163i principiilor personale, \u00eenc\u00e2t s\u0103-\u015fi dezvolte o viziune tip tunel. Ei pot fi \u00eenc\u0103p\u0103\u0163\u00eena\u015fi \u00een privin\u0163a schimb\u0103rilor, ajung\u00e2nd chiar s\u0103 se opuna modific\u0103rii unei decizii, dup\u0103 ce  aceasta  a  fost  luat\u0103.  Uneori,  trec  cu  vederea  peste  fapte  importante  ce  nu  le  sprijin\u0103 argumentele, sau se opun ideilor ce sunt \u00een contradic\u0163ie cu propriile lor valori. Este posibil s\u0103 nu aud\u0103 obiec\u0163iile altora, fiindc\u0103, pentru ei, pozi\u0163ia lor pare mai presus de orice dubii. INFJ-ii trebuie s\u0103 \u00eencerce s\u0103 se autoexamineze - pe ei, dar \u015fi munca lor - cu mai mult\u0103 obiectivitate, a\u015fa cum o pot face al\u0163ii. Deoarece  sunt  at\u00e2t  de  protectori  fa\u0163\u0103  de  viziunea  personal\u0103,  INFJ-ii  tind  s\u0103  exagereze  cu reglement\u0103rile. Adesea, sunt perfec\u0163ioni\u015fti \u015fi se dovedesc hipersensibili la critici. De\u015fi perseveren\u0163i, au dificult\u0103\u0163i \u00een rezolvarea conflictelor din cadrul rela\u0163iilor, \u015fi pot fi dezam\u0103gi\u0163i sau deziluziona\u0163i dac\u0103 apar asemenea conflicte. Cu c\u00e2t vor fi mai obiectivi \u00een privin\u0163a lor \u015fi a rela\u0163iilor lor, cu at\u00e2t vor fi mai pu\u0163in vulnerabili \u00een fa\u0163a acestor situa\u0163ii."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}

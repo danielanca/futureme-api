@@ -1,0 +1,464 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "00000073-ENFJ",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15699601915726045661,
+    "filename": "00000073-ENFJ.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 270.41,
+            "t": 790.866,
+            "r": 319.93,
+            "b": 775.7258181818181,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "ENFJ",
+      "text": "ENFJ",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 178.58,
+            "t": 752.28112,
+            "r": 434.65312,
+            "b": 739.68824839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Extravertit, Intuitiv, Afectiv, Judec\u0103tor",
+      "text": "Extravertit, Intuitiv, Afectiv, Judec\u0103tor",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 730.636,
+            "r": 556.156,
+            "b": 692.272861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "ENFJ-ii sunt iubitori de oameni. Ei acord\u0103 cea mai mare importan\u0163\u0103 oamenilor \u015fi rela\u0163iilor, \u015fi  sunt  preocupa\u0163i  \u00een  mod  firesc  de  soarta  celorlal\u0163i.  Privesc  via\u0163a  cu  c\u0103ldur\u0103  \u015fi  se  simt conecta\u0163i personal la toate lucrurile.",
+      "text": "ENFJ-ii sunt iubitori de oameni. Ei acord\u0103 cea mai mare importan\u0163\u0103 oamenilor \u015fi rela\u0163iilor, \u015fi  sunt  preocupa\u0163i  \u00een  mod  firesc  de  soarta  celorlal\u0163i.  Privesc  via\u0163a  cu  c\u0103ldur\u0103  \u015fi  se  simt conecta\u0163i personal la toate lucrurile."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 689.236,
+            "r": 556.0360000000001,
+            "b": 650.872861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            265
+          ]
+        }
+      ],
+      "orig": "Fiind  ni\u015fte  ideali\u015fti  care  tr\u0103iesc  conform  propriilor  valori,  ENFJ-ii  sunt  foarte  loiali oamenilor,  cauzelor  sau  institu\u0163iilor  pe  care  le  respect\u0103  \u015fi  le  admir\u0103.  Sunt  energici  \u015fi entuzia\u015fti, dar \u015fi responsabili, con\u015ftiincio\u015fi \u015fi perseveren\u0163i.",
+      "text": "Fiind  ni\u015fte  ideali\u015fti  care  tr\u0103iesc  conform  propriilor  valori,  ENFJ-ii  sunt  foarte  loiali oamenilor,  cauzelor  sau  institu\u0163iilor  pe  care  le  respect\u0103  \u015fi  le  admir\u0103.  Sunt  energici  \u015fi entuzia\u015fti, dar \u015fi responsabili, con\u015ftiincio\u015fi \u015fi perseveren\u0163i."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 647.836,
+            "r": 556.132,
+            "b": 568.0428618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            543
+          ]
+        }
+      ],
+      "orig": "ENFJ-ii  au  tendin\u0163a  \u00eenn\u0103scut\u0103  de  a  fi  critici.  Cu  toate  acestea,  \u00eentruc\u00e2t  se  simt responsabili pentru sentimentele altora, ei critic\u0103 rareori \u00een public. Sunt extrem de con\u015ftien\u0163i de ceea ce \u00eenseamn\u0103 (\u015fi ce nu \u00eenseamn\u0103) un comportament corespunz\u0103tor \u015fi sunt amabili, \u00eenc\u00e2nt\u0103tori, agreabili \u015fi dispu\u015fi spre socializare. Calmi \u015fi toleran\u0163i, ENFJ-ii sunt diploma\u0163i \u015fi se procep s\u0103 promoveze armonia \u00een jur. Sunt conduc\u0103tori \u00eenn\u0103scu\u0163i, populari \u015fi charismatici. De obicei, sunt buni comunicatori \u015fi-\u015fi folosesc verbal darul exprim\u0103rii.",
+      "text": "ENFJ-ii  au  tendin\u0163a  \u00eenn\u0103scut\u0103  de  a  fi  critici.  Cu  toate  acestea,  \u00eentruc\u00e2t  se  simt responsabili pentru sentimentele altora, ei critic\u0103 rareori \u00een public. Sunt extrem de con\u015ftien\u0163i de ceea ce \u00eenseamn\u0103 (\u015fi ce nu \u00eenseamn\u0103) un comportament corespunz\u0103tor \u015fi sunt amabili, \u00eenc\u00e2nt\u0103tori, agreabili \u015fi dispu\u015fi spre socializare. Calmi \u015fi toleran\u0163i, ENFJ-ii sunt diploma\u0163i \u015fi se procep s\u0103 promoveze armonia \u00een jur. Sunt conduc\u0103tori \u00eenn\u0103scu\u0163i, populari \u015fi charismatici. De obicei, sunt buni comunicatori \u015fi-\u015fi folosesc verbal darul exprim\u0103rii."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 565.006,
+            "r": 555.7460000000007,
+            "b": 526.642861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            268
+          ]
+        }
+      ],
+      "orig": "ENFJ-ii iau decizii, baz\u00e2ndu-se mai degrab\u0103 pe ceea ce simt despre o situa\u0163ie, dec\u00e2t pe realitatea acelei situa\u0163ii. Pe ei \u00eei intereseaz\u0103 posibilit\u0103\u0163ile ce exist\u0103 \u00een spatele a ceea ce este deja evident, ca \u015fi modurile \u00een care aceste posibilit\u0103\u0163i \u00eei pot afecta pe al\u0163ii.",
+      "text": "ENFJ-ii iau decizii, baz\u00e2ndu-se mai degrab\u0103 pe ceea ce simt despre o situa\u0163ie, dec\u00e2t pe realitatea acelei situa\u0163ii. Pe ei \u00eei intereseaz\u0103 posibilit\u0103\u0163ile ce exist\u0103 \u00een spatele a ceea ce este deja evident, ca \u015fi modurile \u00een care aceste posibilit\u0103\u0163i \u00eei pot afecta pe al\u0163ii."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 523.606,
+            "r": 555.8060000000002,
+            "b": 499.04286187845304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "Fiind ordona\u0163i prin natur\u0103, ENFJ-ii prefer\u0103 o lume organizat\u0103 \u015fi se a\u015fteapt\u0103 ca \u015fi ceilal\u0163i s\u0103 fie la fel. Le place ca lucrurile s\u0103 fie stabilite clar, chiar dac\u0103 altcineva ia deciziile.",
+      "text": "Fiind ordona\u0163i prin natur\u0103, ENFJ-ii prefer\u0103 o lume organizat\u0103 \u015fi se a\u015fteapt\u0103 ca \u015fi ceilal\u0163i s\u0103 fie la fel. Le place ca lucrurile s\u0103 fie stabilite clar, chiar dac\u0103 altcineva ia deciziile."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 496.006,
+            "r": 555.8860000000003,
+            "b": 471.4428618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "ENFJ-ii radiaz\u0103 simpatie \u015fi \u00een\u0163elegere, \u00eei \u00eenva\u0163\u0103 \u015fi-i sprijin\u0103 pe al\u0163ii. \u00cei descifreaz\u0103 bine pe oameni, sunt responsabili \u015fi grijulii. Fiind ideali\u015fti, \u00een general caut\u0103 binele \u00een cei din jurul lor.",
+      "text": "ENFJ-ii radiaz\u0103 simpatie \u015fi \u00een\u0163elegere, \u00eei \u00eenva\u0163\u0103 \u015fi-i sprijin\u0103 pe al\u0163ii. \u00cei descifreaz\u0103 bine pe oameni, sunt responsabili \u015fi grijulii. Fiind ideali\u015fti, \u00een general caut\u0103 binele \u00een cei din jurul lor."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 461.83112,
+            "r": 223.31312,
+            "b": 449.2608365082873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Posibile puncte nevralgice",
+      "text": "Posibile puncte nevralgice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 443.306,
+            "r": 556.1320000000001,
+            "b": 349.742861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            639
+          ]
+        }
+      ],
+      "orig": "ENFJ-ii  sunt  at\u00e2t  de  afectivi  \u015fi  de  aten\u0163i  fa\u0163\u0103  de  oameni  \u00eenc\u00e2t  pot  deveni  excesiv  de implica\u0163i \u00een problemele sau \u00een sentimentele altora. Uneori, ei aleg cauze ce nu merit\u0103 timpul \u015fi energia pe care le cheltuiesc. Atunci c\u00e2nd lucrurile nu merg bine, se pot sim\u0163i cople\u015fi\u0163i, pot deveni dezam\u0103gi\u0163i sau deziluziona\u0163i. Acest lucru i-ar putea determina s\u0103 se retrag\u0103, \u00eentruc\u00e2t vor avea senza\u0163ia c\u0103 nu au fost aprecia\u0163i. ENFJ-ii au nevoie s\u0103 \u00eenve\u0163e s\u0103-\u015fi accepte propriile limite, dar \u015fi pe cele ale oamenilor la care \u0163in. \u00cen plus, ei trebuie s\u0103 \u00eenve\u0163e cum \"s\u0103-\u015fi aleag\u0103 b\u0103t\u0103liile\" \u015fi cum s\u0103-\u015fi \u00eentre\u0163in\u0103 ni\u015fte a\u015ftept\u0103ri realiste.",
+      "text": "ENFJ-ii  sunt  at\u00e2t  de  afectivi  \u015fi  de  aten\u0163i  fa\u0163\u0103  de  oameni  \u00eenc\u00e2t  pot  deveni  excesiv  de implica\u0163i \u00een problemele sau \u00een sentimentele altora. Uneori, ei aleg cauze ce nu merit\u0103 timpul \u015fi energia pe care le cheltuiesc. Atunci c\u00e2nd lucrurile nu merg bine, se pot sim\u0163i cople\u015fi\u0163i, pot deveni dezam\u0103gi\u0163i sau deziluziona\u0163i. Acest lucru i-ar putea determina s\u0103 se retrag\u0103, \u00eentruc\u00e2t vor avea senza\u0163ia c\u0103 nu au fost aprecia\u0163i. ENFJ-ii au nevoie s\u0103 \u00eenve\u0163e s\u0103-\u015fi accepte propriile limite, dar \u015fi pe cele ale oamenilor la care \u0163in. \u00cen plus, ei trebuie s\u0103 \u00eenve\u0163e cum \"s\u0103-\u015fi aleag\u0103 b\u0103t\u0103liile\" \u015fi cum s\u0103-\u015fi \u00eentre\u0163in\u0103 ni\u015fte a\u015ftept\u0103ri realiste."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 346.706,
+            "r": 555.9460000000001,
+            "b": 266.912861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            521
+          ]
+        }
+      ],
+      "orig": "Din  cauza  puternicei  lor  dorin\u0163e  de  armonie,  ENFJ-ii  \u00ee\u015fi  pot  neglija  propriile  trebuin\u0163e, ignor\u00e2nd problemele reale. Pentru a evita conflictele, ei men\u0163in uneori rela\u0163ii nu tocmai oneste sau  egale.  ENFJ-ii  sunt  at\u00e2t  de  preocupa\u0163i  de  sentimentele  altora  \u00eenc\u00e2t  pot  fi  orbi  fa\u0163\u0103  de fapte importante, atunci c\u00e2nd situa\u0163ia implic\u0103 r\u0103nirea unor sentimente ori formularea de critici. Este important ca ENFJ-ii s\u0103 \u00eenve\u0163e cum s\u0103 accepte conflictele \u015fi cum s\u0103 le abordeze, ca parte necesar\u0103 a rela\u0163iilor.",
+      "text": "Din  cauza  puternicei  lor  dorin\u0163e  de  armonie,  ENFJ-ii  \u00ee\u015fi  pot  neglija  propriile  trebuin\u0163e, ignor\u00e2nd problemele reale. Pentru a evita conflictele, ei men\u0163in uneori rela\u0163ii nu tocmai oneste sau  egale.  ENFJ-ii  sunt  at\u00e2t  de  preocupa\u0163i  de  sentimentele  altora  \u00eenc\u00e2t  pot  fi  orbi  fa\u0163\u0103  de fapte importante, atunci c\u00e2nd situa\u0163ia implic\u0103 r\u0103nirea unor sentimente ori formularea de critici. Este important ca ENFJ-ii s\u0103 \u00eenve\u0163e cum s\u0103 accepte conflictele \u015fi cum s\u0103 le abordeze, ca parte necesar\u0103 a rela\u0163iilor."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 263.876,
+            "r": 556.072,
+            "b": 211.71286187845305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            351
+          ]
+        }
+      ],
+      "orig": "\u00centruc\u00e2t sunt entuzia\u015fti \u015fi se gr\u0103besc s\u0103 atace urm\u0103toarea provocare, ENFJ-ii fac uneori presupuneri  incorecte,  sau  se  pripesc  \u00een  luarea  deciziilor,  f\u0103r\u0103  s\u0103  adune  toate  datele importante.  Ei  trebuie  s\u0103  reduc\u0103  ritmul  \u015fi  s\u0103  se  preocupe  de  detaliile  proiectelor  lor. A\u015ftept\u00e2nd p\u00e2n\u0103 ce cunosc suficiente date, pot evita gre\u015felile.",
+      "text": "\u00centruc\u00e2t sunt entuzia\u015fti \u015fi se gr\u0103besc s\u0103 atace urm\u0103toarea provocare, ENFJ-ii fac uneori presupuneri  incorecte,  sau  se  pripesc  \u00een  luarea  deciziilor,  f\u0103r\u0103  s\u0103  adune  toate  datele importante.  Ei  trebuie  s\u0103  reduc\u0103  ritmul  \u015fi  s\u0103  se  preocupe  de  detaliile  proiectelor  lor. A\u015ftept\u00e2nd p\u00e2n\u0103 ce cunosc suficiente date, pot evita gre\u015felile."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 208.67599999999993,
+            "r": 556.1080000000001,
+            "b": 170.43286187845308,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "ENFJ-ii  se  concentreaz\u0103  asupra  sentimentelor  \u00een  a\u015fa  m\u0103sur\u0103  \u00eenc\u00e2t  pot  s\u0103  nu  mai disting\u0103  consecin\u0163ele  logice  ale  ac\u0163iunilor  lor.  Ar  fi  util  s\u0103  se  concentreze  asupra  faptelor implicate \u00een deciziile lor, nu doar asupra oamenilor.",
+      "text": "ENFJ-ii  se  concentreaz\u0103  asupra  sentimentelor  \u00een  a\u015fa  m\u0103sur\u0103  \u00eenc\u00e2t  pot  s\u0103  nu  mai disting\u0103  consecin\u0163ele  logice  ale  ac\u0163iunilor  lor.  Ar  fi  util  s\u0103  se  concentreze  asupra  faptelor implicate \u00een deciziile lor, nu doar asupra oamenilor."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 167.39599999999996,
+            "r": 556.156,
+            "b": 87.61286187845303,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            585
+          ]
+        }
+      ],
+      "orig": "ENFJ-ii sunt \u00eenc\u00e2nta\u0163i de laude, dar criticile \u00eei jignesc cu u\u015furin\u0163\u0103, ceea ce \u00eei poate face s\u0103 par\u0103 sensibili. Ei iau \u00een nume personal cea mai inocent\u0103 sau mai bine inten\u0163ionat\u0103 critic\u0103, \u015fi adesea  reac\u0163ioneaz\u0103  exagerat,  devenind  agita\u0163i,  jigni\u0163i  \u015fi  furio\u015fi.  Reac\u0163iile  lor  pot  fi  ilogice ajung\u00e2nd chiar s\u0103 par\u0103 de-a dreptul ira\u0163ionale. Este de preferat ca, \u00eenainte de a reac\u0163iona, ENFJ-ii s\u0103 \u00eencerce s\u0103 priveasc\u0103 obiectiv situa\u0163ia. Dac\u0103 vor \u00eencerca s\u0103 fie mai pu\u0163in sensibili, vor putea distinge informa\u0163iile importante \u015fi utile ce sunt con\u0163inute \u00een criticile constructive.",
+      "text": "ENFJ-ii sunt \u00eenc\u00e2nta\u0163i de laude, dar criticile \u00eei jignesc cu u\u015furin\u0163\u0103, ceea ce \u00eei poate face s\u0103 par\u0103 sensibili. Ei iau \u00een nume personal cea mai inocent\u0103 sau mai bine inten\u0163ionat\u0103 critic\u0103, \u015fi adesea  reac\u0163ioneaz\u0103  exagerat,  devenind  agita\u0163i,  jigni\u0163i  \u015fi  furio\u015fi.  Reac\u0163iile  lor  pot  fi  ilogice ajung\u00e2nd chiar s\u0103 par\u0103 de-a dreptul ira\u0163ionale. Este de preferat ca, \u00eenainte de a reac\u0163iona, ENFJ-ii s\u0103 \u00eencerce s\u0103 priveasc\u0103 obiectiv situa\u0163ia. Dac\u0103 vor \u00eencerca s\u0103 fie mai pu\u0163in sensibili, vor putea distinge informa\u0163iile importante \u015fi utile ce sunt con\u0163inute \u00een criticile constructive."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.32,
+        "height": 842.04
+      },
+      "page_no": 1
+    }
+  }
+}

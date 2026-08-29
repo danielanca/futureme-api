@@ -1,0 +1,434 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "00000081-INFP",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5575570073201546723,
+    "filename": "00000081-INFP.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 284.57,
+            "t": 783.9060000000001,
+            "r": 331.09,
+            "b": 768.7658181818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "INFP",
+      "text": "INFP",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 199.97,
+            "t": 749.716,
+            "r": 412.726,
+            "b": 738.9528618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Introvertit. Intuitiv, Afectiv, Perceptiv",
+      "text": "Introvertit. Intuitiv, Afectiv, Perceptiv",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 731.356,
+            "r": 556.0060000000001,
+            "b": 693.112861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            289
+          ]
+        }
+      ],
+      "orig": "INFP-ii  apreciaz\u0103  armonia  interioar\u0103  mai  mult  dec\u00e2t  orice  altceva.  Sensibili,  ideali\u015fti  \u015fi loiali, ei au un puternic sim\u0163 al onoarei \u00een privin\u0163a valorilor personale, \u015fi adesea sunt motiva\u0163i de o profund\u0103 credin\u0163\u0103 sau de devotamentul pentru o cauz\u0103 pe care o consider\u0103 meritorie.",
+      "text": "INFP-ii  apreciaz\u0103  armonia  interioar\u0103  mai  mult  dec\u00e2t  orice  altceva.  Sensibili,  ideali\u015fti  \u015fi loiali, ei au un puternic sim\u0163 al onoarei \u00een privin\u0163a valorilor personale, \u015fi adesea sunt motiva\u0163i de o profund\u0103 credin\u0163\u0103 sau de devotamentul pentru o cauz\u0103 pe care o consider\u0103 meritorie."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 688.516,
+            "r": 556.18,
+            "b": 622.6728618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            473
+          ]
+        }
+      ],
+      "orig": "INFP-ii sunt interesa\u0163i de posibilit\u0103\u0163ile aflate dincolo de ceea ce este deja cunoscut \u015fi-\u015fi focalizeaz\u0103 majoritatea energiilor asupra viselor \u015fi viziunilor lor. Extrem de receptivi, curio\u015fi \u015fi perceptivi, ei de\u0163in adesea o excelent\u0103 perspectiv\u0103 pe termen lung. \u00cen problemele cotidiene, sunt de obicei flexibili,  toleran\u0163i  \u015fi  adaptabili,  dar  fermi  \u00een  privin\u0163a  loialit\u0103\u0163ilor  interioare  \u015fi-\u015fi stabilesc standarde foarte \u00eenalte - practic, aproape imposibil de atins.",
+      "text": "INFP-ii sunt interesa\u0163i de posibilit\u0103\u0163ile aflate dincolo de ceea ce este deja cunoscut \u015fi-\u015fi focalizeaz\u0103 majoritatea energiilor asupra viselor \u015fi viziunilor lor. Extrem de receptivi, curio\u015fi \u015fi perceptivi, ei de\u0163in adesea o excelent\u0103 perspectiv\u0103 pe termen lung. \u00cen problemele cotidiene, sunt de obicei flexibili,  toleran\u0163i  \u015fi  adaptabili,  dar  fermi  \u00een  privin\u0163a  loialit\u0103\u0163ilor  interioare  \u015fi-\u015fi stabilesc standarde foarte \u00eenalte - practic, aproape imposibil de atins."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 618.0459999999999,
+            "r": 555.8300000000006,
+            "b": 593.482861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "INFP-ii  au  multe  idealuri  \u015fi  loialit\u0103\u0163i  care-i  \u0163in  ocupa\u0163i.  Sunt  extrem  de  dedica\u0163i  fa\u0163\u0103  de orice decid s\u0103 realizeze - \u015fi tind s\u0103 realizeze prea multe, \u00eens\u0103, cumva, reu\u015fesc s\u0103 fac\u0103 totul.",
+      "text": "INFP-ii  au  multe  idealuri  \u015fi  loialit\u0103\u0163i  care-i  \u0163in  ocupa\u0163i.  Sunt  extrem  de  dedica\u0163i  fa\u0163\u0103  de orice decid s\u0103 realizeze - \u015fi tind s\u0103 realizeze prea multe, \u00eens\u0103, cumva, reu\u015fesc s\u0103 fac\u0103 totul."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 589.006,
+            "r": 556.156,
+            "b": 523.0428618784531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            481
+          ]
+        }
+      ],
+      "orig": "De\u015fi \u00een exterior se arat\u0103 reci, rezerva\u0163i, ei sunt foarte sensibili. Sunt comp\u0103timitori, plini de  \u00een\u0163elegere  \u015fi  sim\u0163itori  la  sentimentele  altora.  Evit\u0103  conflictele  \u015fi  nu-i  intereseaz\u0103  s\u0103-i impresioneze ori s\u0103-i domine pe al\u0163ii, cu excep\u0163ia cazurilor \u00een care le sunt puse la \u00eendoial\u0103 valorile proprii. Adesea, prefer\u0103 s\u0103-\u015fi comunice sentimentele \u00een scris, nu verbal. Atunci c\u00e2nd le vorbesc altora despre importan\u0163a idealurilor lor, INFP-ii pot fi extrem de conving\u0103tori.",
+      "text": "De\u015fi \u00een exterior se arat\u0103 reci, rezerva\u0163i, ei sunt foarte sensibili. Sunt comp\u0103timitori, plini de  \u00een\u0163elegere  \u015fi  sim\u0163itori  la  sentimentele  altora.  Evit\u0103  conflictele  \u015fi  nu-i  intereseaz\u0103  s\u0103-i impresioneze ori s\u0103-i domine pe al\u0163ii, cu excep\u0163ia cazurilor \u00een care le sunt puse la \u00eendoial\u0103 valorile proprii. Adesea, prefer\u0103 s\u0103-\u015fi comunice sentimentele \u00een scris, nu verbal. Atunci c\u00e2nd le vorbesc altora despre importan\u0163a idealurilor lor, INFP-ii pot fi extrem de conving\u0103tori."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 518.446,
+            "r": 556.108,
+            "b": 466.28286187845305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            341
+          ]
+        }
+      ],
+      "orig": "INFP-ii \u00ee\u015fi exprim\u0103 rareori intensitatea sentimentelor \u015fi par reticen\u0163i \u015fi deta\u015fa\u0163i; cu toate acestea, dup\u0103 ce ajung s\u0103 v\u0103 cunoasc\u0103, devin entuzia\u015fti \u015fi calzi. INFP-ii sunt prieteno\u015fi, dar tind  s\u0103  evite  socializarea  superficial\u0103.  Ei  \u00eei  apreciaz\u0103  pe  oamenii  care  \u00ee\u015fi  sacrific\u0103  timpul pentru a le \u00een\u0163elege obiectivele \u015fi valorile.",
+      "text": "INFP-ii \u00ee\u015fi exprim\u0103 rareori intensitatea sentimentelor \u015fi par reticen\u0163i \u015fi deta\u015fa\u0163i; cu toate acestea, dup\u0103 ce ajung s\u0103 v\u0103 cunoasc\u0103, devin entuzia\u015fti \u015fi calzi. INFP-ii sunt prieteno\u015fi, dar tind  s\u0103  evite  socializarea  superficial\u0103.  Ei  \u00eei  apreciaz\u0103  pe  oamenii  care  \u00ee\u015fi  sacrific\u0103  timpul pentru a le \u00een\u0163elege obiectivele \u015fi valorile."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 446.546,
+            "r": 199.346,
+            "b": 435.8021679558011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Posibile puncte nevralgice",
+      "text": "Posibile puncte nevralgice",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 429.626,
+            "r": 555.9580000000002,
+            "b": 377.46286187845305,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            386
+          ]
+        }
+      ],
+      "orig": "Deoarece  logica  nu  constituie  o  prioritate  pentru  INFP-i,  ei  fac  uneori  gre\u015feli  \u015fi,  este posibil, s\u0103 nu-\u015fi dea seama c\u0103 sunt ilogici. Atunci c\u00e2nd visele lor se rup de realitate, al\u0163ii \u00eei pot considera  schimb\u0103tori  \u015fi  mistici.  Este  bine  ca  INFP-ii  s\u0103  cear\u0103  sfatul  unor  persoane  mai practice, pentru a afla dac\u0103 ideile lor sunt aplicabile \u015fi utile \u00een lumea real\u0103.",
+      "text": "Deoarece  logica  nu  constituie  o  prioritate  pentru  INFP-i,  ei  fac  uneori  gre\u015feli  \u015fi,  este posibil, s\u0103 nu-\u015fi dea seama c\u0103 sunt ilogici. Atunci c\u00e2nd visele lor se rup de realitate, al\u0163ii \u00eei pot considera  schimb\u0103tori  \u015fi  mistici.  Este  bine  ca  INFP-ii  s\u0103  cear\u0103  sfatul  unor  persoane  mai practice, pentru a afla dac\u0103 ideile lor sunt aplicabile \u015fi utile \u00een lumea real\u0103."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 372.866,
+            "r": 555.9100000000004,
+            "b": 334.622861878453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "Fiind at\u00e2t de dedica\u0163i propriilor idealuri, INFP-ii au tendin\u0163a s\u0103 nu \u0163in\u0103 seama de alte opinii \u015fi  pot  fi  uneori  rigizi.  Nu  sunt  foarte  interesa\u0163i  de  lumea  fizic\u0103  \u00eenconjur\u0103toare  \u015fi,  adesea, preocup\u0103rile lor \u00eei \u00eempiedic\u0103 s\u0103 observe ce se petrece \u00een jur.I",
+      "text": "Fiind at\u00e2t de dedica\u0163i propriilor idealuri, INFP-ii au tendin\u0163a s\u0103 nu \u0163in\u0103 seama de alte opinii \u015fi  pot  fi  uneori  rigizi.  Nu  sunt  foarte  interesa\u0163i  de  lumea  fizic\u0103  \u00eenconjur\u0103toare  \u015fi,  adesea, preocup\u0103rile lor \u00eei \u00eempiedic\u0103 s\u0103 observe ce se petrece \u00een jur.I"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 330.02600000000007,
+            "r": 556.0600000000001,
+            "b": 250.23286187845304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            475
+          ]
+        }
+      ],
+      "orig": "INFP-ii pot reflecta asupra unei idei mai mult dec\u00e2t este cu adev\u0103rat necesar, pentru a \u00eencepe un proiect. Tendin\u0163ele lor perfec\u0163ioniste \u00eei pot conduce spre o rafinare \u015fi o lustruire at\u00e2t de \u00eendelungat\u0103 a propriilor idei \u00eenc\u00e2t nu mai ajung s\u0103 le \u00eemp\u0103rt\u0103\u015feasc\u0103 niciodat\u0103. Acest lucru este periculos, \u00eentruc\u00e2t pentru ei este important s\u0103 g\u0103seasc\u0103 modalit\u0103\u0163i de exprimare a ideilor. Pentru a nu fi descuraja\u0163i, ei trebuie s\u0103 se str\u0103duiasc\u0103 s\u0103 se orienteze mai mult spre ac\u0163iune.",
+      "text": "INFP-ii pot reflecta asupra unei idei mai mult dec\u00e2t este cu adev\u0103rat necesar, pentru a \u00eencepe un proiect. Tendin\u0163ele lor perfec\u0163ioniste \u00eei pot conduce spre o rafinare \u015fi o lustruire at\u00e2t de \u00eendelungat\u0103 a propriilor idei \u00eenc\u00e2t nu mai ajung s\u0103 le \u00eemp\u0103rt\u0103\u015feasc\u0103 niciodat\u0103. Acest lucru este periculos, \u00eentruc\u00e2t pentru ei este important s\u0103 g\u0103seasc\u0103 modalit\u0103\u0163i de exprimare a ideilor. Pentru a nu fi descuraja\u0163i, ei trebuie s\u0103 se str\u0103duiasc\u0103 s\u0103 se orienteze mai mult spre ac\u0163iune."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 245.63599999999997,
+            "r": 556.0840000000001,
+            "b": 152.19286187845307,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            634
+          ]
+        }
+      ],
+      "orig": "INFP-ii sunt at\u00e2t de prin\u015fi emo\u0163ional \u00een obliga\u0163iile lor, \u00eenc\u00e2t sunt foarte sensibili la critici. Complic\u00e2nd  suplimentar  lucrurile,  ei  au  predilec\u0163ia  de  a  solicita  prea  mult  de  la  propria persoan\u0103, pe m\u0103sur\u0103 ce aspir\u0103 spre standardele lor inaccesibil de ridicate. Aceasta poate duce la  sentimente  de  incompeten\u0163\u0103,  de\u015fi  ei  sunt  capabili  de  a  reu\u015fi  multe  lucruri.  Atunci c\u00e2nd  sunt  dezam\u0103gi\u0163i,  INFP-ii  tind  s\u0103  devin\u0103  negativi\u015fti  fa\u0163\u0103  de  tot  ceea  ce-i  \u00eenconjoar\u0103. \u00cencercarea de a dezvolta mai mult\u0103 obiectivitate fa\u0163\u0103 de proiecte \u00eei va ajuta s\u0103 fie mai pu\u0163in vulnerabili la critici \u015fi la dezam\u0103giri.",
+      "text": "INFP-ii sunt at\u00e2t de prin\u015fi emo\u0163ional \u00een obliga\u0163iile lor, \u00eenc\u00e2t sunt foarte sensibili la critici. Complic\u00e2nd  suplimentar  lucrurile,  ei  au  predilec\u0163ia  de  a  solicita  prea  mult  de  la  propria persoan\u0103, pe m\u0103sur\u0103 ce aspir\u0103 spre standardele lor inaccesibil de ridicate. Aceasta poate duce la  sentimente  de  incompeten\u0163\u0103,  de\u015fi  ei  sunt  capabili  de  a  reu\u015fi  multe  lucruri.  Atunci c\u00e2nd  sunt  dezam\u0103gi\u0163i,  INFP-ii  tind  s\u0103  devin\u0103  negativi\u015fti  fa\u0163\u0103  de  tot  ceea  ce-i  \u00eenconjoar\u0103. \u00cencercarea de a dezvolta mai mult\u0103 obiectivitate fa\u0163\u0103 de proiecte \u00eei va ajuta s\u0103 fie mai pu\u0163in vulnerabili la critici \u015fi la dezam\u0103giri."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64,
+            "t": 147.57600000000002,
+            "r": 556.0720000000001,
+            "b": 67.81286187845308,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            518
+          ]
+        }
+      ],
+      "orig": "Fiindc\u0103 tind s\u0103 \u00eencerce s\u0103 plac\u0103 simultan mai multor oameni, pentru INFP-i poate fi greu s\u0103 adopte o pozi\u0163ie nepopular\u0103. Ei ezit\u0103 s\u0103-i critice pe al\u0163ii, \u015fi le vine greu s\u0103 refuze. Atunci c\u00e2nd nu-\u015fi exprim\u0103 opiniile negative despre idei sau planuri, \u00eei pot induce \u00een eroare pe cei din jur,  f\u0103c\u00e2ndu-i  s\u0103  cread\u0103  c\u0103  ar  fi  de  acord  cu  ei.  INFP-ii  trebuie  s\u0103-\u015fi  dezvolte  mai  mult\u0103 agresivitate \u015fi pot beneficia din \u00eenv\u0103\u0163area felului \u00een care trebuie s\u0103-i critice \u00een mod onest pe al\u0163ii, atunci c\u00e2nd este cazul.",
+      "text": "Fiindc\u0103 tind s\u0103 \u00eencerce s\u0103 plac\u0103 simultan mai multor oameni, pentru INFP-i poate fi greu s\u0103 adopte o pozi\u0163ie nepopular\u0103. Ei ezit\u0103 s\u0103-i critice pe al\u0163ii, \u015fi le vine greu s\u0103 refuze. Atunci c\u00e2nd nu-\u015fi exprim\u0103 opiniile negative despre idei sau planuri, \u00eei pot induce \u00een eroare pe cei din jur,  f\u0103c\u00e2ndu-i  s\u0103  cread\u0103  c\u0103  ar  fi  de  acord  cu  ei.  INFP-ii  trebuie  s\u0103-\u015fi  dezvolte  mai  mult\u0103 agresivitate \u015fi pot beneficia din \u00eenv\u0103\u0163area felului \u00een care trebuie s\u0103-i critice \u00een mod onest pe al\u0163ii, atunci c\u00e2nd este cazul."
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.32,
+        "height": 842.04
+      },
+      "page_no": 1
+    }
+  }
+}
