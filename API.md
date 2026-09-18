@@ -13,13 +13,21 @@ Cheia Anthropic rămâne doar pe server. Fișierele sunt încărcate o singură 
 
 ## Chat
 
+Fiecare conversație are un `sessionId` (generat de aplicația Flutter, de exemplu id-ul sesiunii de chestionare). La primul mesaj al sesiunii, aplicația trimite și `result` — rezultatul generat după seria de întrebări psihologice (string sau obiect JSON, de ex. tipul MBTI, codul Holland, stilul decizional). Serverul reține acest rezultat per `sessionId` în `data/sessions.json` și îl folosește ca reper principal, corelat cu documentele din knowledge base, pentru toate mesajele ulterioare din aceeași sesiune — nu mai este nevoie să fie retrimis.
+
 ```bash
+# primul mesaj al sesiunii — include rezultatul
 curl -X POST http://127.0.0.1:3000/chat \
   -H 'Content-Type: application/json' \
-  -d '{"message":"Care este informația relevantă pentru mine?"}'
+  -d '{"sessionId":"abc123","message":"Ce înseamnă rezultatul meu?","result":{"mbti":"INFP","hollandCode":"AIS"}}'
+
+# mesajele următoare din aceeași sesiune — doar sessionId și message
+curl -X POST http://127.0.0.1:3000/chat \
+  -H 'Content-Type: application/json' \
+  -d '{"sessionId":"abc123","message":"Ce joburi mi s-ar potrivi?"}'
 ```
 
-Răspunsul conține `answer` și sursele găsite, când OpenAI returnează citări.
+Răspunsul conține `answer` și sursele găsite din knowledge base. `result` poate fi retrimis oricând pentru a actualiza rezultatul reținut al sesiunii (de exemplu după re-testare).
 
 ## Upload și indexare documente
 

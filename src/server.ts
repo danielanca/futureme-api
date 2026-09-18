@@ -11,12 +11,16 @@ const app = Fastify({ logger: true });
 const anthropic = process.env.ANTHROPIC_API_KEY ? new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY }) : null;
 const dataDir = path.resolve(process.env.DATA_DIR ?? 'data');
 const statePath = path.join(dataDir, 'claude-files.json');
+const sessionsPath = path.join(dataDir, 'sessions.json');
 const chunkSize = 1_200;
+const maxResultLength = 20_000;
 
 type Chunk = { text: string; filename: string };
 type IndexedFile = { hash: string; fileId: string; filename: string; chunks: Chunk[] };
 type State = { files: IndexedFile[] };
 type KnowledgeCategory = { keywords: string[]; paths: string[] };
+type SessionRecord = { result: unknown; resultText: string; updatedAt: string };
+type SessionsState = { sessions: Record<string, SessionRecord> };
 
 async function loadState(): Promise<State> {
   try { return JSON.parse(await readFile(statePath, 'utf8')) as State; } catch { return { files: [] }; }
@@ -24,6 +28,16 @@ async function loadState(): Promise<State> {
 async function saveState(state: State) {
   await mkdir(dataDir, { recursive: true });
   await writeFile(statePath, JSON.stringify(state, null, 2));
+}
+async function loadSessions(): Promise<SessionsState> {
+  try { return JSON.parse(await readFile(sessionsPath, 'utf8')) as SessionsState; } catch { return { sessions: {} }; }
+}
+async function saveSessions(state: SessionsState) {
+  await mkdir(dataDir, { recursive: true });
+  await writeFile(sessionsPath, JSON.stringify(state, null, 2));
+}
+function resultToText(result: unknown): string {
+  return typeof result === 'string' ? result.trim() : JSON.stringify(result, null, 2);
 }
 async function loadProcessedFiles(): Promise<IndexedFile[]> {
   const processedDir = path.resolve('knowledge/psychology/processed');
@@ -80,23 +94,44 @@ await app.register(multipart, { limits: { fileSize: 25 * 1024 * 1024, files: 20 
 app.get('/health', async () => ({ status: 'ok', service: 'futureme-api', timestamp: new Date().toISOString() }));
 app.get('/v1', async () => ({ service: 'FutureMe API', version: 'v1', status: 'ready' }));
 
-app.post<{ Body: { message?: string } }>('/chat', async (request, reply) => {
+app.post<{ Body: { sessionId?: string; message?: string; result?: unknown } }>('/chat', async (request, reply) => {
+  const sessionId = typeof request.body?.sessionId === 'string' ? request.body.sessionId.trim() : '';
   const message = typeof request.body?.message === 'string' ? request.body.message.trim() : '';
+  if (!sessionId) return reply.code(400).send({ error: 'Câmpul "sessionId" este obligatoriu.' });
+  if (sessionId.length > 200) return reply.code(400).send({ error: 'sessionId este prea lung.' });
   if (!message) return reply.code(400).send({ error: 'Câmpul "message" este obligatoriu.' });
   if (message.length > 10_000) return reply.code(400).send({ error: 'Mesajul este prea lung.' });
   if (!anthropic) return reply.code(503).send({ error: 'Serviciul Claude nu este configurat.' });
+
+  const hasResult = Object.prototype.hasOwnProperty.call(request.body ?? {}, 'result') && request.body.result !== undefined && request.body.result !== null;
+  let resultText = '';
+  if (hasResult) {
+    resultText = resultToText(request.body.result);
+    if (resultText.length > maxResultLength) return reply.code(400).send({ error: 'Rezultatul sesiunii este prea lung.' });
+  }
+
   try {
+    const sessions = await loadSessions();
+    if (hasResult) {
+      sessions.sessions[sessionId] = { result: request.body.result, resultText, updatedAt: new Date().toISOString() };
+      await saveSessions(sessions);
+    } else {
+      resultText = sessions.sessions[sessionId]?.resultText ?? '';
+    }
+
     const state = await loadState();
     const processedFiles = await loadProcessedFiles();
     const allFiles = [...processedFiles, ...state.files];
-    const routed = await routedFiles(message, allFiles);
-    const chunks = relevantChunks(message, routed);
+    const routingQuery = resultText ? `${resultText}\n${message}` : message;
+    const routed = await routedFiles(routingQuery, allFiles);
+    const chunks = relevantChunks(routingQuery, routed);
     const context = chunks.length ? chunks.map((chunk, index) => `[Sursa ${index + 1}: ${chunk.filename}]\n${chunk.text}`).join('\n\n') : '(Nu au fost găsite fragmente relevante în baza de cunoștințe.)';
+    const resultSection = resultText ? resultText : '(Niciun rezultat de sesiune nu a fost furnizat încă.)';
     const response = await anthropic.messages.create({
       model: process.env.ANTHROPIC_MODEL ?? 'claude-sonnet-4-5',
       max_tokens: Number(process.env.CLAUDE_MAX_TOKENS ?? 1_200),
-      system: 'Ești asistentul AI al aplicației FutureMe, o aplicație de psihologie și orientare personală. Răspunde în română, cald, empatic și clar, în maximum 3-5 propoziții. Folosește cu prioritate și ca sursă principală fragmentele din knowledge base-ul local, în special fișierele din knowledge/psychology/processed. Bazează răspunsul mai întâi pe aceste documente, iar numai dacă informația nu apare acolo poți folosi cunoștințe generale; în acest caz precizează că răspunsul este general și nu provine din documentele FutureMe. Nu inventa și nu prezenta presupunerile ca fapte. Nu pune diagnostice și nu folosi etichete definitive; explică faptul că informațiile sunt orientative și nu înlocuiesc un psiholog sau medic. Pentru situații de criză, auto-vătămare sau pericol imediat, recomandă contactarea serviciilor locale de urgență și a unui adult sau specialist de încredere.',
-      messages: [{ role: 'user', content: `Întrebarea utilizatorului:\n${message}\n\nContext din baza de cunoștințe:\n${context}` }],
+      system: 'Ești asistentul AI al aplicației FutureMe, o aplicație de psihologie și orientare personală. Răspunde întotdeauna în aceeași limbă în care utilizatorul a scris mesajul (de exemplu, dacă întrebarea este în engleză, răspunde în engleză); dacă limba mesajului nu este clară, răspunde în română. Fii cald, empatic și clar, în maximum 3-5 propoziții. La începutul conversației, utilizatorul primește rezultatul unei sesiuni de întrebări psihologice (de exemplu tip MBTI, stil decizional sau cod Holland); acest rezultat este furnizat mai jos la secțiunea „Rezultatul sesiunii utilizatorului” și trebuie folosit ca reper principal pentru a personaliza și contextualiza răspunsul pe tot parcursul conversației, chiar dacă nu mai este retransmis la fiecare mesaj. Corelează rezultatul sesiunii cu fragmentele din knowledge base-ul local, în special fișierele din knowledge/psychology/processed, și folosește-le ca sursă principală. Bazează răspunsul mai întâi pe rezultatul sesiunii și pe aceste documente, iar numai dacă informația nu apare acolo poți folosi cunoștințe generale; în acest caz precizează că răspunsul este general și nu provine din documentele FutureMe. Nu inventa și nu prezenta presupunerile ca fapte. Nu pune diagnostice și nu folosi etichete definitive; explică faptul că informațiile sunt orientative și nu înlocuiesc un psiholog sau medic. Pentru situații de criză, auto-vătămare sau pericol imediat, recomandă contactarea serviciilor locale de urgență și a unui adult sau specialist de încredere.',
+      messages: [{ role: 'user', content: `Rezultatul sesiunii utilizatorului:\n${resultSection}\n\nÎntrebarea utilizatorului:\n${message}\n\nContext din baza de cunoștințe:\n${context}` }],
     });
     return { answer: textFromResponse(response), sources: [...new Set(chunks.map((chunk) => chunk.filename))] };
   } catch (error) {
