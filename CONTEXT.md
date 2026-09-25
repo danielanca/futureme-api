@@ -15,6 +15,7 @@ Backendul oferă un API pentru aplicația Flutter FutureMe. Cheia Anthropic răm
 - `src/server.ts` — serverul Fastify și endpointurile API.
 - `knowledge/psychology/` — documentele importante despre psihologie, orientare și metodologia FutureMe.
 - `data/claude-files.json` — stare locală generată automat: fișierele Claude, hash-urile și fragmentele indexate. Nu se versionează.
+- `data/sessions.json` — stare locală generată automat: rezultatul sesiunii de chestionare psihologice, reținut per `sessionId`. Nu se versionează.
 - `.env` — secrete și configurări locale. Nu se versionază.
 - `API.md` — instrucțiuni pentru pornire, chat și indexarea documentelor.
 
@@ -52,6 +53,14 @@ Backendul oferă un API pentru aplicația Flutter FutureMe. Cheia Anthropic răm
 - A fost creat folderul `knowledge/psychology/` pentru materialele de psihologie.
 - Au fost convertite toate cele 36 de PDF-uri din `knowledge/psychology/raw/` în Markdown și JSON în `knowledge/psychology/processed/`, fără OCR în primul lot.
 - Au fost păstrate fișierele originale; OCR-ul rămâne un lot separat pentru PDF-urile scanate.
+
+### 2026-09-18
+
+- `POST /chat` cere acum și `sessionId` (obligatoriu) și acceptă opțional `result` — rezultatul generat de aplicație după seria de întrebări psihologice.
+- Rezultatul sesiunii este reținut per `sessionId` în `data/sessions.json` (fișier nou) și este refolosit automat la mesajele ulterioare din aceeași sesiune, fără să mai fie retrimis de client.
+- Rezultatul sesiunii este inclus explicit în promptul trimis către Claude („Rezultatul sesiunii utilizatorului”) și este folosit și pentru rutarea/scorarea fragmentelor din knowledge base, ca reper principal alături de documentele indexate.
+- Motiv: API-ul deservește un flux în care utilizatorul discută cu bot-ul despre rezultatul propriei sesiuni de testare psihologică; fără acest rezultat, chatul nu avea nicio legătură cu sesiunea utilizatorului.
+- Fișiere afectate: `src/server.ts`, `API.md`, `CONTEXT.md`.
 
 ## Instrucțiuni pentru modificări viitoare
 
